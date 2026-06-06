@@ -7,6 +7,7 @@ import {
 } from "./data/lexiconData";
 import { supabase } from "./supabase";
 import logo from "./assets/logo.png";
+import { MANUAL_ANTONYMS } from "./data/manualAntonyms";
 
 const BAD_TEXT = [
   "youtube",
@@ -17,7 +18,6 @@ const BAD_TEXT = [
   "instagram",
   "twitter",
   "currentmudde",
-   ,
   "support@",
   "@noteshub",
   "noteshub",
@@ -35,9 +35,13 @@ const BAD_TEXT = [
   "https",
   "http",
   "t.me",
-   ,
-   ,
+  "Follow us on https:www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal ; t.me/NimishaMam",
+  "English with Nimisha Bansal",
 ];
+const cleanWord = (word = "") =>
+  String(word)
+    .replace(/\s+Meaning\s*$/i, "")
+    .trim();
 
 const normalize = (text = "") =>
   String(text)
@@ -63,14 +67,19 @@ const isBadText = (text = "") => {
 
 const cleanMeaning = (meaning = "") => {
   const text = String(meaning)
+    .replace(/Follow us on.*?(NimishaMam|$)/gi, "")
+    .replace(/English with Nimisha Bansal/gi, "")
+    .replace(/NimishaMam/gi, "")
+    .replace(/Nimisha Bansal/gi, "")
+    .replace(/https?:\/\/\S+/gi, "")
+    .replace(/https:;\s*\S+/gi, "")
+    .replace(/www\.\S+/gi, "")
+    .replace(/t\.me\/\S+/gi, "")
+    .replace(/Most repeated SSC PYQ vocabulary word\. See synonyms and antonyms/gi, "")
     .replace(/\s+/g, " ")
     .replace(/^Definition:\s*/i, "")
     .replace(/,?\s*Definition:\s*/i, " — ")
     .trim();
-
-  if (/most repeated ssc pyq vocabulary word/i.test(text)) {
-    return "";
-  }
 
   return text;
 };
@@ -143,15 +152,14 @@ export default function App() {
   });
 
   const cleanItem = (item, fallbackType = "Word") => ({
-    ...item,
-    word: String(item?.word || "").trim(),
-    type: item?.type || fallbackType,
-    meaning: cleanMeaning(item?.meaning || ""),
-    synonyms: uniqueWords(item?.synonyms || []),
-    antonyms: uniqueWords(item?.antonyms || []),
-    example: String(item?.example || "").trim(),
-  });
-
+  ...item,
+  word: cleanWord(item?.word || ""),
+  type: item?.type || fallbackType,
+  meaning: cleanMeaning(item?.meaning || ""),
+  synonyms: uniqueWords(item?.synonyms || []),
+  antonyms: uniqueWords(item?.antonyms || []),
+  example: cleanMeaning(item?.example || ""),
+});
   const banks = useMemo(() => {
     const cleanVocab = (vocabularyWords || [])
       .map((x) => cleanItem(x, "Vocabulary"))
@@ -395,10 +403,12 @@ export default function App() {
         ...(relatedData?.synonyms || []),
       ]),
       antonyms: uniqueWords([
-        ...(base.antonyms || []),
-        ...(dictionaryData?.antonyms || []),
-        ...(relatedData?.antonyms || []),
-      ]),
+  ...(base.antonyms || []),
+  ...(dictionaryData?.antonyms || []),
+  ...(relatedData?.antonyms || []),
+  ...(MANUAL_ANTONYMS[normalize(base.word)] || []),
+  ...(MANUAL_ANTONYMS[normalize(searchQuery)] || []),
+]),
     });
   };
 
@@ -638,7 +648,7 @@ const addMyWord = async () => {
               <div className="border-b border-slate-700 pb-5 flex flex-col md:flex-row md:justify-between md:items-start gap-4">
                 <div>
                   <h2 className="text-5xl font-black capitalize text-white">
-                    {activeItem.word}
+                    {cleanWord(activeItem.word)}
                   </h2>
 
                   <div className="flex flex-wrap gap-2 mt-3">
