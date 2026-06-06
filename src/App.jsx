@@ -6,6 +6,7 @@ import {
   oneWordSubstitutions,
 } from "./data/lexiconData";
 import { supabase } from "./supabase";
+import logo from "./assets/logo.png";
 
 const BAD_TEXT = [
   "youtube",
@@ -566,9 +567,13 @@ const addMyWord = async () => {
     <div className="min-h-screen bg-slate-950 text-slate-100 p-4 md:p-8 selection:bg-cyan-500/30">
       <header className="max-w-7xl mx-auto mb-8 border-b border-slate-800 pb-6 flex flex-col md:flex-row justify-between gap-4">
         <div className="flex items-center gap-4">
-          <div className="w-14 h-14 rounded-2xl bg-gradient-to-br from-cyan-400 via-indigo-500 to-violet-600 flex items-center justify-center shadow-lg shadow-indigo-500/40">
-            <span className="text-white font-black text-2xl">L</span>
-          </div>
+          <div className="w-16 h-16">
+  <img
+    src={logo}
+    alt="Lexicon Logo"
+    className="w-full h-full object-contain"
+  />
+</div>
 
           <div>
             <h1 className="text-5xl font-extrabold tracking-tight bg-gradient-to-r from-cyan-300 via-indigo-300 to-violet-300 bg-clip-text text-transparent">
@@ -994,6 +999,12 @@ const addMyWord = async () => {
           </div>
         </aside>
       </main>
+      <footer className="text-center text-slate-500 text-sm py-6 border-t border-slate-800 mt-8">
+  <p>Made with ❤️ by Abhinav Tiwari</p>
+  <p className="mt-1 text-xs text-slate-600">
+    Lexicon © 2026 • Expand Your World
+  </p>
+</footer>
     </div>
   );
 }
