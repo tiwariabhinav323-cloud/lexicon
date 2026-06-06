@@ -4,7 +4,7 @@
 
 export const vocabularyWords = [
   {
-    "word": "A big shot ,
+    "word": "A big shot Meaning",
     "type": "Word",
     "meaning": "An important or influential person",
     "synonyms": [],
@@ -13,7 +13,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "A blessing in disguise ,
+    "word": "A blessing in disguise Meaning",
     "type": "Word",
     "meaning": "an apparent misfortune that eventually has good results",
     "synonyms": [],
@@ -22,7 +22,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "A bolt from the blue ,
+    "word": "A bolt from the blue Meaning",
     "type": "Word",
     "meaning": "a sudden and unexpected event or piece of news",
     "synonyms": [],
@@ -31,7 +31,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "A bone to pick ,
+    "word": "A bone to pick Meaning",
     "type": "Word",
     "meaning": "to have a grievance or complaint that needs to be discussed with someone",
     "synonyms": [],
@@ -40,7 +40,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "A bunch of baloney ,
+    "word": "A bunch of baloney Meaning",
     "type": "Word",
     "meaning": "Nonsense or something not true",
     "synonyms": [],
@@ -49,7 +49,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "A fish out of water ,
+    "word": "A fish out of water Meaning",
     "type": "Word",
     "meaning": "To feel uncomfortable or out of place in a particular situation",
     "synonyms": [],
@@ -58,7 +58,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "A hard nut to crack ,
+    "word": "A hard nut to crack Meaning",
     "type": "Word",
     "meaning": "a problem that is very difficult to solve",
     "synonyms": [],
@@ -67,7 +67,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "A hot potato ,
+    "word": "A hot potato Meaning",
     "type": "Word",
     "meaning": "a controversial issue or situation",
     "synonyms": [],
@@ -76,7 +76,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "A little learning is a dangerous thing ,
+    "word": "A little learning is a dangerous thing Meaning",
     "type": "Word",
     "meaning": "people who don't understand something fully are dangerous",
     "synonyms": [],
@@ -85,7 +85,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "A lost cause ,
+    "word": "A lost cause Meaning",
     "type": "Word",
     "meaning": "someone or something that has no chance of succeeding",
     "synonyms": [],
@@ -94,7 +94,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "A mile a minute ,
+    "word": "A mile a minute Meaning",
     "type": "Word",
     "meaning": "very quickly",
     "synonyms": [],
@@ -103,7 +103,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "A night owl ,
+    "word": "A night owl Meaning",
     "type": "Word",
     "meaning": "someone who prefers to be awake and active at night",
     "synonyms": [],
@@ -121,7 +121,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "A penny for your thoughts ,
+    "word": "A penny for your thoughts Meaning",
     "type": "Word",
     "meaning": "Used to ask someone what they are thinking",
     "synonyms": [],
@@ -130,7 +130,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "A picture paints a thousand words ,
+    "word": "A picture paints a thousand words Meaning",
     "type": "Word",
     "meaning": "an image of a subject conveys its meaning or essence more effectively than a description does",
     "synonyms": [],
@@ -139,7 +139,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "A sitting duck ,
+    "word": "A sitting duck Meaning",
     "type": "Word",
     "meaning": "a person or thing with no protection against an attack or other source of danger",
     "synonyms": [],
@@ -148,7 +148,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "A snake in the grass ,
+    "word": "A snake in the grass Meaning",
     "type": "Word",
     "meaning": "Someone who is deceitful or hides their true intentions",
     "synonyms": [],
@@ -157,7 +157,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "A snowball effect ,
+    "word": "A snowball effect Meaning",
     "type": "Word",
     "meaning": "a situation in which something increases in size or importance at a faster and faster rate",
     "synonyms": [],
@@ -166,7 +166,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "A snowball's chance in hell ,
+    "word": "A snowball's chance in hell Meaning",
     "type": "Word",
     "meaning": "no chance at all",
     "synonyms": [],
@@ -175,7 +175,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "A stitch in time saves nine ,
+    "word": "A stitch in time saves nine Meaning",
     "type": "Word",
     "meaning": "fix the problem now because it will get worse later",
     "synonyms": [],
@@ -184,7 +184,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "A storm in a teacup ,
+    "word": "A storm in a teacup Meaning",
     "type": "Word",
     "meaning": "a big fuss about a small problem",
     "synonyms": [],
@@ -193,7 +193,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "A whole new ballgame ,
+    "word": "A whole new ballgame Meaning",
     "type": "Word",
     "meaning": "a completely different situation",
     "synonyms": [],
@@ -202,7 +202,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "A wild goose chase ,
+    "word": "A wild goose chase Meaning",
     "type": "Word",
     "meaning": "a foolish and hopeless search for or pursuit of something unattainable (JUNE MONTH 2025)",
     "synonyms": [],
@@ -297,7 +297,7 @@ export const vocabularyWords = [
       "Retain",
       "Uphold"
     ],
-    "example": "The king decided to abdicate his   throne in favor of his son.",
+    "example": "The king decided to abdicate his Follow us on https://www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal //t.me/NimishaMam throne in favor of his son.",
     "source": "Monthly vocab; RedBook OWS"
   },
   {
@@ -337,7 +337,7 @@ export const vocabularyWords = [
       "coolness"
     ],
     "example": "His sudden anger was an aberration from his calm nature.",
-    "source": "Monthly vocab;  u  "
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words"
   },
   {
     "word": "Abet",
@@ -410,7 +410,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Abide by ,
+    "word": "Abide by Meaning",
     "type": "Word",
     "meaning": "to comply with a rule or to carry out a promise",
     "synonyms": [],
@@ -501,7 +501,7 @@ export const vocabularyWords = [
       "corruption"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Abnegate",
@@ -531,7 +531,7 @@ export const vocabularyWords = [
     "antonyms": [
       "acceptance",
       "indulgence",
-      "assertion  Leaders must practice abnegation of selfish interests"
+      "assertion Sentence: Leaders must practice abnegation of selfish interests"
     ],
     "example": "",
     "source": "Monthly vocab"
@@ -597,7 +597,7 @@ export const vocabularyWords = [
       "soothing"
     ],
     "example": "The invitation was also a way of easing tensions caused by Piyush Goyal’s unnecessarily abrasive remarks.",
-    "source": "Monthly vocab;  u  "
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words"
   },
   {
     "word": "Abreast",
@@ -611,7 +611,7 @@ export const vocabularyWords = [
       "out of touch with"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Abridge",
@@ -656,7 +656,7 @@ export const vocabularyWords = [
     "antonyms": [
       "Enact",
       "Approve",
-      "Establish  The government decided to abrogate the outdated law",
+      "Establish Sentence: The government decided to abrogate the outdated law",
       "validate"
     ],
     "example": "The government decided to abrogate the outdated rule.",
@@ -723,7 +723,7 @@ export const vocabularyWords = [
       "Bleached"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Abstain",
@@ -757,10 +757,10 @@ export const vocabularyWords = [
     "antonyms": [
       "indulgent",
       "gluttonous",
-      "intemperate  The hermit led an abstemious life",
+      "intemperate Sentence: The hermit led an abstemious life",
       "avoiding luxuries",
       "Greedy",
-      "Self-indulgent  He was abstemious in his habits",
+      "Self-indulgent Sentence: He was abstemious in his habits",
       "ate very little"
     ],
     "example": "",
@@ -844,7 +844,7 @@ export const vocabularyWords = [
   {
     "word": "Accede",
     "type": "स्वीकार करना / मान लेना",
-    "meaning": "To agree to a request, demand, or proposal; to give consent.  ",
+    "meaning": "To agree to a request, demand, or proposal; to give consent. Follow us on https:; www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal ; t.me/NimishaMam",
     "synonyms": [
       "Agree",
       "assent",
@@ -860,7 +860,7 @@ export const vocabularyWords = [
       "decline"
     ],
     "example": "The government finally acceded to the protesters' demands.",
-    "source": "Monthly vocab;  u  "
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words"
   },
   {
     "word": "Accelerate",
@@ -902,7 +902,7 @@ export const vocabularyWords = [
       "misadjust",
       "reject"
     ],
-    "example": "Playing county cricket has helped Karun Nair acclimatise to English conditions.  ",
+    "example": "Playing county cricket has helped Karun Nair acclimatise to English conditions. Follow us on https://www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal //t.me/NimishaMam",
     "source": "Monthly vocab"
   },
   {
@@ -933,7 +933,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "Account for ,
+    "word": "Account for Meaning",
     "type": "Word",
     "meaning": "To explain or justify the cause or reason for something; to be responsible for something",
     "synonyms": [],
@@ -960,7 +960,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "Acid test ,
+    "word": "Acid test Meaning",
     "type": "Word",
     "meaning": "proves the effectiveness of something",
     "synonyms": [],
@@ -1042,7 +1042,7 @@ export const vocabularyWords = [
   {
     "word": "Acrimonious",
     "type": "तीखा, कटु",
-    "meaning": "Angry and bitter, typically in speech or debate.  ",
+    "meaning": "Angry and bitter, typically in speech or debate. Follow us on https:; www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal ; t.me/NimishaMam",
     "synonyms": [
       "Hostile",
       "bitter",
@@ -1060,7 +1060,7 @@ export const vocabularyWords = [
       "polite",
       "Amiable",
       "Kind",
-      "Gentle  Their acrimonious divorce left both families divided"
+      "Gentle Sentence: Their acrimonious divorce left both families divided"
     ],
     "example": "The debate turned acrimonious as the candidates began attacking each other's past decisions.",
     "source": "Monthly vocab"
@@ -1080,7 +1080,7 @@ export const vocabularyWords = [
       "friendship",
       "kindness"
     ],
-    "example": "The debate was filled with acrimony,   leaving both sides more divided than ever.",
+    "example": "The debate was filled with acrimony, Follow us on https://www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal //t.me/NimishaMam leaving both sides more divided than ever.",
     "source": "Monthly vocab"
   },
   {
@@ -1111,7 +1111,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "Across the board ,
+    "word": "Across the board Meaning",
     "type": "Word",
     "meaning": "Applying to everyone or everything equally",
     "synonyms": [],
@@ -1200,7 +1200,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Add insult to injury ,
+    "word": "Add insult to injury Meaning",
     "type": "Word",
     "meaning": "act in a way that makes a bad situation worse",
     "synonyms": [],
@@ -1292,7 +1292,7 @@ export const vocabularyWords = [
       "Persevere"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Adjudication",
@@ -1401,7 +1401,7 @@ export const vocabularyWords = [
     "antonyms": [
       "Criticism",
       "Disapproval",
-      "Contempt  The actor was uncomfortable with the public’s adulation"
+      "Contempt Sentence: The actor was uncomfortable with the public’s adulation"
     ],
     "example": "",
     "source": "Monthly vocab"
@@ -1458,7 +1458,7 @@ export const vocabularyWords = [
       "Disappearance"
     ],
     "example": "The advent of the monsoon was marked by both celebration and destruction.",
-    "source": "Monthly vocab;  u  "
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words"
   },
   {
     "word": "Adventurous",
@@ -1494,7 +1494,7 @@ export const vocabularyWords = [
       "Endorser"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Adversity",
@@ -1598,7 +1598,7 @@ export const vocabularyWords = [
       "Authenticity"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Affection",
@@ -1631,7 +1631,7 @@ export const vocabularyWords = [
       "Unkindness"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Affirming",
@@ -1700,7 +1700,7 @@ export const vocabularyWords = [
       "needy",
       "destitute"
     ],
-    "example": "The affluent neighborhood was known for its luxurious homes.  ",
+    "example": "The affluent neighborhood was known for its luxurious homes. Follow us on https://www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal //t.me/NimishaMam",
     "source": "Monthly vocab"
   },
   {
@@ -1722,7 +1722,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Against the clock ,
+    "word": "Against the clock Meaning",
     "type": "Word",
     "meaning": "being rushed and having little time to complete something",
     "synonyms": [],
@@ -1886,7 +1886,7 @@ export const vocabularyWords = [
       "Stupid"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Alacrity",
@@ -1906,10 +1906,10 @@ export const vocabularyWords = [
       "apathy",
       "unwillingness",
       "hesitation",
-      "Indifference  She accepted the invitation with alacrity"
+      "Indifference Sentence: She accepted the invitation with alacrity"
     ],
-    "example": "The volunteers responded to the crisis with admirable alacrity.  ",
-    "source": "Monthly vocab;  u  "
+    "example": "The volunteers responded to the crisis with admirable alacrity. Follow us on https://www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal //t.me/NimishaMam",
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words"
   },
   {
     "word": "Alarming",
@@ -2001,7 +2001,7 @@ export const vocabularyWords = [
       "unite"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Alight",
@@ -2035,7 +2035,7 @@ export const vocabularyWords = [
       "Gloomy"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Alimony",
@@ -2047,7 +2047,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "All ears ,
+    "word": "All ears Meaning",
     "type": "Word",
     "meaning": "Fully listening and paying attention",
     "synonyms": [],
@@ -2067,7 +2067,7 @@ export const vocabularyWords = [
       "disloyalty"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Allegory",
@@ -2132,7 +2132,7 @@ export const vocabularyWords = [
       "Preserve"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Allure",
@@ -2185,7 +2185,7 @@ export const vocabularyWords = [
       "Privacy"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Alluvium",
@@ -2208,7 +2208,7 @@ export const vocabularyWords = [
       "enemy"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Alma Mater",
@@ -2304,7 +2304,7 @@ export const vocabularyWords = [
       "self-centered",
       "egotistic",
       "Greedy",
-      "Egoistic  Her altruistic nature made her volunteer at the orphanage"
+      "Egoistic Sentence: Her altruistic nature made her volunteer at the orphanage"
     ],
     "example": "The doctor’s altruistic efforts in serving the poor community earned him wide admiration.",
     "source": "Monthly vocab"
@@ -2374,7 +2374,7 @@ export const vocabularyWords = [
   {
     "word": "Ambiguity",
     "type": "अस्पष्टता",
-    "meaning": "The quality of being open to more than one interpretation.  ",
+    "meaning": "The quality of being open to more than one interpretation. Follow us on https:; www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal ; t.me/NimishaMam",
     "synonyms": [
       "Vagueness",
       "uncertainty",
@@ -2395,7 +2395,7 @@ export const vocabularyWords = [
   {
     "word": "Ambiguous",
     "type": "अस्पष्ट",
-    "meaning": "Open to more than one interpretation; not clearly defined.  ",
+    "meaning": "Open to more than one interpretation; not clearly defined. Follow us on https:; www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal ; t.me/NimishaMam",
     "synonyms": [
       "Vague",
       "uncertain",
@@ -2524,7 +2524,7 @@ export const vocabularyWords = [
       "defiant"
     ],
     "example": "The new employee was amenable to feedback and quickly adapted to the company's working style.",
-    "source": "Monthly vocab;  u  ; RedBook OWS"
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words; RedBook OWS"
   },
   {
     "word": "Amiable",
@@ -2551,7 +2551,7 @@ export const vocabularyWords = [
       "Ill- tempered"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Amicable",
@@ -2583,7 +2583,7 @@ export const vocabularyWords = [
       "animosity"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Amnesia",
@@ -2659,7 +2659,7 @@ export const vocabularyWords = [
     "antonyms": [
       "Modernity",
       "Trend",
-      "Up-to-date  Using a typewriter today seems like an anachronism"
+      "Up-to-date Sentence: Using a typewriter today seems like an anachronism"
     ],
     "example": "",
     "source": "Monthly vocab"
@@ -2749,7 +2749,7 @@ export const vocabularyWords = [
       "Delight",
       "blessing",
       "favorite",
-      "Love  Dishonesty was anathema to his strict moral code"
+      "Love Sentence: Dishonesty was anathema to his strict moral code"
     ],
     "example": "For environmental activists, the exemption of pollution norms is anathema to climate justice.",
     "source": "Monthly vocab"
@@ -2788,7 +2788,7 @@ export const vocabularyWords = [
       "Race"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Anchor",
@@ -2838,7 +2838,7 @@ export const vocabularyWords = [
     "antonyms": [
       "straight",
       "direct",
-      "simple  The anfractuous road led deep into the forest"
+      "simple Sentence: The anfractuous road led deep into the forest"
     ],
     "example": "",
     "source": "Monthly vocab"
@@ -2846,7 +2846,7 @@ export const vocabularyWords = [
   {
     "word": "Anguish",
     "type": "व्यथा, पीड़ा",
-    "meaning": "Severe mental or physical pain or   suffering",
+    "meaning": "Severe mental or physical pain or Follow us on https:; www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal ; t.me/NimishaMam suffering",
     "synonyms": [
       "Agony",
       "distress",
@@ -2907,7 +2907,7 @@ export const vocabularyWords = [
       "create"
     ],
     "example": "The heavy bombing was intended to annihilate the enemy's base.",
-    "source": " u  ; RedBook OWS"
+    "source": "Padakuu 551 repeated SSC words; RedBook OWS"
   },
   {
     "word": "Annihilation",
@@ -2922,7 +2922,7 @@ export const vocabularyWords = [
       "Preservation",
       "creation"
     ],
-    "example": "The fear of annihilation loomed large over the nations during the cold war.  ",
+    "example": "The fear of annihilation loomed large over the nations during the cold war. Follow us on https://www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal //t.me/NimishaMam",
     "source": "Monthly vocab"
   },
   {
@@ -2973,7 +2973,7 @@ export const vocabularyWords = [
       "consistencies",
       "regularities"
     ],
-    "example": "Reports indicated anomalies in the voter exclusion process.  ",
+    "example": "Reports indicated anomalies in the voter exclusion process. Follow us on https://www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal //t.me/NimishaMam",
     "source": "Monthly vocab"
   },
   {
@@ -2988,7 +2988,7 @@ export const vocabularyWords = [
       "normal"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Anomaly",
@@ -3005,7 +3005,7 @@ export const vocabularyWords = [
       "standard",
       "regularity",
       "conformity",
-      "Usualness  The scientist noticed an anomaly in the data"
+      "Usualness Sentence: The scientist noticed an anomaly in the data"
     ],
     "example": "The scientist found an anomaly in the experiment’s results.",
     "source": "Monthly vocab; RedBook OWS"
@@ -3057,7 +3057,7 @@ export const vocabularyWords = [
     "antonyms": [
       "Modern",
       "Contemporary",
-      "New  His antediluvian ideas about women shocked everyone"
+      "New Sentence: His antediluvian ideas about women shocked everyone"
     ],
     "example": "",
     "source": "Monthly vocab"
@@ -3115,7 +3115,7 @@ export const vocabularyWords = [
       "Astonish"
     ],
     "example": "We anticipate a large crowd at the concert tonight.",
-    "source": " u  ; RedBook OWS"
+    "source": "Padakuu 551 repeated SSC words; RedBook OWS"
   },
   {
     "word": "Antidote",
@@ -3140,10 +3140,10 @@ export const vocabularyWords = [
     "antonyms": [
       "Affection",
       "Liking",
-      "Sympathy  He has an antipathy towards dishonesty"
+      "Sympathy Sentence: He has an antipathy towards dishonesty"
     ],
     "example": "Despite working together for years, there was a clear antipathy between the two managers.",
-    "source": "Monthly vocab;  u  ; RedBook OWS"
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words; RedBook OWS"
   },
   {
     "word": "Antiquarian",
@@ -3201,7 +3201,7 @@ export const vocabularyWords = [
   {
     "word": "Antonym",
     "type": "Noun",
-    "meaning": "Words which are opposite in ,
+    "meaning": "Words which are opposite in meaning",
     "synonyms": [],
     "antonyms": [],
     "example": "'Hot' is the antonym of 'cold'.",
@@ -3270,7 +3270,7 @@ export const vocabularyWords = [
     "antonyms": [
       "Essay",
       "Explanation",
-      "Speech  “Actions speak louder than words” is a common aphorism"
+      "Speech Sentence: “Actions speak louder than words” is a common aphorism"
     ],
     "example": "",
     "source": "Monthly vocab"
@@ -3297,7 +3297,7 @@ export const vocabularyWords = [
     "antonyms": [
       "Nervousness",
       "Insecurity",
-      "Doubt  She handled the interview with great aplomb",
+      "Doubt Sentence: She handled the interview with great aplomb",
       "doubt"
     ],
     "example": "She handled the tough situation with aplomb.",
@@ -3315,7 +3315,7 @@ export const vocabularyWords = [
     "antonyms": [
       "Authentic",
       "Genuine",
-      "True  The apocryphal story about the king spread quickly"
+      "True Sentence: The apocryphal story about the king spread quickly"
     ],
     "example": "",
     "source": "Monthly vocab"
@@ -3409,7 +3409,7 @@ export const vocabularyWords = [
     "antonyms": [
       "Decline",
       "Degradation",
-      "Low point  The singer’s performance was the apotheosis of her career",
+      "Low point Sentence: The singer’s performance was the apotheosis of her career",
       "downfall"
     ],
     "example": "Her performance was the apotheosis of her career.",
@@ -3505,7 +3505,7 @@ export const vocabularyWords = [
     "antonyms": [
       "Irrelevant",
       "Inappropriate",
-      "Unrelated  His remark was perfectly apposite to the discussion"
+      "Unrelated Sentence: His remark was perfectly apposite to the discussion"
     ],
     "example": "",
     "source": "Monthly vocab"
@@ -3544,7 +3544,7 @@ export const vocabularyWords = [
       "calmness"
     ],
     "example": "There was a sense of apprehension among the students before the final exam.",
-    "source": "Monthly vocab;  u  "
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words"
   },
   {
     "word": "Apprentice",
@@ -3686,7 +3686,7 @@ export const vocabularyWords = [
   {
     "word": "Arcane",
     "type": "गूढ़",
-    "meaning": "Understood by few; mysterious or secret.  ",
+    "meaning": "Understood by few; mysterious or secret. Follow us on https:; www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal ; t.me/NimishaMam",
     "synonyms": [
       "Obscure",
       "esoteric",
@@ -3772,10 +3772,10 @@ export const vocabularyWords = [
       "Easy",
       "effortless",
       "simple",
-      "Simple  Climbing the mountain was an arduous task"
+      "Simple Sentence: Climbing the mountain was an arduous task"
     ],
     "example": "Completing the project within a week was an arduous task.",
-    "source": "Monthly vocab;  u  "
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words"
   },
   {
     "word": "Arena",
@@ -3811,10 +3811,10 @@ export const vocabularyWords = [
       "Foul: Fetid"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
-    "word": "Around the corner ,
+    "word": "Around the corner Meaning",
     "type": "Word",
     "meaning": "it will happen very soon",
     "synonyms": [],
@@ -3921,7 +3921,7 @@ export const vocabularyWords = [
     "antonyms": [
       "Honesty",
       "Candor",
-      "Truth  The magician’s artifice amazed the entire audience"
+      "Truth Sentence: The magician’s artifice amazed the entire audience"
     ],
     "example": "",
     "source": "Monthly vocab"
@@ -3981,7 +3981,7 @@ export const vocabularyWords = [
     "antonyms": [
       "Praise",
       "Approval",
-      "Compliment  She refused to cast aspersions on her colleague’s character"
+      "Compliment Sentence: She refused to cast aspersions on her colleague’s character"
     ],
     "example": "",
     "source": "Monthly vocab"
@@ -4052,7 +4052,7 @@ export const vocabularyWords = [
       "Disseminate"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Assent",
@@ -4094,7 +4094,7 @@ export const vocabularyWords = [
       "hesitation",
       "submissiveness"
     ],
-    "example": "Her assertiveness during the meeting impressed her colleagues.  ",
+    "example": "Her assertiveness during the meeting impressed her colleagues. Follow us on https://www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal //t.me/NimishaMam",
     "source": "Monthly vocab"
   },
   {
@@ -4111,7 +4111,7 @@ export const vocabularyWords = [
       "Negligent",
       "lazy",
       "careless",
-      "Idle  She achieved success through assiduous effort"
+      "Idle Sentence: She achieved success through assiduous effort"
     ],
     "example": "The journalist’s assiduous investigation exposed the factory's repeated safety violations.",
     "source": "Monthly vocab"
@@ -4133,7 +4133,7 @@ export const vocabularyWords = [
       "worsen"
     ],
     "example": "The outreach programme was launched to assuage public fears about toxic emissions.",
-    "source": "Monthly vocab;  u  "
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words"
   },
   {
     "word": "Assuaged",
@@ -4273,10 +4273,10 @@ export const vocabularyWords = [
     ],
     "antonyms": [],
     "example": "Political refugees often seek asylum in neighboring countries to escape persecution.",
-    "source": " u  ; RedBook OWS"
+    "source": "Padakuu 551 repeated SSC words; RedBook OWS"
   },
   {
-    "word": "At a loose end ,
+    "word": "At a loose end Meaning",
     "type": "Word",
     "meaning": "not knowing what to do",
     "synonyms": [],
@@ -4285,7 +4285,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "At eleventh hour ,
+    "word": "At eleventh hour Meaning",
     "type": "Word",
     "meaning": "last moment or almost late",
     "synonyms": [],
@@ -4294,7 +4294,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "At the drop of a hat ,
+    "word": "At the drop of a hat Meaning",
     "type": "Word",
     "meaning": "Immediately, without any hesitation",
     "synonyms": [],
@@ -4361,7 +4361,7 @@ export const vocabularyWords = [
       "Fiasco"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Attrition",
@@ -4384,7 +4384,7 @@ export const vocabularyWords = [
       "Retention",
       "growth"
     ],
-    "example": "India’s earlier focus on attrition warfare shaped a continental approach to   national security.",
+    "example": "India’s earlier focus on attrition warfare shaped a continental approach to Follow us on https://www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal //t.me/NimishaMam national security.",
     "source": "Monthly vocab"
   },
   {
@@ -4461,7 +4461,7 @@ export const vocabularyWords = [
       "Shrink"
     ],
     "example": "The workers used the MGNREGS to augment their income during the agricultural off-seasons.",
-    "source": "Monthly vocab;  u  "
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words"
   },
   {
     "word": "Austere",
@@ -4589,7 +4589,7 @@ export const vocabularyWords = [
       "Kindliness"
     ],
     "example": "The businessman’s downfall was caused by his boundless avarice.",
-    "source": "Monthly vocab;  u  ; RedBook OWS"
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words; RedBook OWS"
   },
   {
     "word": "Avaricious",
@@ -4620,7 +4620,7 @@ export const vocabularyWords = [
     "antonyms": [
       "Deny",
       "Disprove",
-      "Reject  She averred that she had seen him earlier that day"
+      "Reject Sentence: She averred that she had seen him earlier that day"
     ],
     "example": "",
     "source": "Monthly vocab"
@@ -4653,7 +4653,7 @@ export const vocabularyWords = [
       "Free"
     ],
     "example": "She is averse to taking unnecessary risks in her investments.",
-    "source": "Monthly vocab;  u  "
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words"
   },
   {
     "word": "Aversion",
@@ -4747,7 +4747,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "Back away ,
+    "word": "Back away Meaning",
     "type": "Word",
     "meaning": "to move backwards away from something or someone, usually because you are frightened",
     "synonyms": [],
@@ -4756,7 +4756,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Back to basics ,
+    "word": "Back to basics Meaning",
     "type": "Word",
     "meaning": "to return to a simpler way of thinking or doing something",
     "synonyms": [],
@@ -4765,7 +4765,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Bad apple ,
+    "word": "Bad apple Meaning",
     "type": "Word",
     "meaning": "a discontented, troublemaking, or dishonest person",
     "synonyms": [],
@@ -4838,7 +4838,7 @@ export const vocabularyWords = [
     "antonyms": [
       "Benevolent",
       "Harmless",
-      "Favorable  He gave her a baleful look that silenced the room"
+      "Favorable Sentence: He gave her a baleful look that silenced the room"
     ],
     "example": "",
     "source": "Monthly vocab"
@@ -4915,7 +4915,7 @@ export const vocabularyWords = [
       "Hateful"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Banal",
@@ -4992,7 +4992,7 @@ export const vocabularyWords = [
     "antonyms": [
       "Helpful",
       "Beneficial",
-      "Advantageous  The baneful effects of smoking are well-known"
+      "Advantageous Sentence: The baneful effects of smoking are well-known"
     ],
     "example": "",
     "source": "Monthly vocab"
@@ -5044,7 +5044,7 @@ export const vocabularyWords = [
       "observe"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Barbarity",
@@ -5072,7 +5072,7 @@ export const vocabularyWords = [
       "Gracefulness"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Bark",
@@ -5111,7 +5111,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "Bash about ,
+    "word": "Bash about Meaning",
     "type": "Word",
     "meaning": "to criticize somebody/something strongly",
     "synonyms": [],
@@ -5174,7 +5174,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Be a far cry from ,
+    "word": "Be a far cry from Meaning",
     "type": "Word",
     "meaning": "to be completely different from something",
     "synonyms": [],
@@ -5183,7 +5183,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Be hand and foot ,
+    "word": "Be hand and foot Meaning",
     "type": "Word",
     "meaning": "in all possible ways; by all means",
     "synonyms": [],
@@ -5192,7 +5192,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Be in the swim ,
+    "word": "Be in the swim Meaning",
     "type": "Word",
     "meaning": "To keep oneself informed and up-to-date",
     "synonyms": [],
@@ -5201,7 +5201,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Beat around the bush ,
+    "word": "Beat around the bush Meaning",
     "type": "Word",
     "meaning": "to avoid addressing the main issue directly",
     "synonyms": [],
@@ -5210,7 +5210,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Beat up ,
+    "word": "Beat up Meaning",
     "type": "Word",
     "meaning": "To attack or hit someone severely",
     "synonyms": [],
@@ -5236,7 +5236,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Beaver away ,
+    "word": "Beaver away Meaning",
     "type": "Word",
     "meaning": "To work hard and persistently on something",
     "synonyms": [],
@@ -5245,7 +5245,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Bed down ,
+    "word": "Bed down Meaning",
     "type": "Word",
     "meaning": "To settle in a place to sleep, especially temporarily",
     "synonyms": [],
@@ -5254,7 +5254,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Bed of roses ,
+    "word": "Bed of roses Meaning",
     "type": "Word",
     "meaning": "an easy, comfortable situation",
     "synonyms": [],
@@ -5263,7 +5263,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Bee in one's bonnet ,
+    "word": "Bee in one's bonnet Meaning",
     "type": "Word",
     "meaning": "be preoccupied or obsessed with something",
     "synonyms": [],
@@ -5281,7 +5281,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "Behind the times ,
+    "word": "Behind the times Meaning",
     "type": "Word",
     "meaning": "not modern or fashionable",
     "synonyms": [],
@@ -5442,7 +5442,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "Bells and whistles ,
+    "word": "Bells and whistles Meaning",
     "type": "Word",
     "meaning": "attractive additional features or trimmings",
     "synonyms": [],
@@ -5451,7 +5451,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Belt out ,
+    "word": "Belt out Meaning",
     "type": "Word",
     "meaning": "To sing or play music loudly and forcefully",
     "synonyms": [],
@@ -5460,7 +5460,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Bend over backward ,
+    "word": "Bend over backward Meaning",
     "type": "Word",
     "meaning": "to make a great effort to help or accommodate someone",
     "synonyms": [],
@@ -5547,9 +5547,9 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Bent out of shape ,
+    "word": "Bent out of shape Meaning",
     "type": "Word",
-    "meaning": "To become upset, angry, or distressed about something  ",
+    "meaning": "To become upset, angry, or distressed about something Follow us on https:; www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal ; t.me/NimishaMam",
     "synonyms": [],
     "antonyms": [],
     "example": "",
@@ -5605,7 +5605,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Best thing since sliced bread ,
+    "word": "Best thing since sliced bread Meaning",
     "type": "Word",
     "meaning": "used to emphasize one's enthusiasm about a new idea, person, or thing",
     "synonyms": [],
@@ -5614,7 +5614,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Better late than never ,
+    "word": "Better late than never Meaning",
     "type": "Word",
     "meaning": "doing something late is better than not doing it at all",
     "synonyms": [],
@@ -5623,7 +5623,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Between a rock and a hard place ,
+    "word": "Between a rock and a hard place Meaning",
     "type": "Word",
     "meaning": "faced with two equally undesirable alternatives",
     "synonyms": [],
@@ -5759,7 +5759,7 @@ export const vocabularyWords = [
     "antonyms": [
       "aid",
       "assist",
-      "help.  He bilked the company out of thousands of dollars"
+      "help. Sentence: He bilked the company out of thousands of dollars"
     ],
     "example": "",
     "source": "Monthly vocab"
@@ -5827,7 +5827,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "Bite the bullet ,
+    "word": "Bite the bullet Meaning",
     "type": "Word",
     "meaning": "To endure a painful or unpleasant situation that is unavoidable",
     "synonyms": [],
@@ -5836,7 +5836,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Bite the hand that feeds you ,
+    "word": "Bite the hand that feeds you Meaning",
     "type": "Word",
     "meaning": "To harm or criticize someone who has helped or supported you",
     "synonyms": [],
@@ -5845,7 +5845,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Bits and Pieces ,
+    "word": "Bits and Pieces Meaning",
     "type": "Word",
     "meaning": "small things of different types",
     "synonyms": [],
@@ -5863,7 +5863,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "Black Sheep ,
+    "word": "Black Sheep Meaning",
     "type": "Word",
     "meaning": "a disfavored or disreputable member of a group",
     "synonyms": [],
@@ -5883,7 +5883,7 @@ export const vocabularyWords = [
     "antonyms": [
       "Criticism",
       "Insult",
-      "Disapproval  He used blandishments to gain her trust"
+      "Disapproval Sentence: He used blandishments to gain her trust"
     ],
     "example": "",
     "source": "Monthly vocab"
@@ -5917,7 +5917,7 @@ export const vocabularyWords = [
       "hidden"
     ],
     "example": "His blatant disregard for the rules earned him a suspension from the team.",
-    "source": "Monthly vocab;  u  "
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words"
   },
   {
     "word": "Blatantly",
@@ -5980,7 +5980,7 @@ export const vocabularyWords = [
       "Beauty"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Blip",
@@ -6028,7 +6028,7 @@ export const vocabularyWords = [
       "Anguish"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Blistering",
@@ -6083,7 +6083,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Blow hot and cold ,
+    "word": "Blow hot and cold Meaning",
     "type": "Word",
     "meaning": "keep changing their attitude towards something",
     "synonyms": [],
@@ -6092,7 +6092,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Blue in the face ,
+    "word": "Blue in the face Meaning",
     "type": "Word",
     "meaning": "exhausted from anger, strain, or other great effort",
     "synonyms": [],
@@ -6151,12 +6151,12 @@ export const vocabularyWords = [
       "Innocence"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Bluster",
     "type": "गुस्ताख़ी भरी धमकी / गरजना",
-    "meaning": "Loud, aggressive, or indignant talk   with little effect; to speak or blow loudly and aggressively",
+    "meaning": "Loud, aggressive, or indignant talk Follow us on https:; www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal ; t.me/NimishaMam with little effect; to speak or blow loudly and aggressively",
     "synonyms": [
       "Boast",
       "rant",
@@ -6228,7 +6228,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Bolt from the blue ,
+    "word": "Bolt from the blue Meaning",
     "type": "Word",
     "meaning": "a complete surprise",
     "synonyms": [],
@@ -6248,7 +6248,7 @@ export const vocabularyWords = [
   {
     "word": "Bombastic",
     "type": "Ǒदखावटी, अǓतशयोिक्तपूण[",
-    "meaning": "Using high-sounding words but with little ,
+    "meaning": "Using high-sounding words but with little meaning",
     "synonyms": [
       "Pretentious",
       "Grandiloquent",
@@ -6257,7 +6257,7 @@ export const vocabularyWords = [
     "antonyms": [
       "Simple",
       "Modest",
-      "Plain  His bombastic speech impressed no one"
+      "Plain Sentence: His bombastic speech impressed no one"
     ],
     "example": "His bombastic speech failed to impress the audience, who wanted actual facts.",
     "source": "Monthly vocab; RedBook OWS"
@@ -6325,7 +6325,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "Border on ,
+    "word": "Border on Meaning",
     "type": "Word",
     "meaning": "To be very close to or nearly something (e.g., an emotion, condition, or state)",
     "synonyms": [],
@@ -6448,7 +6448,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "Bow out of ,
+    "word": "Bow out of Meaning",
     "type": "Word",
     "meaning": "To withdraw or remove oneself from a situation or activity",
     "synonyms": [],
@@ -6516,7 +6516,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Break down ,
+    "word": "Break down Meaning",
     "type": "Word",
     "meaning": "To stop functioning or fail. It can also mean to analyze something into smaller parts or to become emotionally distressed",
     "synonyms": [],
@@ -6525,7 +6525,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Break into ,
+    "word": "Break into Meaning",
     "type": "Word",
     "meaning": "To enter a place by force; to start doing something, especially in a particular field or industry",
     "synonyms": [],
@@ -6534,7 +6534,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Break out ,
+    "word": "Break out Meaning",
     "type": "Word",
     "meaning": "to begin, or to begin using or doing something / a violent escape, especially by a group",
     "synonyms": [],
@@ -6543,7 +6543,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Break someone’s heart ,
+    "word": "Break someone’s heart Meaning",
     "type": "Word",
     "meaning": "To deeply hurt or disappoint someone emotionally",
     "synonyms": [],
@@ -6552,7 +6552,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Break the ice ,
+    "word": "Break the ice Meaning",
     "type": "Word",
     "meaning": "To initiate conversation or activities to ease tension or awkwardness in social situations",
     "synonyms": [],
@@ -6561,9 +6561,9 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Break the internet ,
+    "word": "Break the internet Meaning",
     "type": "Word",
-    "meaning": "to cause a sensation or go viral online, drawing massive attention  ",
+    "meaning": "to cause a sensation or go viral online, drawing massive attention Follow us on https:; www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal ; t.me/NimishaMam",
     "synonyms": [],
     "antonyms": [],
     "example": "",
@@ -6653,7 +6653,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "Bring about ,
+    "word": "Bring about Meaning",
     "type": "Word",
     "meaning": "To cause something to happen or to initiate a change",
     "synonyms": [],
@@ -6662,7 +6662,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Bring to the table ,
+    "word": "Bring to the table Meaning",
     "type": "Word",
     "meaning": "to contribute something of value, especially in a collaborative effort",
     "synonyms": [],
@@ -6671,7 +6671,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Bring up ,
+    "word": "Bring up Meaning",
     "type": "Word",
     "meaning": "To mention a topic in conversation; to raise a child",
     "synonyms": [],
@@ -6760,7 +6760,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "Brush up on something ,
+    "word": "Brush up on something Meaning",
     "type": "Word",
     "meaning": "To review or improve one's knowledge or skills in a particular area",
     "synonyms": [],
@@ -6797,7 +6797,7 @@ export const vocabularyWords = [
     "antonyms": [
       "Urban",
       "City-like",
-      "Metropolitan  They enjoyed a peaceful life in a bucolic village"
+      "Metropolitan Sentence: They enjoyed a peaceful life in a bucolic village"
     ],
     "example": "",
     "source": "Monthly vocab"
@@ -6812,7 +6812,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "Bug out ,
+    "word": "Bug out Meaning",
     "type": "Word",
     "meaning": "to leave a place or situation quickly, especially because of danger",
     "synonyms": [],
@@ -6830,7 +6830,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "Bump into ,
+    "word": "Bump into Meaning",
     "type": "Word",
     "meaning": "to meet someone by chance or unexpectedly",
     "synonyms": [],
@@ -6865,7 +6865,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "Bundle off ,
+    "word": "Bundle off Meaning",
     "type": "Word",
     "meaning": "to send someone or something to a place quickly or suddenly",
     "synonyms": [],
@@ -6938,7 +6938,7 @@ export const vocabularyWords = [
       "shrink"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Burglar",
@@ -6950,7 +6950,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "Burn the candle at both ends ,
+    "word": "Burn the candle at both ends Meaning",
     "type": "Word",
     "meaning": "To overwork yourself by doing too much, often leading to exhaustion",
     "synonyms": [],
@@ -6959,7 +6959,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Burn the midnight oil ,
+    "word": "Burn the midnight oil Meaning",
     "type": "Word",
     "meaning": "To work late into the night",
     "synonyms": [],
@@ -6994,7 +6994,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "Bury the hatchet ,
+    "word": "Bury the hatchet Meaning",
     "type": "Word",
     "meaning": "To make peace or resolve a conflict, usually after a disagreement",
     "synonyms": [],
@@ -7038,7 +7038,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Buy into ,
+    "word": "Buy into Meaning",
     "type": "Word",
     "meaning": "to completely believe in a set of ideas",
     "synonyms": [],
@@ -7079,7 +7079,7 @@ export const vocabularyWords = [
       "straightforward",
       "clear"
     ],
-    "example": "The company's byzantine policies made it difficult for employees to understand the procedures.  ",
+    "example": "The company's byzantine policies made it difficult for employees to understand the procedures. Follow us on https://www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal //t.me/NimishaMam",
     "source": "Monthly vocab"
   },
   {
@@ -7142,7 +7142,7 @@ export const vocabularyWords = [
     "antonyms": [
       "Healthy",
       "Robust",
-      "Vigorous  The old man looked cadaverous after his long illness"
+      "Vigorous Sentence: The old man looked cadaverous after his long illness"
     ],
     "example": "After weeks of illness, he looked cadaverous, with pale skin and sunken eyes.",
     "source": "Monthly vocab; RedBook OWS"
@@ -7195,7 +7195,7 @@ export const vocabularyWords = [
       "Discourage",
       "repel",
       "dissuade",
-      "Repel  He cajoled her into joining the trip",
+      "Repel Sentence: He cajoled her into joining the trip",
       "Force",
       "Bully",
       "Demand"
@@ -7230,7 +7230,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "Call it a day ,
+    "word": "Call it a day Meaning",
     "type": "Word",
     "meaning": "to decide to stop doing something",
     "synonyms": [],
@@ -7239,7 +7239,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Call up ,
+    "word": "Call up Meaning",
     "type": "Word",
     "meaning": "To make a phone call; to summon someone for a task, often military service",
     "synonyms": [],
@@ -7334,16 +7334,16 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Can’t cut the mustard ,
+    "word": "Can’t cut the mustard Meaning",
     "type": "Word",
-    "meaning": "Someone who is not adequate enough to compete or participate  ",
+    "meaning": "Someone who is not adequate enough to compete or participate Follow us on https:; www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal ; t.me/NimishaMam",
     "synonyms": [],
     "antonyms": [],
     "example": "",
     "source": "Monthly vocab"
   },
   {
-    "word": "Can't see the forest for the trees ,
+    "word": "Can't see the forest for the trees Meaning",
     "type": "Word",
     "meaning": "to focus so much on details that the overall situation is overlooked",
     "synonyms": [],
@@ -7442,7 +7442,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Cap off ,
+    "word": "Cap off Meaning",
     "type": "Word",
     "meaning": "to finish or complete something, especially with a decisive action",
     "synonyms": [],
@@ -7475,11 +7475,11 @@ export const vocabularyWords = [
       "Resist",
       "defy",
       "fight",
-      "Fight  The soldiers had no choice but to capitulate",
+      "Fight Sentence: The soldiers had no choice but to capitulate",
       "Withstand"
     ],
     "example": "The army had no choice but to capitulate after being surrounded.",
-    "source": "Monthly vocab;  u  "
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words"
   },
   {
     "word": "Capitulation",
@@ -7539,7 +7539,7 @@ export const vocabularyWords = [
       "Disgust"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Captive",
@@ -7563,7 +7563,7 @@ export const vocabularyWords = [
       "Unattached"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Caravan",
@@ -7646,7 +7646,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "Carry on ,
+    "word": "Carry on Meaning",
     "type": "Word",
     "meaning": "To continue doing something",
     "synonyms": [],
@@ -7655,7 +7655,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Carry out ,
+    "word": "Carry out Meaning",
     "type": "Word",
     "meaning": "To perform or complete a task, order, or instruction",
     "synonyms": [],
@@ -7704,7 +7704,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "Carve out ,
+    "word": "Carve out Meaning",
     "type": "Word",
     "meaning": "To create or establish something through effort",
     "synonyms": [],
@@ -7770,7 +7770,7 @@ export const vocabularyWords = [
       "Praise",
       "commend",
       "compliment",
-      "Approve  The teacher castigated the students for cheating"
+      "Approve Sentence: The teacher castigated the students for cheating"
     ],
     "example": "The editor castigated the journalist for publishing misleading information.",
     "source": "Monthly vocab"
@@ -7822,7 +7822,7 @@ export const vocabularyWords = [
       "Standard"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Casus belli",
@@ -7967,7 +7967,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab; RedBook OWS"
   },
   {
-    "word": "Catch lightning in a bottle ,
+    "word": "Catch lightning in a bottle Meaning",
     "type": "Word",
     "meaning": "Achieve something extremely difficult or unlikely",
     "synonyms": [],
@@ -7976,7 +7976,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Catch some Z’s ,
+    "word": "Catch some Z’s Meaning",
     "type": "Word",
     "meaning": "to go to sleep or get some rest",
     "synonyms": [],
@@ -7985,7 +7985,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Catch someone red-handed ,
+    "word": "Catch someone red-handed Meaning",
     "type": "Word",
     "meaning": "To catch someone in the act of doing something wrong or illegal",
     "synonyms": [],
@@ -7994,7 +7994,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Catch up ,
+    "word": "Catch up Meaning",
     "type": "Word",
     "meaning": "To reach the same level or standard as someone or something after falling behind",
     "synonyms": [],
@@ -8021,7 +8021,7 @@ export const vocabularyWords = [
       "Prevent"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Catharsis",
@@ -8038,9 +8038,9 @@ export const vocabularyWords = [
       "repression",
       "restraint",
       "retention",
-      "suppression.  Writing poetry was a catharsis for her grief"
+      "suppression. Sentence: Writing poetry was a catharsis for her grief"
     ],
-    "example": "Writing a personal journal can serve as a form of catharsis for many people.  ",
+    "example": "Writing a personal journal can serve as a form of catharsis for many people. Follow us on https://www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal //t.me/NimishaMam",
     "source": "Monthly vocab"
   },
   {
@@ -8133,7 +8133,7 @@ export const vocabularyWords = [
     "antonyms": [
       "praise",
       "approve",
-      "accept.  He would cavil at even the smallest mistakes"
+      "accept. Sentence: He would cavil at even the smallest mistakes"
     ],
     "example": "",
     "source": "Monthly vocab"
@@ -8301,7 +8301,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab; RedBook OWS"
   },
   {
-    "word": "Chance one's arm ,
+    "word": "Chance one's arm Meaning",
     "type": "Word",
     "meaning": "To take a risk in the hope of achieving success",
     "synonyms": [],
@@ -8402,7 +8402,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "Chase rainbows ,
+    "word": "Chase rainbows Meaning",
     "type": "Word",
     "meaning": "to pursue unrealistic or unattainable goals",
     "synonyms": [],
@@ -8492,7 +8492,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "Chew out ,
+    "word": "Chew out Meaning",
     "type": "Word",
     "meaning": "reprimand someone severely",
     "synonyms": [],
@@ -8501,7 +8501,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Chew over ,
+    "word": "Chew over Meaning",
     "type": "Word",
     "meaning": "To think about something carefully or discuss it thoroughly",
     "synonyms": [],
@@ -8535,7 +8535,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "Chime in ,
+    "word": "Chime in Meaning",
     "type": "Word",
     "meaning": "to join a conversation or discussion",
     "synonyms": [],
@@ -8616,7 +8616,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Choose out ,
+    "word": "Choose out Meaning",
     "type": "Word",
     "meaning": "To select or pick something from a group (less commonly used)",
     "synonyms": [],
@@ -8853,15 +8853,15 @@ export const vocabularyWords = [
     "antonyms": [
       "Open",
       "Public",
-      "Overt  They held a clandestine meeting to plan the escape"
+      "Overt Sentence: They held a clandestine meeting to plan the escape"
     ],
     "example": "",
-    "source": "Monthly vocab;  u  "
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words"
   },
   {
     "word": "Clandestinely",
     "type": "गुप्त रूप से",
-    "meaning": "In a secretive or concealed manner, often to avoid detection.  ",
+    "meaning": "In a secretive or concealed manner, often to avoid detection. Follow us on https:; www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal ; t.me/NimishaMam",
     "synonyms": [
       "Secretly",
       "covertly",
@@ -8878,7 +8878,7 @@ export const vocabularyWords = [
   {
     "word": "Claptrap",
     "type": "बकवास / खोखली बातें",
-    "meaning": "Nonsensical or empty talk intended to impress but lacking real ,
+    "meaning": "Nonsensical or empty talk intended to impress but lacking real meaning",
     "synonyms": [
       "Nonsense",
       "Hogwash",
@@ -8949,7 +8949,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "Climb the ladder ,
+    "word": "Climb the ladder Meaning",
     "type": "Word",
     "meaning": "To advance or achieve success in a hierarchy, especially in a career",
     "synonyms": [],
@@ -8977,7 +8977,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Cling to ,
+    "word": "Cling to Meaning",
     "type": "Word",
     "meaning": "to hold on tightly to somebody/something",
     "synonyms": [],
@@ -9031,7 +9031,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "Clog up ,
+    "word": "Clog up Meaning",
     "type": "Word",
     "meaning": "to become or cause something to become blocked or obstructed",
     "synonyms": [],
@@ -9094,7 +9094,7 @@ export const vocabularyWords = [
       "Sophisticated"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Coast",
@@ -9120,7 +9120,7 @@ export const vocabularyWords = [
       "repel",
       "discourage"
     ],
-    "example": "She managed to coax her little brother into doing his homework by offering him a treat.  ",
+    "example": "She managed to coax her little brother into doing his homework by offering him a treat. Follow us on https://www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal //t.me/NimishaMam",
     "source": "Monthly vocab"
   },
   {
@@ -9218,7 +9218,7 @@ export const vocabularyWords = [
     "antonyms": [
       "Weak",
       "Unconvincing",
-      "Illogical  She gave a cogent argument that won the debate",
+      "Illogical Sentence: She gave a cogent argument that won the debate",
       "Spurious"
     ],
     "example": "Her cogent argument persuaded the committee to adopt the policy.",
@@ -9394,10 +9394,10 @@ export const vocabularyWords = [
       "Part with"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
-    "word": "Come across ,
+    "word": "Come across Meaning",
     "type": "Word",
     "meaning": "To meet or find someone or something by chance",
     "synonyms": [],
@@ -9406,7 +9406,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Come along ,
+    "word": "Come along Meaning",
     "type": "Word",
     "meaning": "To arrive or appear; to make progress or improve",
     "synonyms": [],
@@ -9415,7 +9415,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Come down to ,
+    "word": "Come down to Meaning",
     "type": "Word",
     "meaning": "To make a decision based on the most important factors",
     "synonyms": [],
@@ -9424,7 +9424,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Come rain or shine ,
+    "word": "Come rain or shine Meaning",
     "type": "Word",
     "meaning": "used to say that something will happen even it rains",
     "synonyms": [],
@@ -9433,7 +9433,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Come up with ,
+    "word": "Come up with Meaning",
     "type": "Word",
     "meaning": "To think of or produce an idea or solution",
     "synonyms": [],
@@ -9531,7 +9531,7 @@ export const vocabularyWords = [
       "Adversary"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Compassion",
@@ -9545,7 +9545,7 @@ export const vocabularyWords = [
       "indifference"
     ],
     "example": "She felt great compassion for the stray dogs she saw in the street.",
-    "source": " u  ; RedBook OWS"
+    "source": "Padakuu 551 repeated SSC words; RedBook OWS"
   },
   {
     "word": "Compatriots",
@@ -9596,13 +9596,13 @@ export const vocabularyWords = [
       "inadequacy",
       "inability"
     ],
-    "example": "The board questioned the competence of the management in handling the crisis.  ",
+    "example": "The board questioned the competence of the management in handling the crisis. Follow us on https://www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal //t.me/NimishaMam",
     "source": "Monthly vocab"
   },
   {
     "word": "Complacency",
     "type": "आत्मसंतोष",
-    "meaning": "A feeling of self-satisfaction, often while unaware of potential dangers or   problems",
+    "meaning": "A feeling of self-satisfaction, often while unaware of potential dangers or Follow us on https:; www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal ; t.me/NimishaMam problems",
     "synonyms": [
       "Self-satisfaction",
       "contentment",
@@ -9651,7 +9651,7 @@ export const vocabularyWords = [
       "Grumbling"
     ],
     "example": "The team became complacent after winning their first few matches.",
-    "source": "Monthly vocab;  u  ; RedBook OWS"
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words; RedBook OWS"
   },
   {
     "word": "Complaisant",
@@ -9684,7 +9684,7 @@ export const vocabularyWords = [
       "Mean"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Compliment",
@@ -9733,7 +9733,7 @@ export const vocabularyWords = [
       "partial"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Compunction",
@@ -9756,7 +9756,7 @@ export const vocabularyWords = [
     "antonyms": [
       "disconnection",
       "break",
-      "isolation  A strange concatenation of events led to his promotion"
+      "isolation Sentence: A strange concatenation of events led to his promotion"
     ],
     "example": "",
     "source": "Monthly vocab"
@@ -9832,7 +9832,7 @@ export const vocabularyWords = [
       "provocation"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Conciliatory",
@@ -9866,7 +9866,7 @@ export const vocabularyWords = [
     ],
     "antonyms": [],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Concubinage",
@@ -9955,7 +9955,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab; RedBook OWS"
   },
   {
-    "word": "Conducive ,
+    "word": "Conducive Meaning",
     "type": "Word",
     "meaning": "Making a situation or outcome more likely to occur. Hindi Meaning: अनुकूल, सहायक",
     "synonyms": [
@@ -10045,7 +10045,7 @@ export const vocabularyWords = [
     "antonyms": [
       "Extinction",
       "Calm",
-      "Quenching  The warehouse was destroyed in a massive conflagration"
+      "Quenching Sentence: The warehouse was destroyed in a massive conflagration"
     ],
     "example": "",
     "source": "Monthly vocab"
@@ -10153,7 +10153,7 @@ export const vocabularyWords = [
       "Assuage"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Confront",
@@ -10167,7 +10167,7 @@ export const vocabularyWords = [
       "avoid"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Confrontation",
@@ -10188,7 +10188,7 @@ export const vocabularyWords = [
       "Yielding: Approval Acceptance Agreement: Deference. Conformity"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Confutation",
@@ -10263,7 +10263,7 @@ export const vocabularyWords = [
       "conflict"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Congruent",
@@ -10289,7 +10289,7 @@ export const vocabularyWords = [
       "Incompatible"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Congruity",
@@ -10450,7 +10450,7 @@ export const vocabularyWords = [
       "Tolerant"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Console",
@@ -10528,7 +10528,7 @@ export const vocabularyWords = [
       "Simplemindedness"
     ],
     "example": "The police uncovered a conspiracy to rob the national bank.",
-    "source": " u  ; RedBook OWS"
+    "source": "Padakuu 551 repeated SSC words; RedBook OWS"
   },
   {
     "word": "Constellation",
@@ -10577,7 +10577,7 @@ export const vocabularyWords = [
   {
     "word": "Constrained",
     "type": "प्रǓतबंͬधत/बाध्य",
-    "meaning": "Restricted or limited in scope or   action",
+    "meaning": "Restricted or limited in scope or Follow us on https:; www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal ; t.me/NimishaMam action",
     "synonyms": [
       "Restricted",
       "hindered",
@@ -10611,7 +10611,7 @@ export const vocabularyWords = [
       "Reasonably"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Consummate",
@@ -10781,7 +10781,7 @@ export const vocabularyWords = [
   {
     "word": "Contentious",
     "type": "ͪववादास्पद",
-    "meaning": "Causing or likely to cause an argument; controversial.  ",
+    "meaning": "Causing or likely to cause an argument; controversial. Follow us on https:; www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal ; t.me/NimishaMam",
     "synonyms": [
       "Disputed",
       "debatable",
@@ -10822,7 +10822,7 @@ export const vocabularyWords = [
   {
     "word": "Contingent",
     "type": "Ǔनभ[र",
-    "meaning": "Dependent on certain conditions   being met",
+    "meaning": "Dependent on certain conditions Follow us on https:; www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal ; t.me/NimishaMam being met",
     "synonyms": [
       "Conditional",
       "dependent",
@@ -10896,7 +10896,7 @@ export const vocabularyWords = [
       "Impudence"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Contrivance",
@@ -10930,7 +10930,7 @@ export const vocabularyWords = [
       "Disruption"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Contumacious",
@@ -10947,7 +10947,7 @@ export const vocabularyWords = [
     "antonyms": [
       "compliant",
       "submissive",
-      "obedient  The contumacious protestors refused to leave the site",
+      "obedient Sentence: The contumacious protestors refused to leave the site",
       "obedient"
     ],
     "example": "The contumacious student refused to follow instructions.",
@@ -11007,7 +11007,7 @@ export const vocabularyWords = [
       "deteriorate"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Convalescence",
@@ -11046,7 +11046,7 @@ export const vocabularyWords = [
       "sullen",
       "dull"
     ],
-    "example": "Everyone enjoyed the convivial atmosphere at the reunion party.  ",
+    "example": "Everyone enjoyed the convivial atmosphere at the reunion party. Follow us on https://www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal //t.me/NimishaMam",
     "source": "Monthly vocab"
   },
   {
@@ -11076,7 +11076,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "Cook someone’s goose ,
+    "word": "Cook someone’s goose Meaning",
     "type": "Word",
     "meaning": "spoil other person’s chances of success",
     "synonyms": [],
@@ -11124,7 +11124,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Cork something up ,
+    "word": "Cork something up Meaning",
     "type": "Word",
     "meaning": "to not allow oneself to express once anger, worry, or sadness",
     "synonyms": [],
@@ -11153,7 +11153,7 @@ export const vocabularyWords = [
     "antonyms": [
       "Thin",
       "Slim",
-      "Lean  The corpulent man struggled to climb the stairs"
+      "Lean Sentence: The corpulent man struggled to climb the stairs"
     ],
     "example": "",
     "source": "Monthly vocab"
@@ -11238,7 +11238,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "Count on ,
+    "word": "Count on Meaning",
     "type": "Word",
     "meaning": "To rely on or choose something or someone as a dependable option",
     "synonyms": [],
@@ -11339,7 +11339,7 @@ export const vocabularyWords = [
       "Unpleasing"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Craggy",
@@ -11386,7 +11386,7 @@ export const vocabularyWords = [
       "Reliable"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Credence",
@@ -11416,7 +11416,7 @@ export const vocabularyWords = [
       "Rejection"
     ],
     "example": "The witness’s testimony gave credence to the defendant’s version of events.",
-    "source": "Monthly vocab;  u  "
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words"
   },
   {
     "word": "Credible",
@@ -11511,7 +11511,7 @@ export const vocabularyWords = [
       "Embellished"
     ],
     "example": "India's action crippled Nepal’s economy during the border blockade.",
-    "source": "Monthly vocab;  u  "
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words"
   },
   {
     "word": "Crippling",
@@ -11584,7 +11584,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "Crocodile tears ,
+    "word": "Crocodile tears Meaning",
     "type": "Word",
     "meaning": "False or insincere expressions of sorrow",
     "synonyms": [],
@@ -11670,7 +11670,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "Cry over spilled milk ,
+    "word": "Cry over spilled milk Meaning",
     "type": "Word",
     "meaning": "To be upset about something that cannot be undone or changed",
     "synonyms": [],
@@ -11681,7 +11681,7 @@ export const vocabularyWords = [
   {
     "word": "Cryptic",
     "type": "गूढ़, रहस्यमय",
-    "meaning": "Having a hidden or mysterious ,
+    "meaning": "Having a hidden or mysterious meaning",
     "synonyms": [
       "Mysterious",
       "Enigmatic"
@@ -11790,7 +11790,7 @@ export const vocabularyWords = [
       "Neglected"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Culture",
@@ -11868,7 +11868,7 @@ export const vocabularyWords = [
     "antonyms": [
       "Generosity",
       "Contentment",
-      "Selflessness  His cupidity drove him to commit fraud"
+      "Selflessness Sentence: His cupidity drove him to commit fraud"
     ],
     "example": "",
     "source": "Monthly vocab"
@@ -11885,7 +11885,7 @@ export const vocabularyWords = [
   {
     "word": "Curbed",
     "type": "Ǔनयंत्रण में रखना",
-    "meaning": "To control or limit something that is undesirable.  ",
+    "meaning": "To control or limit something that is undesirable. Follow us on https:; www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal ; t.me/NimishaMam",
     "synonyms": [
       "Restrained",
       "controlled",
@@ -11918,7 +11918,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "Curiosity killed the cat ,
+    "word": "Curiosity killed the cat Meaning",
     "type": "Word",
     "meaning": "Being too curious or inquisitive can lead to trouble or danger",
     "synonyms": [],
@@ -11999,7 +11999,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Cut down ,
+    "word": "Cut down Meaning",
     "type": "Word",
     "meaning": "To reduce something in size, quantity, or use",
     "synonyms": [],
@@ -12008,7 +12008,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Cut in ,
+    "word": "Cut in Meaning",
     "type": "Word",
     "meaning": "interrupt someone while they are speaking",
     "synonyms": [],
@@ -12017,7 +12017,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Cut no ice ,
+    "word": "Cut no ice Meaning",
     "type": "Word",
     "meaning": "have no influence or effect",
     "synonyms": [],
@@ -12026,7 +12026,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Cut out ,
+    "word": "Cut out Meaning",
     "type": "Word",
     "meaning": "To stop doing something, or to remove something",
     "synonyms": [],
@@ -12035,7 +12035,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Cut the Gordian knot ,
+    "word": "Cut the Gordian knot Meaning",
     "type": "Word",
     "meaning": "To solve a complex problem in a simple, decisive way",
     "synonyms": [],
@@ -12044,7 +12044,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Cut up ,
+    "word": "Cut up Meaning",
     "type": "Word",
     "meaning": "to behave in a very active and silly way in order to make people laugh",
     "synonyms": [],
@@ -12166,7 +12166,7 @@ export const vocabularyWords = [
       "Sensitive"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Damning",
@@ -12195,7 +12195,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "Dark Horse ,
+    "word": "Dark Horse Meaning",
     "type": "Word",
     "meaning": "an unexpected winner",
     "synonyms": [],
@@ -12267,10 +12267,10 @@ export const vocabularyWords = [
       "hurry"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
-    "word": "Days are numbered ,
+    "word": "Days are numbered Meaning",
     "type": "Word",
     "meaning": "someone or something will not last much longer, or will fail, die, or end soon",
     "synonyms": [],
@@ -12290,10 +12290,10 @@ export const vocabularyWords = [
       "de facto"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
-    "word": "Dead in the water ,
+    "word": "Dead in the water Meaning",
     "type": "Word",
     "meaning": "Completely stalled or unable to progress",
     "synonyms": [],
@@ -12334,7 +12334,7 @@ export const vocabularyWords = [
       "Abundance",
       "surplus",
       "plenty",
-      "Surplus  There is a dearth of skilled workers in the industry"
+      "Surplus Sentence: There is a dearth of skilled workers in the industry"
     ],
     "example": "The dearth of skilled professionals has hindered the company’s growth.",
     "source": "Monthly vocab"
@@ -12354,7 +12354,7 @@ export const vocabularyWords = [
       "Success",
       "triumph",
       "achievement",
-      "Victory  The project turned into a financial debacle"
+      "Victory Sentence: The project turned into a financial debacle"
     ],
     "example": "Many believed the Liberals were heading for an electoral debacle after Trudeau’s resignation.",
     "source": "Monthly vocab"
@@ -12390,7 +12390,7 @@ export const vocabularyWords = [
       "Fortify",
       "Invigorate"
     ],
-    "example": "Prolonged inflation can debilitate purchasing power.  ",
+    "example": "Prolonged inflation can debilitate purchasing power. Follow us on https://www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal //t.me/NimishaMam",
     "source": "Monthly vocab"
   },
   {
@@ -12433,7 +12433,7 @@ export const vocabularyWords = [
   {
     "word": "Debunk",
     "type": "Word",
-    "meaning": "To expose the falseness of a claim or belief  ",
+    "meaning": "To expose the falseness of a claim or belief Follow us on https:; www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal ; t.me/NimishaMam",
     "synonyms": [
       "Expose",
       "Discredit",
@@ -12528,7 +12528,7 @@ export const vocabularyWords = [
   {
     "word": "Decisive",
     "type": "Ǔनणा[यक",
-    "meaning": "Settling an issue; producing a definite   result",
+    "meaning": "Settling an issue; producing a definite Follow us on https:; www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal ; t.me/NimishaMam result",
     "synonyms": [
       "Conclusive",
       "critical",
@@ -12627,7 +12627,7 @@ export const vocabularyWords = [
   {
     "word": "Defeatist",
     "type": "हार मानने वाला",
-    "meaning": "A person who expects or is ready to accept failure.  ",
+    "meaning": "A person who expects or is ready to accept failure. Follow us on https:; www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal ; t.me/NimishaMam",
     "synonyms": [
       "Pessimist",
       "quitter",
@@ -12667,7 +12667,7 @@ export const vocabularyWords = [
     "antonyms": [
       "retention",
       "acceptance",
-      "preservation  The rebels resorted to defenestration during the uprising"
+      "preservation Sentence: The rebels resorted to defenestration during the uprising"
     ],
     "example": "",
     "source": "Monthly vocab"
@@ -12789,7 +12789,7 @@ export const vocabularyWords = [
       "glorify"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Deft",
@@ -12806,7 +12806,7 @@ export const vocabularyWords = [
       "Clumsy",
       "awkward",
       "inept",
-      "Inept  The chef’s deft hands prepared the meal swiftly"
+      "Inept Sentence: The chef’s deft hands prepared the meal swiftly"
     ],
     "example": "A deft diplomatic strategy is required to manage India-Bangladesh relations during this volatile period.",
     "source": "Monthly vocab"
@@ -12844,7 +12844,7 @@ export const vocabularyWords = [
       "operational",
       "functioning",
       "existent",
-      "Existing  The factory has been defunct for years"
+      "Existing Sentence: The factory has been defunct for years"
     ],
     "example": "The factory became defunct after the company declared bankruptcy.",
     "source": "Monthly vocab"
@@ -12887,7 +12887,7 @@ export const vocabularyWords = [
       "Defile"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Delegate",
@@ -12915,7 +12915,7 @@ export const vocabularyWords = [
       "helpful",
       "advantageous",
       "salutary",
-      "favorable.  Smoking has deleterious effects on human health",
+      "favorable. Sentence: Smoking has deleterious effects on human health",
       "Harmless"
     ],
     "example": "Smoking has a deleterious effect on health, increasing the risk of lung diseases.",
@@ -12936,7 +12936,7 @@ export const vocabularyWords = [
       "accidental"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Deliberation",
@@ -13009,7 +13009,7 @@ export const vocabularyWords = [
       "well behaved"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Deliquesce",
@@ -13030,7 +13030,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "Delve into ,
+    "word": "Delve into Meaning",
     "type": "Word",
     "meaning": "to examine something carefully to gain a deeper understanding of it",
     "synonyms": [],
@@ -13101,7 +13101,7 @@ export const vocabularyWords = [
       "conscript"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Democracy",
@@ -13185,7 +13185,7 @@ export const vocabularyWords = [
     "antonyms": [
       "Praise",
       "Compliment",
-      "Admire  He was quick to denigrate his rivals"
+      "Admire Sentence: He was quick to denigrate his rivals"
     ],
     "example": "It is not right to denigrate someone's achievements just out of jealousy.",
     "source": "Monthly vocab; RedBook OWS"
@@ -13193,7 +13193,7 @@ export const vocabularyWords = [
   {
     "word": "Denouement",
     "type": "समािप्त",
-    "meaning": "The final part of a narrative or drama,   where matters are explained or resolved",
+    "meaning": "The final part of a narrative or drama, Follow us on https:; www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal ; t.me/NimishaMam where matters are explained or resolved",
     "synonyms": [
       "Conclusion",
       "outcome",
@@ -13304,7 +13304,7 @@ export const vocabularyWords = [
       "concentrate"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Deponent",
@@ -13327,7 +13327,7 @@ export const vocabularyWords = [
     ],
     "antonyms": [],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Depraved",
@@ -13526,7 +13526,7 @@ export const vocabularyWords = [
       "Moisten",
       "Dampen"
     ],
-    "example": "The sun desiccated the wet ground.  ",
+    "example": "The sun desiccated the wet ground. Follow us on https://www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal //t.me/NimishaMam",
     "source": "Monthly vocab"
   },
   {
@@ -13585,7 +13585,7 @@ export const vocabularyWords = [
     ],
     "antonyms": [],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Desperate",
@@ -13616,7 +13616,7 @@ export const vocabularyWords = [
       "Contented"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Despondency",
@@ -13643,7 +13643,7 @@ export const vocabularyWords = [
       "Exhilaration"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Despot",
@@ -13811,7 +13811,7 @@ export const vocabularyWords = [
       "improve",
       "increase"
     ],
-    "example": "Incomplete regulations detract from the overall impact of health reforms.  ",
+    "example": "Incomplete regulations detract from the overall impact of health reforms. Follow us on https://www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal //t.me/NimishaMam",
     "source": "Monthly vocab"
   },
   {
@@ -13826,7 +13826,7 @@ export const vocabularyWords = [
       "benefit"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Detrimental",
@@ -13883,7 +13883,7 @@ export const vocabularyWords = [
       "apathetic"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Dexterous",
@@ -14102,7 +14102,7 @@ export const vocabularyWords = [
     ],
     "antonyms": [],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Dilatory",
@@ -14178,7 +14178,7 @@ export const vocabularyWords = [
       "Slowness"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Diligent",
@@ -14200,7 +14200,7 @@ export const vocabularyWords = [
   {
     "word": "Dilute",
     "type": "कमजोर करना",
-    "meaning": "To make something weaker in force,   content, or value by adding something else",
+    "meaning": "To make something weaker in force, Follow us on https:; www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal ; t.me/NimishaMam content, or value by adding something else",
     "synonyms": [
       "Weaken",
       "lessen",
@@ -14251,7 +14251,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Dip into ,
+    "word": "Dip into Meaning",
     "type": "Word",
     "meaning": "To choose to use a small part of a resource or reserve",
     "synonyms": [],
@@ -14314,7 +14314,7 @@ export const vocabularyWords = [
       "Energetic"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Disapprobation",
@@ -14358,7 +14358,7 @@ export const vocabularyWords = [
       "fortunate"
     ],
     "example": "The disastrous consequences of the prolonged war have left the country in ruins.",
-    "source": "Monthly vocab;  u  "
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words"
   },
   {
     "word": "Disavow",
@@ -14441,7 +14441,7 @@ export const vocabularyWords = [
     "antonyms": [
       "Comfort",
       "Reassure",
-      "Encourage  His unexpected question discomfited the speaker"
+      "Encourage Sentence: His unexpected question discomfited the speaker"
     ],
     "example": "",
     "source": "Monthly vocab"
@@ -14489,7 +14489,7 @@ export const vocabularyWords = [
       "Union"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Discreet",
@@ -14546,7 +14546,7 @@ export const vocabularyWords = [
       "harmony"
     ],
     "example": "The discrepancy in the financial reports raised suspicions of fraud.",
-    "source": "Monthly vocab;  u  "
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words"
   },
   {
     "word": "Discretion",
@@ -14627,7 +14627,7 @@ export const vocabularyWords = [
       "attach"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Disgraceful",
@@ -14696,7 +14696,7 @@ export const vocabularyWords = [
       "unity",
       "integration"
     ],
-    "example": "There is a growing disjuncture between what politicians promise and what they deliver.  ",
+    "example": "There is a growing disjuncture between what politicians promise and what they deliver. Follow us on https://www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal //t.me/NimishaMam",
     "source": "Monthly vocab"
   },
   {
@@ -14741,12 +14741,12 @@ export const vocabularyWords = [
       "encourage"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Disorienting",
     "type": "भ्रͧमत करने वाला",
-    "meaning": "Causing someone to lose their sense of direction or feel confused.  ",
+    "meaning": "Causing someone to lose their sense of direction or feel confused. Follow us on https:; www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal ; t.me/NimishaMam",
     "synonyms": [
       "Confusing",
       "bewildering",
@@ -14841,7 +14841,7 @@ export const vocabularyWords = [
       "Parallelism"
     ],
     "example": "The economic disparity between developed and developing nations continues to widen.",
-    "source": "Monthly vocab;  u  "
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words"
   },
   {
     "word": "Dispassionate",
@@ -14872,7 +14872,7 @@ export const vocabularyWords = [
       "include"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Dispute",
@@ -14918,7 +14918,7 @@ export const vocabularyWords = [
     "antonyms": [
       "note",
       "summary",
-      "précis  The professor wrote a disquisition on medieval history"
+      "précis Sentence: The professor wrote a disquisition on medieval history"
     ],
     "example": "",
     "source": "Monthly vocab"
@@ -14963,7 +14963,7 @@ export const vocabularyWords = [
       "stable",
       "non-interfering"
     ],
-    "example": "The startup introduced a disruptive technology that changed the way businesses operated.  ",
+    "example": "The startup introduced a disruptive technology that changed the way businesses operated. Follow us on https://www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal //t.me/NimishaMam",
     "source": "Monthly vocab"
   },
   {
@@ -14978,7 +14978,7 @@ export const vocabularyWords = [
     "antonyms": [
       "Reveal",
       "Disclose",
-      "Express  He tried to dissemble his anger behind a smile"
+      "Express Sentence: He tried to dissemble his anger behind a smile"
     ],
     "example": "",
     "source": "Monthly vocab"
@@ -15020,7 +15020,7 @@ export const vocabularyWords = [
       "harmony"
     ],
     "example": "Justice Dhulia expressed dissent, emphasizing the need for broader economic inclusion.",
-    "source": "Monthly vocab;  u  "
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words"
   },
   {
     "word": "Dissident",
@@ -15070,7 +15070,7 @@ export const vocabularyWords = [
       "concentration",
       "preservation"
     ],
-    "example": "The dissipation of the post-COVID economic boom has led to a more cautious outlook for the future.  ",
+    "example": "The dissipation of the post-COVID economic boom has led to a more cautious outlook for the future. Follow us on https://www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal //t.me/NimishaMam",
     "source": "Monthly vocab"
   },
   {
@@ -15104,7 +15104,7 @@ export const vocabularyWords = [
       "Shut"
     ],
     "example": "His stomach began to distend after drinking too much water.",
-    "source": "Monthly vocab;  u  "
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words"
   },
   {
     "word": "Distraught",
@@ -15124,7 +15124,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Dive into ,
+    "word": "Dive into Meaning",
     "type": "Word",
     "meaning": "To begin something with enthusiasm and energy",
     "synonyms": [],
@@ -15187,7 +15187,7 @@ export const vocabularyWords = [
       "Retain"
     ],
     "example": "He refused to divulge details of the ongoing investigation.",
-    "source": "Monthly vocab;  u  ; RedBook OWS"
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words; RedBook OWS"
   },
   {
     "word": "Divulse",
@@ -15213,7 +15213,7 @@ export const vocabularyWords = [
       "Fasten"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Docile",
@@ -15252,7 +15252,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Dog Days ,
+    "word": "Dog Days Meaning",
     "type": "Word",
     "meaning": "the hottest days of the summer",
     "synonyms": [],
@@ -15261,7 +15261,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Dog days of summer ,
+    "word": "Dog days of summer Meaning",
     "type": "Word",
     "meaning": "the hottest day of the summer season",
     "synonyms": [],
@@ -15409,7 +15409,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Down for the count ,
+    "word": "Down for the count Meaning",
     "type": "Word",
     "meaning": "someone has fallen and is unable to rise up again",
     "synonyms": [],
@@ -15427,7 +15427,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "Doze off ,
+    "word": "Doze off Meaning",
     "type": "Word",
     "meaning": "Fall asleep",
     "synonyms": [],
@@ -15460,10 +15460,10 @@ export const vocabularyWords = [
       "gentle"
     ],
     "example": "The government imposed draconian laws to curb illegal immigration.",
-    "source": "Monthly vocab;  u  "
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words"
   },
   {
-    "word": "Draw a longbow ,
+    "word": "Draw a longbow Meaning",
     "type": "Word",
     "meaning": "to exaggerate in telling stories; overstate something",
     "synonyms": [],
@@ -15481,7 +15481,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "Drive one up the wall ,
+    "word": "Drive one up the wall Meaning",
     "type": "Word",
     "meaning": "make someone very irritated or angry",
     "synonyms": [],
@@ -15499,7 +15499,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "Drop back ,
+    "word": "Drop back Meaning",
     "type": "Word",
     "meaning": "To move back or fall behind in position or progress",
     "synonyms": [],
@@ -15508,7 +15508,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Drop by ,
+    "word": "Drop by Meaning",
     "type": "Word",
     "meaning": "To visit someone informally or without an appointment",
     "synonyms": [],
@@ -15517,7 +15517,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Drop off ,
+    "word": "Drop off Meaning",
     "type": "Word",
     "meaning": "To take someone or something to a specific place and leave them there; to fall asleep",
     "synonyms": [],
@@ -15570,7 +15570,7 @@ export const vocabularyWords = [
       "Walk"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Drudgery",
@@ -15597,7 +15597,7 @@ export const vocabularyWords = [
       "Sloth-fulness"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Dubious",
@@ -15615,7 +15615,7 @@ export const vocabularyWords = [
       "reliable"
     ],
     "example": "Many workers remain dubious about the government’s real intentions behind the amendments.",
-    "source": "Monthly vocab;  u  "
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words"
   },
   {
     "word": "Ductile",
@@ -15674,7 +15674,7 @@ export const vocabularyWords = [
       "Honesty",
       "Sincerity"
     ],
-    "example": "The manager was fired for his duplicity in business deals.  ",
+    "example": "The manager was fired for his duplicity in business deals. Follow us on https://www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal //t.me/NimishaMam",
     "source": "Monthly vocab"
   },
   {
@@ -15736,7 +15736,7 @@ export const vocabularyWords = [
       "half-hearted"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Dynasty",
@@ -15809,7 +15809,7 @@ export const vocabularyWords = [
       "casual"
     ],
     "example": "The lawyer made an earnest plea for justice in the courtroom.",
-    "source": "Monthly vocab;  u  "
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words"
   },
   {
     "word": "Earnestly",
@@ -15829,7 +15829,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Ease off ,
+    "word": "Ease off Meaning",
     "type": "Word",
     "meaning": "to gradually stop or become less",
     "synonyms": [],
@@ -15847,7 +15847,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "Easy as ABC ,
+    "word": "Easy as ABC Meaning",
     "type": "Word",
     "meaning": "extremely easy or straightforward",
     "synonyms": [],
@@ -15856,7 +15856,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Eat like a bird ,
+    "word": "Eat like a bird Meaning",
     "type": "Word",
     "meaning": "eat very little",
     "synonyms": [],
@@ -15898,7 +15898,7 @@ export const vocabularyWords = [
       "Spring: Float Stream"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Ebullience",
@@ -15965,7 +15965,7 @@ export const vocabularyWords = [
       "limited",
       "homogeneous"
     ],
-    "example": "The artist's eclectic style was influenced by a wide range of cultural   traditions.",
+    "example": "The artist's eclectic style was influenced by a wide range of cultural Follow us on https://www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal //t.me/NimishaMam traditions.",
     "source": "Monthly vocab"
   },
   {
@@ -16098,7 +16098,7 @@ export const vocabularyWords = [
       "lifeless",
       "subdued",
       "Depressed",
-      "Flat  Her effervescent personality made her popular"
+      "Flat Sentence: Her effervescent personality made her popular"
     ],
     "example": "Her effervescent personality made her the center of attention at the party.",
     "source": "Monthly vocab; RedBook OWS"
@@ -16157,7 +16157,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "Egg on ,
+    "word": "Egg on Meaning",
     "type": "Word",
     "meaning": "to encourage or urge someone to do something, usually something that is foolish or dangerous",
     "synonyms": [],
@@ -16218,7 +16218,7 @@ export const vocabularyWords = [
       "Minor",
       "trivial",
       "negligible",
-      "Wonderful  The company’s egregious mistake cost them millions"
+      "Wonderful Sentence: The company’s egregious mistake cost them millions"
     ],
     "example": "The PAC highlighted egregious errors in the government’s financial records.",
     "source": "Monthly vocab; RedBook OWS"
@@ -16241,7 +16241,7 @@ export const vocabularyWords = [
       "entry"
     ],
     "example": "The factory lacked proper egress routes, making it hard for workers to escape during the fire.",
-    "source": "Monthly vocab;  u  "
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words"
   },
   {
     "word": "Elan",
@@ -16276,7 +16276,7 @@ export const vocabularyWords = [
       "Lethargy"
     ],
     "example": "She completed the performance with great élan.",
-    "source": "Monthly vocab;  u  "
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words"
   },
   {
     "word": "Elbowed out",
@@ -16316,7 +16316,7 @@ export const vocabularyWords = [
     "antonyms": [
       "Cheerful",
       "Joyful",
-      "Happy  The poem had an elegiac tone"
+      "Happy Sentence: The poem had an elegiac tone"
     ],
     "example": "",
     "source": "Monthly vocab"
@@ -16534,7 +16534,7 @@ export const vocabularyWords = [
       "Marred"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Ember",
@@ -16602,7 +16602,7 @@ export const vocabularyWords = [
   {
     "word": "Eminent",
     "type": "प्रख्यात",
-    "meaning": "Famous and respected within a particular sphere.  ",
+    "meaning": "Famous and respected within a particular sphere. Follow us on https:; www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal ; t.me/NimishaMam",
     "synonyms": [
       "Notable",
       "distinguished",
@@ -16637,7 +16637,7 @@ export const vocabularyWords = [
       "distance"
     ],
     "example": "A good counselor must have the empathy to truly connect with their clients.",
-    "source": " u  ; RedBook OWS"
+    "source": "Padakuu 551 repeated SSC words; RedBook OWS"
   },
   {
     "word": "Emphasise",
@@ -16679,7 +16679,7 @@ export const vocabularyWords = [
     "antonyms": [
       "neglect",
       "ignore",
-      "shun.  She tried to emulate her teacher’s success",
+      "shun. Sentence: She tried to emulate her teacher’s success",
       "Disregard"
     ],
     "example": "Startups often emulate the strategies of successful unicorns.",
@@ -16703,7 +16703,7 @@ export const vocabularyWords = [
     "antonyms": [
       "Criticism",
       "Blame",
-      "Condemnation  The teacher received an encomium from her students",
+      "Condemnation Sentence: The teacher received an encomium from her students",
       "Condemnation",
       "Denunciation",
       "Disapprobation",
@@ -16712,7 +16712,7 @@ export const vocabularyWords = [
       "Reproach"
     ],
     "example": "",
-    "source": "Monthly vocab;  u  "
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words"
   },
   {
     "word": "Encroach",
@@ -16904,12 +16904,12 @@ export const vocabularyWords = [
     "antonyms": [
       "Strengthen",
       "Energize",
-      "Invigorate  The long illness enervated his body",
+      "Invigorate Sentence: The long illness enervated his body",
       "mind",
       "invigorate"
     ],
     "example": "",
-    "source": "Monthly vocab;  u  "
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words"
   },
   {
     "word": "Engender",
@@ -16935,7 +16935,7 @@ export const vocabularyWords = [
       "Suffocate"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Engulf",
@@ -17103,7 +17103,7 @@ export const vocabularyWords = [
       "Unimportant"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Ensconce",
@@ -17428,7 +17428,7 @@ export const vocabularyWords = [
       "innovator",
       "pioneer"
     ],
-    "example": "Critics called him an epigone of the famous poet.  ",
+    "example": "Critics called him an epigone of the famous poet. Follow us on https://www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal //t.me/NimishaMam",
     "source": "Monthly vocab"
   },
   {
@@ -17515,8 +17515,8 @@ export const vocabularyWords = [
     "antonyms": [
       "Agitation",
       "Anxiety",
-      "Panic  She handled the situation with perfect equanimity",
-      "Irritability  He handled the crisis with great equanimity"
+      "Panic Sentence: She handled the situation with perfect equanimity",
+      "Irritability Sentence: He handled the crisis with great equanimity"
     ],
     "example": "",
     "source": "Monthly vocab"
@@ -17560,7 +17560,7 @@ export const vocabularyWords = [
       "inequitable"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Equivocate",
@@ -17728,7 +17728,7 @@ export const vocabularyWords = [
       "present"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Erudite",
@@ -18055,7 +18055,7 @@ export const vocabularyWords = [
       "Infamy"
     ],
     "example": "His daughter delivered a beautiful eulogy at the funeral service.",
-    "source": " u  ; RedBook OWS"
+    "source": "Padakuu 551 repeated SSC words; RedBook OWS"
   },
   {
     "word": "Euphemism",
@@ -18102,7 +18102,7 @@ export const vocabularyWords = [
   {
     "word": "Euphoria",
     "type": "उत्साह",
-    "meaning": "A feeling or state of intense   excitement and happiness",
+    "meaning": "A feeling or state of intense Follow us on https:; www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal ; t.me/NimishaMam excitement and happiness",
     "synonyms": [
       "Elation",
       "joy",
@@ -18117,7 +18117,7 @@ export const vocabularyWords = [
       "Depression",
       "sadness"
     ],
-    "example": "There was a sense of euphoria in the crowd as the concert began.  ",
+    "example": "There was a sense of euphoria in the crowd as the concert began. Follow us on https://www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal //t.me/NimishaMam",
     "source": "Monthly vocab; RedBook OWS"
   },
   {
@@ -18258,7 +18258,7 @@ export const vocabularyWords = [
       "calm"
     ],
     "example": "The lack of funding will only exacerbate the issues in the healthcare system.",
-    "source": "Monthly vocab;  u  "
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words"
   },
   {
     "word": "Exacerbated",
@@ -18341,7 +18341,7 @@ export const vocabularyWords = [
       "partial"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Excogitate",
@@ -18373,7 +18373,7 @@ export const vocabularyWords = [
     "antonyms": [
       "praise",
       "commend",
-      "applaud  The coach excoriated the team for poor performance",
+      "applaud Sentence: The coach excoriated the team for poor performance",
       "Applaud",
       "Compliment",
       "approve"
@@ -18442,7 +18442,7 @@ export const vocabularyWords = [
     "antonyms": [
       "admirable",
       "excellent",
-      "praiseworthy  The play was execrable",
+      "praiseworthy Sentence: The play was execrable",
       "received harsh criticism",
       "pleasant"
     ],
@@ -18538,7 +18538,7 @@ export const vocabularyWords = [
       "Swap"
     ],
     "example": "She felt a sense of exhilaration as she reached the mountain summit.",
-    "source": " u  ; RedBook OWS"
+    "source": "Padakuu 551 repeated SSC words; RedBook OWS"
   },
   {
     "word": "Exhort",
@@ -18578,7 +18578,7 @@ export const vocabularyWords = [
       "commonplaceness"
     ],
     "example": "The exigency of the medical emergency required immediate surgical intervention.",
-    "source": " u  ; RedBook OWS"
+    "source": "Padakuu 551 repeated SSC words; RedBook OWS"
   },
   {
     "word": "Exigent",
@@ -18611,7 +18611,7 @@ export const vocabularyWords = [
       "ample",
       "plenty"
     ],
-    "example": "They survived on an exiguous amount of food.  ",
+    "example": "They survived on an exiguous amount of food. Follow us on https://www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal //t.me/NimishaMam",
     "source": "Monthly vocab"
   },
   {
@@ -18659,7 +18659,7 @@ export const vocabularyWords = [
       "fair",
       "Affordable"
     ],
-    "example": "The exorbitant property prices in urban areas make housing unaffordable for many.  ",
+    "example": "The exorbitant property prices in urban areas make housing unaffordable for many. Follow us on https://www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal //t.me/NimishaMam",
     "source": "Monthly vocab; RedBook OWS"
   },
   {
@@ -18784,7 +18784,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Expediting ,
+    "word": "Expediting Meaning",
     "type": "Word",
     "meaning": "Making a process happen sooner or be accomplished more quickly. Hindi Meaning: तेजी से करना, शीघ्रता लाना",
     "synonyms": [
@@ -18825,7 +18825,7 @@ export const vocabularyWords = [
       "sluggish"
     ],
     "example": "The team completed the work in an expeditious manner.",
-    "source": "Monthly vocab;  u  "
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words"
   },
   {
     "word": "Expel",
@@ -18866,7 +18866,7 @@ export const vocabularyWords = [
       "inexplicable"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Expostulate",
@@ -18881,7 +18881,7 @@ export const vocabularyWords = [
     "antonyms": [
       "agree",
       "comply",
-      "approve  The teacher expostulated with the students about cheating",
+      "approve Sentence: The teacher expostulated with the students about cheating",
       "accept",
       "approve"
     ],
@@ -18909,7 +18909,7 @@ export const vocabularyWords = [
       "non-existent"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Extemporaneous",
@@ -18923,7 +18923,7 @@ export const vocabularyWords = [
     "antonyms": [
       "Prepared",
       "Planned",
-      "Rehearsed  His extemporaneous speech impressed everyone"
+      "Rehearsed Sentence: His extemporaneous speech impressed everyone"
     ],
     "example": "",
     "source": "Monthly vocab"
@@ -19025,7 +19025,7 @@ export const vocabularyWords = [
       "intrinsic"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Extravagant",
@@ -19063,7 +19063,7 @@ export const vocabularyWords = [
       "confine"
     ],
     "example": "The firefighters worked tirelessly to extricate the survivors from the collapsed building.",
-    "source": "Monthly vocab;  u  "
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words"
   },
   {
     "word": "Extrovert",
@@ -19086,7 +19086,7 @@ export const vocabularyWords = [
       "gloom"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Exuberant",
@@ -19162,7 +19162,7 @@ export const vocabularyWords = [
       "real"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Facetious",
@@ -19176,7 +19176,7 @@ export const vocabularyWords = [
     "antonyms": [
       "Serious",
       "Sincere",
-      "Grave  His facetious comment during the meeting annoyed his boss"
+      "Grave Sentence: His facetious comment during the meeting annoyed his boss"
     ],
     "example": "",
     "source": "Monthly vocab"
@@ -19237,7 +19237,7 @@ export const vocabularyWords = [
       "extremely"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Fake",
@@ -19251,14 +19251,14 @@ export const vocabularyWords = [
   {
     "word": "Fall apart",
     "type": "Word",
-    "meaning": "to break (into pieces)   128. chip in Meaning: to join in or interrupt a conversation",
+    "meaning": "to break (into pieces) Follow us on https:; www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal ; t.me/NimishaMam 128. chip in Meaning: to join in or interrupt a conversation",
     "synonyms": [],
     "antonyms": [],
     "example": "",
     "source": "Monthly vocab"
   },
   {
-    "word": "Fall apart ,
+    "word": "Fall apart Meaning",
     "type": "Word",
     "meaning": "to fail completely and be unable to continue in the usual way",
     "synonyms": [],
@@ -19267,7 +19267,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Fall behind ,
+    "word": "Fall behind Meaning",
     "type": "Word",
     "meaning": "To fail to keep up with others or a set schedule",
     "synonyms": [],
@@ -19276,7 +19276,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Fall out ,
+    "word": "Fall out Meaning",
     "type": "Word",
     "meaning": "To have a disagreement or argument leading to a break in a relationship",
     "synonyms": [],
@@ -19340,7 +19340,7 @@ export const vocabularyWords = [
     "antonyms": [
       "active",
       "fertile",
-      "productive.  The farmer left the land fallow for one season"
+      "productive. Sentence: The farmer left the land fallow for one season"
     ],
     "example": "",
     "source": "Monthly vocab"
@@ -19596,7 +19596,7 @@ export const vocabularyWords = [
     "antonyms": [
       "Sensible",
       "Intelligent",
-      "Wise  He made a fatuous comment that angered the audience",
+      "Wise Sentence: He made a fatuous comment that angered the audience",
       "Sagacious",
       "Astute"
     ],
@@ -19634,7 +19634,7 @@ export const vocabularyWords = [
       "implausible"
     ],
     "example": "The government is looking into feasible solutions to tackle the rising unemployment rates.",
-    "source": "Monthly vocab;  u  ; RedBook OWS"
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words; RedBook OWS"
   },
   {
     "word": "Feckless",
@@ -19670,7 +19670,7 @@ export const vocabularyWords = [
     "antonyms": [
       "Barren",
       "Unproductive",
-      "Infertile  The fecund soil yielded a rich harvest"
+      "Infertile Sentence: The fecund soil yielded a rich harvest"
     ],
     "example": "",
     "source": "Monthly vocab"
@@ -19867,7 +19867,7 @@ export const vocabularyWords = [
       "dull"
     ],
     "example": "The fans have always been fervent supporters of RCB.",
-    "source": "Monthly vocab;  u  "
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words"
   },
   {
     "word": "Fervour",
@@ -19963,7 +19963,7 @@ export const vocabularyWords = [
       "accomplishment"
     ],
     "example": "The product launch was a complete fiasco due to poor planning.",
-    "source": "Monthly vocab;  u  "
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words"
   },
   {
     "word": "Fickle",
@@ -20004,7 +20004,7 @@ export const vocabularyWords = [
       "calm"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Fiduciary",
@@ -20074,7 +20074,7 @@ export const vocabularyWords = [
       "Innocent"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Figment",
@@ -20095,7 +20095,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "Fill out ,
+    "word": "Fill out Meaning",
     "type": "Word",
     "meaning": "To complete a form or document",
     "synonyms": [],
@@ -20124,7 +20124,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Find your feet ,
+    "word": "Find your feet Meaning",
     "type": "Word",
     "meaning": "to become confident and independent in a new situation",
     "synonyms": [],
@@ -20142,7 +20142,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "Fish out of water ,
+    "word": "Fish out of water Meaning",
     "type": "Word",
     "meaning": "to be out of your comfort zone",
     "synonyms": [],
@@ -20163,7 +20163,7 @@ export const vocabularyWords = [
       "perpetual"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Fixation",
@@ -20281,7 +20281,7 @@ export const vocabularyWords = [
       "Witlessness"
     ],
     "example": "She has a natural flair for languages and speaks five fluently.",
-    "source": " u  ; RedBook OWS"
+    "source": "Padakuu 551 repeated SSC words; RedBook OWS"
   },
   {
     "word": "Flak",
@@ -20300,7 +20300,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Flaky ,
+    "word": "Flaky Meaning",
     "type": "Word",
     "meaning": "Unreliable or not dependable; in the context, uncertain or inconsistent. Hindi Meaning: अͪवश्वसनीय, अिस्थर",
     "synonyms": [
@@ -20337,7 +20337,7 @@ export const vocabularyWords = [
       "Backward"
     ],
     "example": "The flamboyant singer wore a suit covered in bright sequins.",
-    "source": " u  ; RedBook OWS"
+    "source": "Padakuu 551 repeated SSC words; RedBook OWS"
   },
   {
     "word": "Flamboyantly",
@@ -20357,7 +20357,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Flare out ,
+    "word": "Flare out Meaning",
     "type": "Word",
     "meaning": "get angry suddenly",
     "synonyms": [],
@@ -20394,7 +20394,7 @@ export const vocabularyWords = [
       "Taunt"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Flaw",
@@ -20478,10 +20478,10 @@ export const vocabularyWords = [
       "burn steadily"
     ],
     "example": "The candle began to flicker as the wind blew through the open window.",
-    "source": " u  ; RedBook OWS"
+    "source": "Padakuu 551 repeated SSC words; RedBook OWS"
   },
   {
-    "word": "Flip out ,
+    "word": "Flip out Meaning",
     "type": "Word",
     "meaning": "to become very angry or excited",
     "synonyms": [],
@@ -20606,7 +20606,7 @@ export const vocabularyWords = [
       "praise"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Fluctuate",
@@ -20680,7 +20680,7 @@ export const vocabularyWords = [
       "dearth"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Flux",
@@ -20746,7 +20746,7 @@ export const vocabularyWords = [
   {
     "word": "Foment",
     "type": "उकसाना",
-    "meaning": "To instigate or stir up (especially   trouble or conflict)",
+    "meaning": "To instigate or stir up (especially Follow us on https:; www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal ; t.me/NimishaMam trouble or conflict)",
     "synonyms": [
       "Incite",
       "provoke",
@@ -20799,7 +20799,7 @@ export const vocabularyWords = [
   {
     "word": "Footfall",
     "type": "आगंतुकों की संख्या",
-    "meaning": "The number of people visiting a place   or establishment, especially in reference to tourism or business",
+    "meaning": "The number of people visiting a place Follow us on https:; www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal ; t.me/NimishaMam or establishment, especially in reference to tourism or business",
     "synonyms": [
       "Visitors",
       "attendance",
@@ -20813,7 +20813,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "For the time being ,
+    "word": "For the time being Meaning",
     "type": "Word",
     "meaning": "just for the present; not for long",
     "synonyms": [],
@@ -20984,7 +20984,7 @@ export const vocabularyWords = [
       "comforting"
     ],
     "example": "The defending champions remain a formidable opponent for any team in the tournament.",
-    "source": "Monthly vocab;  u  "
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words"
   },
   {
     "word": "Forsake",
@@ -21024,7 +21024,7 @@ export const vocabularyWords = [
       "sometime"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Fortnight",
@@ -21103,7 +21103,7 @@ export const vocabularyWords = [
       "succeed"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Foundling",
@@ -21174,7 +21174,7 @@ export const vocabularyWords = [
       "robustness",
       "durability"
     ],
-    "example": "The fragility of the Himalayan region   makes it susceptible to disasters.",
+    "example": "The fragility of the Himalayan region Follow us on https://www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal //t.me/NimishaMam makes it susceptible to disasters.",
     "source": "Monthly vocab"
   },
   {
@@ -21281,7 +21281,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Freak out ,
+    "word": "Freak out Meaning",
     "type": "Word",
     "meaning": "To become very anxious, upset, or excited",
     "synonyms": [],
@@ -21320,7 +21320,7 @@ export const vocabularyWords = [
       "calm",
       "soothe"
     ],
-    "example": "There's no need to fret over minor mistakes; just learn and move on.  ",
+    "example": "There's no need to fret over minor mistakes; just learn and move on. Follow us on https://www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal //t.me/NimishaMam",
     "source": "Monthly vocab"
   },
   {
@@ -21350,7 +21350,7 @@ export const vocabularyWords = [
       "saving",
       "utilising"
     ],
-    "example": "Instead of making real reforms, the government is frittering away its resources on   token measures.",
+    "example": "Instead of making real reforms, the government is frittering away its resources on Follow us on https://www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal //t.me/NimishaMam token measures.",
     "source": "Monthly vocab"
   },
   {
@@ -21476,7 +21476,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Full of beans ,
+    "word": "Full of beans Meaning",
     "type": "Word",
     "meaning": "a lot of energy and enthusiasm",
     "synonyms": [],
@@ -21518,7 +21518,7 @@ export const vocabularyWords = [
       "Flatter"
     ],
     "example": "The leader fulminated against corruption.",
-    "source": "Monthly vocab;  u  "
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words"
   },
   {
     "word": "Fulsome",
@@ -21607,7 +21607,7 @@ export const vocabularyWords = [
       "Frank"
     ],
     "example": "He cast a furtive glance at the forbidden book.",
-    "source": "Monthly vocab;  u  "
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words"
   },
   {
     "word": "Fuselage",
@@ -21659,12 +21659,12 @@ export const vocabularyWords = [
     "antonyms": [
       "Admit",
       "Confirm",
-      "Agree  No one could gainsay her dedication to the cause",
+      "Agree Sentence: No one could gainsay her dedication to the cause",
       "accept",
       "agree",
       "Endorse"
     ],
-    "example": "No one could gainsay the truth of his statement.  ",
+    "example": "No one could gainsay the truth of his statement. Follow us on https://www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal //t.me/NimishaMam",
     "source": "Monthly vocab"
   },
   {
@@ -21705,7 +21705,7 @@ export const vocabularyWords = [
   {
     "word": "Galvanise",
     "type": "प्रेǐरत करना / उत्तेिजत करना",
-    "meaning": "To shock or excite someone into taking action.  ",
+    "meaning": "To shock or excite someone into taking action. Follow us on https:; www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal ; t.me/NimishaMam",
     "synonyms": [
       "Inspire",
       "stimulate",
@@ -21754,7 +21754,7 @@ export const vocabularyWords = [
     "antonyms": [
       "Demotivate",
       "Dissuade",
-      "Discourage  The speech galvanized the crowd into action"
+      "Discourage Sentence: The speech galvanized the crowd into action"
     ],
     "example": "",
     "source": "Monthly vocab"
@@ -21834,7 +21834,7 @@ export const vocabularyWords = [
       "reticence",
       "quietness"
     ],
-    "example": "His garrulity often annoyed his colleagues.  ",
+    "example": "His garrulity often annoyed his colleagues. Follow us on https://www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal //t.me/NimishaMam",
     "source": "Monthly vocab"
   },
   {
@@ -21849,7 +21849,7 @@ export const vocabularyWords = [
     "antonyms": [
       "Silent",
       "Reserved",
-      "Taciturn  The garrulous man kept talking without pause"
+      "Taciturn Sentence: The garrulous man kept talking without pause"
     ],
     "example": "The garrulous neighbor kept me at the gate for an hour talking about the weather.",
     "source": "Monthly vocab; RedBook OWS"
@@ -21892,7 +21892,7 @@ export const vocabularyWords = [
     "antonyms": [
       "Graceful",
       "Polished",
-      "Elegant  His gauche behavior embarrassed his friends at the party"
+      "Elegant Sentence: His gauche behavior embarrassed his friends at the party"
     ],
     "example": "",
     "source": "Monthly vocab"
@@ -22051,16 +22051,16 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "Get a grip ,
+    "word": "Get a grip Meaning",
     "type": "Word",
-    "meaning": "keep or recover one's self-control  ",
+    "meaning": "keep or recover one's self-control Follow us on https:; www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal ; t.me/NimishaMam",
     "synonyms": [],
     "antonyms": [],
     "example": "",
     "source": "Monthly vocab"
   },
   {
-    "word": "Get across ,
+    "word": "Get across Meaning",
     "type": "Word",
     "meaning": "To communicate or make something understood",
     "synonyms": [],
@@ -22078,7 +22078,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Get along with ,
+    "word": "Get along with Meaning",
     "type": "Word",
     "meaning": "To have a good relationship with someone",
     "synonyms": [],
@@ -22087,7 +22087,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Get away ,
+    "word": "Get away Meaning",
     "type": "Word",
     "meaning": "to leave or escape from a person or place",
     "synonyms": [],
@@ -22096,7 +22096,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Get away with ,
+    "word": "Get away with Meaning",
     "type": "Word",
     "meaning": "To escape the consequences of something, often wrongdoing",
     "synonyms": [],
@@ -22105,7 +22105,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Get back ,
+    "word": "Get back Meaning",
     "type": "Word",
     "meaning": "To return to a place or regain possession of something",
     "synonyms": [],
@@ -22114,7 +22114,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Get by ,
+    "word": "Get by Meaning",
     "type": "Word",
     "meaning": "To manage or survive, especially with limited resources",
     "synonyms": [],
@@ -22123,7 +22123,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Get it ,
+    "word": "Get it Meaning",
     "type": "Word",
     "meaning": "To understand something",
     "synonyms": [],
@@ -22132,7 +22132,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Get over ,
+    "word": "Get over Meaning",
     "type": "Word",
     "meaning": "To recover from something, such as an illness, loss, or difficult situation",
     "synonyms": [],
@@ -22141,7 +22141,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Get rid of ,
+    "word": "Get rid of Meaning",
     "type": "Word",
     "meaning": "To remove or dispose of something unwanted",
     "synonyms": [],
@@ -22150,7 +22150,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Get wind of something ,
+    "word": "Get wind of something Meaning",
     "type": "Word",
     "meaning": "hear news of something secret",
     "synonyms": [],
@@ -22159,7 +22159,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Get your walking papers ,
+    "word": "Get your walking papers Meaning",
     "type": "Word",
     "meaning": "get fired from the job",
     "synonyms": [],
@@ -22203,7 +22203,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "Gin up ,
+    "word": "Gin up Meaning",
     "type": "Word",
     "meaning": "generate or increase something, especially by dubious or dishonest means",
     "synonyms": [],
@@ -22240,7 +22240,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "Give in ,
+    "word": "Give in Meaning",
     "type": "Word",
     "meaning": "To stop resisting; to surrender or yield to something",
     "synonyms": [],
@@ -22271,7 +22271,7 @@ export const vocabularyWords = [
       "dull",
       "unappealing"
     ],
-    "example": "The journey of mastering a craft is rarely glamorous but always rewarding.  ",
+    "example": "The journey of mastering a craft is rarely glamorous but always rewarding. Follow us on https://www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal //t.me/NimishaMam",
     "source": "Monthly vocab"
   },
   {
@@ -22307,7 +22307,7 @@ export const vocabularyWords = [
       "Demuring"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Glitzy",
@@ -22380,7 +22380,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "Go against the grain ,
+    "word": "Go against the grain Meaning",
     "type": "Word",
     "meaning": "different from what is normal or usual",
     "synonyms": [],
@@ -22389,7 +22389,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Go bananas ,
+    "word": "Go bananas Meaning",
     "type": "Word",
     "meaning": "to become extremely angry or excited",
     "synonyms": [],
@@ -22398,7 +22398,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Go belly up ,
+    "word": "Go belly up Meaning",
     "type": "Word",
     "meaning": "to fail completely",
     "synonyms": [],
@@ -22407,7 +22407,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Go for ,
+    "word": "Go for Meaning",
     "type": "Word",
     "meaning": "To choose or opt for something, often enthusiastically",
     "synonyms": [],
@@ -22416,7 +22416,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Go off ,
+    "word": "Go off Meaning",
     "type": "Word",
     "meaning": "To explode, make a loud noise, or stop functioning. It can also mean to leave suddenly or to become worse",
     "synonyms": [],
@@ -22520,7 +22520,7 @@ export const vocabularyWords = [
       "Submissiveness"
     ],
     "example": "The grandeur of the Chola dynasty is still admired by historians and tourists alike.",
-    "source": "Monthly vocab;  u  "
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words"
   },
   {
     "word": "Grandiloquent",
@@ -22605,7 +22605,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Grease the palm ,
+    "word": "Grease the palm Meaning",
     "type": "Word",
     "meaning": "to bribe discreetly to gain favours",
     "synonyms": [],
@@ -22623,7 +22623,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "Green with envy ,
+    "word": "Green with envy Meaning",
     "type": "Word",
     "meaning": "to be very jealous, envious",
     "synonyms": [],
@@ -22644,7 +22644,7 @@ export const vocabularyWords = [
     "antonyms": [
       "Reserved",
       "Shy",
-      "Introverted  She is a gregarious person who loves attending parties",
+      "Introverted Sentence: She is a gregarious person who loves attending parties",
       "meeting new people",
       "Introverted",
       "Aloof"
@@ -22708,7 +22708,7 @@ export const vocabularyWords = [
       "pure"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Grow apart",
@@ -22873,7 +22873,7 @@ export const vocabularyWords = [
     "antonyms": [
       "Fresh",
       "Original",
-      "Unique  His speech was full of hackneyed phrases"
+      "Unique Sentence: His speech was full of hackneyed phrases"
     ],
     "example": "",
     "source": "Monthly vocab"
@@ -22902,7 +22902,7 @@ export const vocabularyWords = [
       "farewell"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Halcyon",
@@ -22966,7 +22966,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab; RedBook OWS"
   },
   {
-    "word": "Hand in ,
+    "word": "Hand in Meaning",
     "type": "Word",
     "meaning": "to give something to someone in a position of authority",
     "synonyms": [],
@@ -22984,7 +22984,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "Hang in ,
+    "word": "Hang in Meaning",
     "type": "Word",
     "meaning": "stay positive",
     "synonyms": [],
@@ -22993,7 +22993,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Hang on by fingernails ,
+    "word": "Hang on by fingernails Meaning",
     "type": "Word",
     "meaning": "to narrowly avoid problems or failure",
     "synonyms": [],
@@ -23002,7 +23002,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Hang on ,
+    "word": "Hang on Meaning",
     "type": "Word",
     "meaning": "wait a short time",
     "synonyms": [],
@@ -23011,7 +23011,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Hang out ,
+    "word": "Hang out Meaning",
     "type": "Word",
     "meaning": "spend time relaxing",
     "synonyms": [],
@@ -23020,7 +23020,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Hang up ,
+    "word": "Hang up Meaning",
     "type": "Word",
     "meaning": "end a phone call",
     "synonyms": [],
@@ -23052,7 +23052,7 @@ export const vocabularyWords = [
       "Fortunate",
       "lucky",
       "blessed",
-      "blessed.  The hapless tourist lost his passport",
+      "blessed. Sentence: The hapless tourist lost his passport",
       "wallet"
     ],
     "example": "The hapless traveller lost his luggage and missed his flight.",
@@ -23172,7 +23172,7 @@ export const vocabularyWords = [
       "Repair"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Harsh",
@@ -23204,7 +23204,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Haste makes waste ,
+    "word": "Haste makes waste Meaning",
     "type": "Word",
     "meaning": "rushing through something can lead to mistakes or poor results",
     "synonyms": [],
@@ -23273,7 +23273,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "Have a foot in the door ,
+    "word": "Have a foot in the door Meaning",
     "type": "Word",
     "meaning": "have or gain a first introduction to a profession or organization",
     "synonyms": [],
@@ -23307,10 +23307,10 @@ export const vocabularyWords = [
       "Faithful"
     ],
     "example": "Workers in chemical plants are required to wear protective gear due to hazardous conditions.",
-    "source": "Monthly vocab;  u  "
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words"
   },
   {
-    "word": "He's a chip off the old block ,
+    "word": "He's a chip off the old block Meaning",
     "type": "Word",
     "meaning": "the son is like the father/mother",
     "synonyms": [],
@@ -23319,7 +23319,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Head in the clouds ,
+    "word": "Head in the clouds Meaning",
     "type": "Word",
     "meaning": "having unrealistic or impractical ideas",
     "synonyms": [],
@@ -23446,7 +23446,7 @@ export const vocabularyWords = [
       "Dignified"
     ],
     "example": "The criminal was convicted of a heinous act that shocked the nation.",
-    "source": "Monthly vocab;  u  "
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words"
   },
   {
     "word": "Heir",
@@ -23639,7 +23639,7 @@ export const vocabularyWords = [
       "Lovable"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Highbrow",
@@ -23664,7 +23664,7 @@ export const vocabularyWords = [
       "detach",
       "separate"
     ],
-    "example": "The success of the project hinges on securing adequate funding.  ",
+    "example": "The success of the project hinges on securing adequate funding. Follow us on https://www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal //t.me/NimishaMam",
     "source": "Monthly vocab"
   },
   {
@@ -23689,7 +23689,7 @@ export const vocabularyWords = [
     "antonyms": [
       "Natural",
       "Subtle",
-      "Calm  Her histrionic reaction made everyone uncomfortable",
+      "Calm Sentence: Her histrionic reaction made everyone uncomfortable",
       "Subdued",
       "Restrained"
     ],
@@ -23697,7 +23697,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab; RedBook OWS"
   },
   {
-    "word": "Hit the big time ,
+    "word": "Hit the big time Meaning",
     "type": "Word",
     "meaning": "to become very successful or famous",
     "synonyms": [],
@@ -23706,7 +23706,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Hit the nail on the head ,
+    "word": "Hit the nail on the head Meaning",
     "type": "Word",
     "meaning": "To describe or do something exactly right",
     "synonyms": [],
@@ -23715,7 +23715,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Hit the spot ,
+    "word": "Hit the spot Meaning",
     "type": "Word",
     "meaning": "be exactly what is required",
     "synonyms": [],
@@ -23772,7 +23772,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Hold back from ,
+    "word": "Hold back from Meaning",
     "type": "Word",
     "meaning": "To hesitate or choose not to pursue something immediately",
     "synonyms": [],
@@ -23781,7 +23781,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Hold out an olive branch ,
+    "word": "Hold out an olive branch Meaning",
     "type": "Word",
     "meaning": "To offer peace or attempt to end a dispute",
     "synonyms": [],
@@ -23790,7 +23790,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Hold out for ,
+    "word": "Hold out for Meaning",
     "type": "Word",
     "meaning": "To wait or choose something better, often refusing initial offers",
     "synonyms": [],
@@ -23941,7 +23941,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab; RedBook OWS"
   },
   {
-    "word": "Horse around ,
+    "word": "Horse around Meaning",
     "type": "Word",
     "meaning": "to behave in a silly and noisy way",
     "synonyms": [],
@@ -24115,7 +24115,7 @@ export const vocabularyWords = [
       "selfish"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Humdinger",
@@ -24155,7 +24155,7 @@ export const vocabularyWords = [
   {
     "word": "Humongous",
     "type": "ͪवशालकाय",
-    "meaning": "Extremely large.  ",
+    "meaning": "Extremely large. Follow us on https:; www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal ; t.me/NimishaMam",
     "synonyms": [
       "Enormous",
       "colossal",
@@ -24179,7 +24179,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "Hunt out ,
+    "word": "Hunt out Meaning",
     "type": "Word",
     "meaning": "to find (something) after searching for it",
     "synonyms": [],
@@ -24351,7 +24351,7 @@ export const vocabularyWords = [
       "serious"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Idol",
@@ -24436,7 +24436,7 @@ export const vocabularyWords = [
       "Honorable",
       "dignified",
       "glorious",
-      "Dignified  The team suffered an ignominious defeat"
+      "Dignified Sentence: The team suffered an ignominious defeat"
     ],
     "example": "The team faced an ignominious defeat.",
     "source": "Monthly vocab"
@@ -24457,7 +24457,7 @@ export const vocabularyWords = [
       "glory",
       "esteem"
     ],
-    "example": "The player faced ignominy after his poor performance.  ",
+    "example": "The player faced ignominy after his poor performance. Follow us on https://www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal //t.me/NimishaMam",
     "source": "Monthly vocab"
   },
   {
@@ -24552,7 +24552,7 @@ export const vocabularyWords = [
       "Corporeality"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Illusory",
@@ -24579,7 +24579,7 @@ export const vocabularyWords = [
       "Material"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Illustration",
@@ -24617,7 +24617,7 @@ export const vocabularyWords = [
       "Spiritless"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Imaginary",
@@ -24640,7 +24640,7 @@ export const vocabularyWords = [
       "intelligent"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Imbroglio",
@@ -24713,7 +24713,7 @@ export const vocabularyWords = [
       "Deferred"
     ],
     "example": "The imminent arrival of the storm prompted authorities to issue warnings.",
-    "source": "Monthly vocab;  u  "
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words"
   },
   {
     "word": "Immobile",
@@ -24780,7 +24780,7 @@ export const vocabularyWords = [
       "improve"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Impairment",
@@ -24877,7 +24877,7 @@ export const vocabularyWords = [
     "antonyms": [
       "Wealthy",
       "Affluent",
-      "Rich  The artist remained impecunious despite his talent"
+      "Rich Sentence: The artist remained impecunious despite his talent"
     ],
     "example": "",
     "source": "Monthly vocab"
@@ -24987,7 +24987,7 @@ export const vocabularyWords = [
       "remote"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Imperative",
@@ -25014,7 +25014,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Imperatives ,
+    "word": "Imperatives Meaning",
     "type": "Word",
     "meaning": "Essential or urgent things that require immediate attention. Hindi Meaning: अǓनवाय[ताएँ, आवश्यकताएँ",
     "synonyms": [
@@ -25238,7 +25238,7 @@ export const vocabularyWords = [
       "explicit statement"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Imploded",
@@ -25293,7 +25293,7 @@ export const vocabularyWords = [
       "powerful"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Impoundment",
@@ -25372,7 +25372,7 @@ export const vocabularyWords = [
       "propriety"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Improve",
@@ -25488,7 +25488,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "In a flutter ,
+    "word": "In a flutter Meaning",
     "type": "Word",
     "meaning": "to be in a state of confusion or excitement",
     "synonyms": [],
@@ -25497,7 +25497,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "In the fast lane ,
+    "word": "In the fast lane Meaning",
     "type": "Word",
     "meaning": "a life filled with excitement",
     "synonyms": [],
@@ -25506,7 +25506,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "In the same boat ,
+    "word": "In the same boat Meaning",
     "type": "Word",
     "meaning": "To be in the same situation or facing the same difficulties as others",
     "synonyms": [],
@@ -25547,12 +25547,12 @@ export const vocabularyWords = [
       "Suitable"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Inadvertent",
     "type": "अनजाने में हुआ",
-    "meaning": "Not resulting from deliberate planning or intention.  ",
+    "meaning": "Not resulting from deliberate planning or intention. Follow us on https:; www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal ; t.me/NimishaMam",
     "synonyms": [
       "Unintentional",
       "accidental",
@@ -25640,7 +25640,7 @@ export const vocabularyWords = [
       "free"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Incarceration",
@@ -25730,7 +25730,7 @@ export const vocabularyWords = [
       "termination"
     ],
     "example": "Since its inception, the company has grown into a multinational enterprise.",
-    "source": "Monthly vocab;  u  "
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words"
   },
   {
     "word": "Incessant",
@@ -25875,7 +25875,7 @@ export const vocabularyWords = [
       "Merciful )"
     ],
     "example": "EOS-09 was capable of imaging even during inclement weather.",
-    "source": "Monthly vocab;  u  "
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words"
   },
   {
     "word": "Incline",
@@ -25889,7 +25889,7 @@ export const vocabularyWords = [
       "disinclined"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Incognito",
@@ -25942,7 +25942,7 @@ export const vocabularyWords = [
       "Guessable"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Inconceivable",
@@ -25994,7 +25994,7 @@ export const vocabularyWords = [
       "Corresponding"
     ],
     "example": "His casual attire looked incongruous at the formal gala event.",
-    "source": "Monthly vocab;  u  "
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words"
   },
   {
     "word": "Inconsequential",
@@ -26068,7 +26068,7 @@ export const vocabularyWords = [
       "Removed"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Incorrigible",
@@ -26289,7 +26289,7 @@ export const vocabularyWords = [
       "expatriate"
     ],
     "example": "The kangaroo is a species indigenous to the continent of Australia.",
-    "source": " u  ; RedBook OWS"
+    "source": "Padakuu 551 repeated SSC words; RedBook OWS"
   },
   {
     "word": "Indigent",
@@ -26307,7 +26307,7 @@ export const vocabularyWords = [
       "Prosperous",
       "Rich"
     ],
-    "example": "The government launched welfare schemes to support indigent farmers in   drought-hit areas.",
+    "example": "The government launched welfare schemes to support indigent farmers in Follow us on https://www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal //t.me/NimishaMam drought-hit areas.",
     "source": "Monthly vocab"
   },
   {
@@ -26381,7 +26381,7 @@ export const vocabularyWords = [
   {
     "word": "Indomitable",
     "type": "अͪवजेय / अͫडग",
-    "meaning": "Impossible to subdue or defeat;   having an unyielding spirit",
+    "meaning": "Impossible to subdue or defeat; Follow us on https:; www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal ; t.me/NimishaMam having an unyielding spirit",
     "synonyms": [
       "Unconquerable",
       "resolute",
@@ -26409,7 +26409,7 @@ export const vocabularyWords = [
       "dissuade"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Inducted",
@@ -26461,7 +26461,7 @@ export const vocabularyWords = [
       "describable",
       "explainable",
       "Definable",
-      "Describable  The beauty of the mountains was ineffable"
+      "Describable Sentence: The beauty of the mountains was ineffable"
     ],
     "example": "The joy I felt when I met my childhood friend again was ineffable.",
     "source": "Monthly vocab; RedBook OWS"
@@ -26529,7 +26529,7 @@ export const vocabularyWords = [
       "Efficiency",
       "Competence"
     ],
-    "example": "The project failed because of management inefficiency.  ",
+    "example": "The project failed because of management inefficiency. Follow us on https://www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal //t.me/NimishaMam",
     "source": "Monthly vocab"
   },
   {
@@ -26586,8 +26586,8 @@ export const vocabularyWords = [
     "antonyms": [
       "avoidable",
       "preventable",
-      "escapable  Death is an ineluctable reality of life",
-      "Unlikely  Change is an ineluctable part of life"
+      "escapable Sentence: Death is an ineluctable reality of life",
+      "Unlikely Sentence: Change is an ineluctable part of life"
     ],
     "example": "",
     "source": "Monthly vocab"
@@ -26604,7 +26604,7 @@ export const vocabularyWords = [
     "antonyms": [
       "Capable",
       "Skilled",
-      "Efficient  His inept handling of the situation made things worse"
+      "Efficient Sentence: His inept handling of the situation made things worse"
     ],
     "example": "",
     "source": "Monthly vocab"
@@ -26701,7 +26701,7 @@ export const vocabularyWords = [
   {
     "word": "Inevitable",
     "type": "अǓनवाय[",
-    "meaning": "Certain to happen; unavoidable.  ",
+    "meaning": "Certain to happen; unavoidable. Follow us on https:; www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal ; t.me/NimishaMam",
     "synonyms": [
       "Unavoidable",
       "inescapable",
@@ -26715,13 +26715,13 @@ export const vocabularyWords = [
       "preventable",
       "optional"
     ],
-    "example": "With such heavy rains, flooding in   low-lying areas seems inevitable.",
+    "example": "With such heavy rains, flooding in Follow us on https://www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal //t.me/NimishaMam low-lying areas seems inevitable.",
     "source": "Monthly vocab; RedBook OWS"
   },
   {
     "word": "Inevitably",
     "type": "अपǐरहाय[ रूप से",
-    "meaning": "As is certain to happen; unavoidably.  ",
+    "meaning": "As is certain to happen; unavoidably. Follow us on https:; www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal ; t.me/NimishaMam",
     "synonyms": [
       "Unavoidably",
       "predictably",
@@ -26770,7 +26770,7 @@ export const vocabularyWords = [
       "understandable"
     ],
     "example": "The disappearance of the ship remains inexplicable to this day.",
-    "source": "Monthly vocab;  u  "
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words"
   },
   {
     "word": "Inextinguishable",
@@ -26883,7 +26883,7 @@ export const vocabularyWords = [
       "Plentiful"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Infinite",
@@ -27020,7 +27020,7 @@ export const vocabularyWords = [
       "Subdue"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Ingenious",
@@ -27043,7 +27043,7 @@ export const vocabularyWords = [
       "acquired"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Inheritance",
@@ -27066,7 +27066,7 @@ export const vocabularyWords = [
       "assist"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Inimical",
@@ -27080,7 +27080,7 @@ export const vocabularyWords = [
     "antonyms": [
       "Friendly",
       "Favorable",
-      "Supportive  Excessive stress is inimical to good health",
+      "Supportive Sentence: Excessive stress is inimical to good health",
       "Beneficial",
       "Conducive"
     ],
@@ -27099,7 +27099,7 @@ export const vocabularyWords = [
     "antonyms": [
       "virtuous",
       "righteous",
-      "just.  The king’s iniquitous rule caused great suffering"
+      "just. Sentence: The king’s iniquitous rule caused great suffering"
     ],
     "example": "",
     "source": "Monthly vocab"
@@ -27125,7 +27125,7 @@ export const vocabularyWords = [
       "Rational"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Innately",
@@ -27221,7 +27221,7 @@ export const vocabularyWords = [
       "Depleted"
     ],
     "example": "The government faced criticism for spending an inordinate amount on the event.",
-    "source": "Monthly vocab;  u  "
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words"
   },
   {
     "word": "Inquisitive",
@@ -27247,7 +27247,7 @@ export const vocabularyWords = [
       "Neglectful"
     ],
     "example": "The inquisitive child kept asking 'why' about everything he saw.",
-    "source": " u  ; RedBook OWS"
+    "source": "Padakuu 551 repeated SSC words; RedBook OWS"
   },
   {
     "word": "Inquorate",
@@ -27316,7 +27316,7 @@ export const vocabularyWords = [
       "Transparent",
       "clear",
       "obvious",
-      "obvious  Her inscrutable expression gave away nothing",
+      "obvious Sentence: Her inscrutable expression gave away nothing",
       "Lucid",
       "Readable"
     ],
@@ -27384,7 +27384,7 @@ export const vocabularyWords = [
       "interesting",
       "lively",
       "engaging",
-      "Flavorful  The movie was insipid",
+      "Flavorful Sentence: The movie was insipid",
       "failed to engage the audience"
     ],
     "example": "The soup was insipid, lacking any distinct flavor.",
@@ -27456,9 +27456,9 @@ export const vocabularyWords = [
     "antonyms": [
       "anxious",
       "worried",
-      "troubled  His insouciant attitude irritated his strict parents",
+      "troubled Sentence: His insouciant attitude irritated his strict parents",
       "Concerned",
-      "Worried  He strolled through life with an insouciant attitude"
+      "Worried Sentence: He strolled through life with an insouciant attitude"
     ],
     "example": "",
     "source": "Monthly vocab"
@@ -27579,7 +27579,7 @@ export const vocabularyWords = [
       "permanent"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Interloper",
@@ -27666,7 +27666,7 @@ export const vocabularyWords = [
       "Peaceful",
       "cooperative",
       "constructive",
-      "constructive  The internecine war destroyed both factions"
+      "constructive Sentence: The internecine war destroyed both factions"
     ],
     "example": "The internecine feud within the organization led to its eventual collapse.",
     "source": "Monthly vocab"
@@ -27818,7 +27818,7 @@ export const vocabularyWords = [
   {
     "word": "Intransigent",
     "type": "अͫड़यल, असहयोगी",
-    "meaning": "Unwilling to change one's views or to   agree",
+    "meaning": "Unwilling to change one's views or to Follow us on https:; www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal ; t.me/NimishaMam agree",
     "synonyms": [
       "Uncompromising",
       "stubborn",
@@ -27907,7 +27907,7 @@ export const vocabularyWords = [
       "superficial"
     ],
     "example": "Her intrinsic motivation kept her focused on learning new skills.",
-    "source": "Monthly vocab;  u  "
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words"
   },
   {
     "word": "Introspection",
@@ -27978,7 +27978,7 @@ export const vocabularyWords = [
       "low-key"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Intuitive",
@@ -28002,7 +28002,7 @@ export const vocabularyWords = [
       "Normal"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Inundate",
@@ -28050,7 +28050,7 @@ export const vocabularyWords = [
     "antonyms": [
       "Shock",
       "Surprise",
-      "Unprepare  Soldiers quickly inure themselves to harsh living conditions"
+      "Unprepare Sentence: Soldiers quickly inure themselves to harsh living conditions"
     ],
     "example": "",
     "source": "Monthly vocab"
@@ -28186,7 +28186,7 @@ export const vocabularyWords = [
       "Reduce"
     ],
     "example": "A short vacation helped invigorate her mind and body.",
-    "source": "Monthly vocab;  u  ; RedBook OWS"
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words; RedBook OWS"
   },
   {
     "word": "Invincible",
@@ -28263,7 +28263,7 @@ export const vocabularyWords = [
       "Calm",
       "patient",
       "placid",
-      "patient  His irascible nature made him hard to work with"
+      "patient Sentence: His irascible nature made him hard to work with"
     ],
     "example": "The irascible coach yelled at the players for making too many mistakes.",
     "source": "Monthly vocab; RedBook OWS"
@@ -28271,7 +28271,7 @@ export const vocabularyWords = [
   {
     "word": "Irrefutable",
     "type": "अखंडनीय",
-    "meaning": "Impossible to deny or disprove.  ",
+    "meaning": "Impossible to deny or disprove. Follow us on https:; www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal ; t.me/NimishaMam",
     "synonyms": [
       "Undeniable",
       "indisputable",
@@ -28485,7 +28485,7 @@ export const vocabularyWords = [
     "antonyms": [
       "Interesting",
       "Mature",
-      "Stimulating  The professor’s lecture was jejune",
+      "Stimulating Sentence: The professor’s lecture was jejune",
       "uninspiring"
     ],
     "example": "",
@@ -28582,7 +28582,7 @@ export const vocabularyWords = [
     ],
     "antonyms": [],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Jettison",
@@ -28752,7 +28752,7 @@ export const vocabularyWords = [
       "despondency"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Judge",
@@ -28799,16 +28799,16 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Jump on the bandwagon ,
+    "word": "Jump on the bandwagon Meaning",
     "type": "Word",
-    "meaning": "To join others in doing something that is currently popular or trendy.  ",
+    "meaning": "To join others in doing something that is currently popular or trendy. Follow us on https:; www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal ; t.me/NimishaMam",
     "synonyms": [],
     "antonyms": [],
     "example": "",
     "source": "Monthly vocab"
   },
   {
-    "word": "Jump the gun ,
+    "word": "Jump the gun Meaning",
     "type": "Word",
     "meaning": "to do something too soon, before the proper time",
     "synonyms": [],
@@ -28886,14 +28886,14 @@ export const vocabularyWords = [
       "Separate",
       "isolate",
       "detach",
-      "Divide  The artist juxtaposed modern",
+      "Divide Sentence: The artist juxtaposed modern",
       "traditional styles in her painting",
       "Distance",
       "Dissociate",
       "Segregate"
     ],
     "example": "The artist juxtaposed tradition and modernity in his painting.",
-    "source": "Monthly vocab;  u  ; RedBook OWS"
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words; RedBook OWS"
   },
   {
     "word": "Katatonia",
@@ -28918,7 +28918,7 @@ export const vocabularyWords = [
       "Vivacity: Liveliness"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Keen",
@@ -28939,7 +28939,7 @@ export const vocabularyWords = [
   {
     "word": "Keenness",
     "type": "उत्सुकता",
-    "meaning": "The quality of being eager, enthusiastic, or highly interested.  ",
+    "meaning": "The quality of being eager, enthusiastic, or highly interested. Follow us on https:; www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal ; t.me/NimishaMam",
     "synonyms": [
       "Enthusiasm",
       "eagerness",
@@ -28954,7 +28954,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Keep an ear to the ground ,
+    "word": "Keep an ear to the ground Meaning",
     "type": "Word",
     "meaning": "staying informed about everything",
     "synonyms": [],
@@ -28963,7 +28963,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Keep on ,
+    "word": "Keep on Meaning",
     "type": "Word",
     "meaning": "To continue doing something",
     "synonyms": [],
@@ -28972,7 +28972,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Keep up with ,
+    "word": "Keep up with Meaning",
     "type": "Word",
     "meaning": "To stay informed or maintain the same level as others",
     "synonyms": [],
@@ -28999,7 +28999,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "Kill two birds with one stone ,
+    "word": "Kill two birds with one stone Meaning",
     "type": "Word",
     "meaning": "To accomplish two tasks with a single effort",
     "synonyms": [],
@@ -29113,7 +29113,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Knuckle down ,
+    "word": "Knuckle down Meaning",
     "type": "Word",
     "meaning": "To start working hard or focus on a task",
     "synonyms": [],
@@ -29122,7 +29122,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Knuckle under ,
+    "word": "Knuckle under Meaning",
     "type": "Word",
     "meaning": "submit to someone else's authority",
     "synonyms": [],
@@ -29235,7 +29235,7 @@ export const vocabularyWords = [
     "antonyms": [
       "Cheerful",
       "Joyful",
-      "Happy  The lachrymose movie left the audience in tears",
+      "Happy Sentence: The lachrymose movie left the audience in tears",
       "Joyous",
       "Jovial"
     ],
@@ -29256,7 +29256,7 @@ export const vocabularyWords = [
       "energetic",
       "attentive"
     ],
-    "example": "The Finance Ministry’s lackadaisical approach to audits led to massive   inconsistencies.",
+    "example": "The Finance Ministry’s lackadaisical approach to audits led to massive Follow us on https://www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal //t.me/NimishaMam inconsistencies.",
     "source": "Monthly vocab"
   },
   {
@@ -29271,7 +29271,7 @@ export const vocabularyWords = [
       "inspired"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Laconic",
@@ -29285,7 +29285,7 @@ export const vocabularyWords = [
     "antonyms": [
       "verbose",
       "garrulous",
-      "loquacious  His laconic replies made the interview awkward"
+      "loquacious Sentence: His laconic replies made the interview awkward"
     ],
     "example": "",
     "source": "Monthly vocab"
@@ -29455,14 +29455,14 @@ export const vocabularyWords = [
     "antonyms": [
       "Energy",
       "Vigor",
-      "Vitality  After the long journey",
+      "Vitality Sentence: After the long journey",
       "she felt a deep lassitude"
     ],
     "example": "",
     "source": "Monthly vocab"
   },
   {
-    "word": "Latch onto ,
+    "word": "Latch onto Meaning",
     "type": "Word",
     "meaning": "To grasp or attach to something firmly, either literally or figuratively",
     "synonyms": [],
@@ -29564,7 +29564,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "Lean toward ,
+    "word": "Lean toward Meaning",
     "type": "Word",
     "meaning": "To show preference or inclination for something",
     "synonyms": [],
@@ -29599,7 +29599,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Leave out ,
+    "word": "Leave out Meaning",
     "type": "Word",
     "meaning": "To omit or exclude something",
     "synonyms": [],
@@ -29608,7 +29608,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Leave room for dessert ,
+    "word": "Leave room for dessert Meaning",
     "type": "Word",
     "meaning": "Save some space in your stomach for dessert after a meal",
     "synonyms": [],
@@ -29698,7 +29698,7 @@ export const vocabularyWords = [
       "brisk"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Leonine",
@@ -29710,7 +29710,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "Let bygones be bygones ,
+    "word": "Let bygones be bygones Meaning",
     "type": "Word",
     "meaning": "to decide to forget disagreements or arguments that happened in the past",
     "synonyms": [],
@@ -29855,7 +29855,7 @@ export const vocabularyWords = [
       "miserly"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Libertarian",
@@ -29901,7 +29901,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Lie down ,
+    "word": "Lie down Meaning",
     "type": "Word",
     "meaning": "To recline or rest in a horizontal position",
     "synonyms": [],
@@ -29919,7 +29919,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "Like two peas in a pod ,
+    "word": "Like two peas in a pod Meaning",
     "type": "Word",
     "meaning": "very similar, especially in appearance",
     "synonyms": [],
@@ -30048,7 +30048,7 @@ export const vocabularyWords = [
     ],
     "antonyms": [],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Literate",
@@ -30060,7 +30060,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "Live up to ,
+    "word": "Live up to Meaning",
     "type": "Word",
     "meaning": "To meet expectations or standards",
     "synonyms": [],
@@ -30096,7 +30096,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Living beyond your means ,
+    "word": "Living beyond your means Meaning",
     "type": "Word",
     "meaning": "to spend more money than you receive as income",
     "synonyms": [],
@@ -30187,10 +30187,10 @@ export const vocabularyWords = [
       "Sportive"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
-    "word": "Look after ,
+    "word": "Look after Meaning",
     "type": "Word",
     "meaning": "To take care of or be responsible for someone or something",
     "synonyms": [],
@@ -30199,7 +30199,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Look forward to ,
+    "word": "Look forward to Meaning",
     "type": "Word",
     "meaning": "To anticipate something with excitement or pleasure",
     "synonyms": [],
@@ -30208,16 +30208,16 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Look into ,
+    "word": "Look into Meaning",
     "type": "Word",
-    "meaning": "To investigate or examine something.  ",
+    "meaning": "To investigate or examine something. Follow us on https:; www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal ; t.me/NimishaMam",
     "synonyms": [],
     "antonyms": [],
     "example": "",
     "source": "Monthly vocab"
   },
   {
-    "word": "Look up ,
+    "word": "Look up Meaning",
     "type": "Word",
     "meaning": "To search for information (in a book, database, etc.); to improve (situation)",
     "synonyms": [],
@@ -30226,7 +30226,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Look up to ,
+    "word": "Look up to Meaning",
     "type": "Word",
     "meaning": "To admire or respect someone",
     "synonyms": [],
@@ -30277,7 +30277,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Lose one’s touch ,
+    "word": "Lose one’s touch Meaning",
     "type": "Word",
     "meaning": "to stop communicating with someone",
     "synonyms": [],
@@ -30338,7 +30338,7 @@ export const vocabularyWords = [
       "Cheerful",
       "happy",
       "joyful",
-      "lively  The lugubrious music created a somber mood"
+      "lively Sentence: The lugubrious music created a somber mood"
     ],
     "example": "His lugubrious expression after hearing the news was hard to bear.",
     "source": "Monthly vocab"
@@ -30497,7 +30497,7 @@ export const vocabularyWords = [
       "Sickening"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Lynchpin",
@@ -30527,7 +30527,7 @@ export const vocabularyWords = [
       "pleasant"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Magnanimity",
@@ -30567,7 +30567,7 @@ export const vocabularyWords = [
       "spiteful",
       "mean-spirited",
       "Mean",
-      "Vindictive  She was magnanimous enough to forgive his mistake"
+      "Vindictive Sentence: She was magnanimous enough to forgive his mistake"
     ],
     "example": "Despite losing the match, he was magnanimous in congratulating the winner.",
     "source": "Monthly vocab; RedBook OWS"
@@ -30593,7 +30593,7 @@ export const vocabularyWords = [
     "antonyms": [
       "Simple",
       "Plain",
-      "Modest  The politician’s magniloquent speech impressed the crowd"
+      "Modest Sentence: The politician’s magniloquent speech impressed the crowd"
     ],
     "example": "",
     "source": "Monthly vocab"
@@ -30662,10 +30662,10 @@ export const vocabularyWords = [
       "Defective"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
-    "word": "Make hay while the sun shines ,
+    "word": "Make hay while the sun shines Meaning",
     "type": "Word",
     "meaning": "to take advantage of a favorable situation while it lasts",
     "synonyms": [],
@@ -30765,7 +30765,7 @@ export const vocabularyWords = [
       "Admiration"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Malefactor",
@@ -30809,7 +30809,7 @@ export const vocabularyWords = [
       "Gratification"
     ],
     "example": "His malevolence towards his rival was evident in his harsh words and actions.",
-    "source": "Monthly vocab;  u  ; RedBook OWS"
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words; RedBook OWS"
   },
   {
     "word": "Malevolent",
@@ -30842,7 +30842,7 @@ export const vocabularyWords = [
       "Integrity",
       "honesty",
       "righteousness",
-      "righteousness  The mayor resigned over allegations of malfeasance"
+      "righteousness Sentence: The mayor resigned over allegations of malfeasance"
     ],
     "example": "The mayor was accused of malfeasance after evidence of bribery came to light.",
     "source": "Monthly vocab"
@@ -31074,7 +31074,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "Map out ,
+    "word": "Map out Meaning",
     "type": "Word",
     "meaning": "To plan or design something in detail",
     "synonyms": [],
@@ -31094,7 +31094,7 @@ export const vocabularyWords = [
       "vast"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Marooned",
@@ -31153,7 +31153,7 @@ export const vocabularyWords = [
     "antonyms": [
       "lenient",
       "liberal",
-      "indulgent  The commander was a martinet",
+      "indulgent Sentence: The commander was a martinet",
       "hated by his soldiers"
     ],
     "example": "",
@@ -31286,7 +31286,7 @@ export const vocabularyWords = [
     "antonyms": [
       "Unemotional",
       "Stoic",
-      "Unfeeling  The movie was too mawkish for my taste"
+      "Unfeeling Sentence: The movie was too mawkish for my taste"
     ],
     "example": "",
     "source": "Monthly vocab"
@@ -31390,7 +31390,7 @@ export const vocabularyWords = [
       "abundant",
       "Considerable"
     ],
-    "example": "The workers were furious over the measly raise in their monthly salaries.  ",
+    "example": "The workers were furious over the measly raise in their monthly salaries. Follow us on https://www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal //t.me/NimishaMam",
     "source": "Monthly vocab"
   },
   {
@@ -31598,7 +31598,7 @@ export const vocabularyWords = [
       "Alert"
     ],
     "example": "The mendacious politician was exposed in the scandal.",
-    "source": "Monthly vocab;  u  "
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words"
   },
   {
     "word": "Mendaciousness",
@@ -31642,7 +31642,7 @@ export const vocabularyWords = [
     "antonyms": [
       "Donor",
       "Philanthropist",
-      "Benefactor  Mendicants gathered near the temple asking for food",
+      "Benefactor Sentence: Mendicants gathered near the temple asking for food",
       "wealthy",
       "prosperous"
     ],
@@ -31686,7 +31686,7 @@ export const vocabularyWords = [
       "Sorrow"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Metallurgy",
@@ -31864,7 +31864,7 @@ export const vocabularyWords = [
       "Misery: Low spirits"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Misadventure",
@@ -31878,7 +31878,7 @@ export const vocabularyWords = [
       "good luck"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Misadventures",
@@ -31942,7 +31942,7 @@ export const vocabularyWords = [
       "orthodoxy"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Miscontrue",
@@ -31969,7 +31969,7 @@ export const vocabularyWords = [
       "Unravel"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Miser",
@@ -32058,7 +32058,7 @@ export const vocabularyWords = [
   {
     "word": "Mitigation",
     "type": "शमन, उपशमन",
-    "meaning": "The act of reducing the severity or   seriousness of something",
+    "meaning": "The act of reducing the severity or Follow us on https:; www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal ; t.me/NimishaMam seriousness of something",
     "synonyms": [
       "Alleviation",
       "reduction",
@@ -32412,7 +32412,7 @@ export const vocabularyWords = [
       "descend"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Moxie",
@@ -32466,7 +32466,7 @@ export const vocabularyWords = [
       "Biddable"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Mulling",
@@ -32495,7 +32495,7 @@ export const vocabularyWords = [
       "lack"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Multitasking",
@@ -32680,7 +32680,7 @@ export const vocabularyWords = [
       "numerable"
     ],
     "example": "The sky was filled with myriad stars.",
-    "source": "Monthly vocab;  u  "
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words"
   },
   {
     "word": "Mystery",
@@ -32721,13 +32721,13 @@ export const vocabularyWords = [
     "antonyms": [
       "zenith",
       "apex",
-      "pinnacle  The company reached its nadir during the recession"
+      "pinnacle Sentence: The company reached its nadir during the recession"
     ],
     "example": "",
     "source": "Monthly vocab"
   },
   {
-    "word": "Naff off ,
+    "word": "Naff off Meaning",
     "type": "Word",
     "meaning": "used to rudely tell someone to go away because they are annoying you",
     "synonyms": [],
@@ -32745,9 +32745,9 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Nail down ,
+    "word": "Nail down Meaning",
     "type": "Word",
-    "meaning": "To secure or finalize something, such as a plan or agreement.  ",
+    "meaning": "To secure or finalize something, such as a plan or agreement. Follow us on https:; www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal ; t.me/NimishaMam",
     "synonyms": [],
     "antonyms": [],
     "example": "",
@@ -32790,7 +32790,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "Narrow down ,
+    "word": "Narrow down Meaning",
     "type": "Word",
     "meaning": "To reduce the number of choices until a final decision is made",
     "synonyms": [],
@@ -32888,7 +32888,7 @@ export const vocabularyWords = [
       "Praiseworthy"
     ],
     "example": "The mafia was involved in nefarious activities.",
-    "source": "Monthly vocab;  u  "
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words"
   },
   {
     "word": "Negate",
@@ -32902,7 +32902,7 @@ export const vocabularyWords = [
       "confirm"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Negligible",
@@ -33004,7 +33004,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "Never in a million years ,
+    "word": "Never in a million years Meaning",
     "type": "Word",
     "meaning": "something is extremely unlikely or impossible",
     "synonyms": [],
@@ -33013,7 +33013,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Never in million years ,
+    "word": "Never in million years Meaning",
     "type": "Word",
     "meaning": "something is extremely unlikely or impossible",
     "synonyms": [],
@@ -33088,7 +33088,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "No time to lose ,
+    "word": "No time to lose Meaning",
     "type": "Word",
     "meaning": "there is no time to waste",
     "synonyms": [],
@@ -33108,7 +33108,7 @@ export const vocabularyWords = [
       "humble"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Nocturnal",
@@ -33120,7 +33120,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "Nod off ,
+    "word": "Nod off Meaning",
     "type": "Word",
     "meaning": "to begin sleeping, especially not intentionally",
     "synonyms": [],
@@ -33350,7 +33350,7 @@ export const vocabularyWords = [
       "kind"
     ],
     "example": "The noxious fumes caused several workers to faint.",
-    "source": "Monthly vocab;  u  "
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words"
   },
   {
     "word": "Nuance",
@@ -33382,7 +33382,7 @@ export const vocabularyWords = [
     "antonyms": [
       "important",
       "valuable",
-      "significant  His arguments turned out to be nugatory",
+      "significant Sentence: His arguments turned out to be nugatory",
       "meaningful",
       "significant"
     ],
@@ -33437,7 +33437,7 @@ export const vocabularyWords = [
   {
     "word": "Nurturing",
     "type": "पालन-पोषण करना / संवध[न करना",
-    "meaning": "To care for and encourage the growth   or development of someone or something",
+    "meaning": "To care for and encourage the growth Follow us on https:; www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal ; t.me/NimishaMam or development of someone or something",
     "synonyms": [
       "Fostering",
       "cultivating",
@@ -33496,7 +33496,7 @@ export const vocabularyWords = [
   {
     "word": "Obdurate",
     "type": "कठोर, हठी",
-    "meaning": "Stubbornly refusing to change one’s opinion or attitude.  ",
+    "meaning": "Stubbornly refusing to change one’s opinion or attitude. Follow us on https:; www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal ; t.me/NimishaMam",
     "synonyms": [
       "Adamant",
       "inflexible",
@@ -33552,7 +33552,7 @@ export const vocabularyWords = [
       "Explain",
       "Illuminate"
     ],
-    "example": "The politician obfuscated his stance   on the controversial issue.",
+    "example": "The politician obfuscated his stance Follow us on https://www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal //t.me/NimishaMam on the controversial issue.",
     "source": "Monthly vocab"
   },
   {
@@ -33587,7 +33587,7 @@ export const vocabularyWords = [
   {
     "word": "Objurgate",
     "type": "कठोर डाँटना, फटकारना",
-    "meaning": "To scold or rebuke harshly  ",
+    "meaning": "To scold or rebuke harshly Follow us on https:; www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal ; t.me/NimishaMam",
     "synonyms": [
       "Rebuke",
       "Castigate",
@@ -33613,7 +33613,7 @@ export const vocabularyWords = [
       "disobliging"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Oblique",
@@ -33668,7 +33668,7 @@ export const vocabularyWords = [
       "conscious"
     ],
     "example": "The G-7 was oblivious to the plight of developing countries during the pandemic.",
-    "source": "Monthly vocab;  u  ; RedBook OWS"
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words; RedBook OWS"
   },
   {
     "word": "Obnoxious",
@@ -33711,7 +33711,7 @@ export const vocabularyWords = [
       "Modesty: Honour: Virtuousness: Innocence"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Obscure",
@@ -33779,7 +33779,7 @@ export const vocabularyWords = [
       "overlook"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Obsolescent",
@@ -33822,7 +33822,7 @@ export const vocabularyWords = [
       "new-fashioned"
     ],
     "example": "Many believe that landline phones are now obsolete in the age of smartphones.",
-    "source": "Monthly vocab;  u  ; RedBook OWS"
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words; RedBook OWS"
   },
   {
     "word": "Obstreperous",
@@ -33844,7 +33844,7 @@ export const vocabularyWords = [
   {
     "word": "Obstreperousness",
     "type": "Word",
-    "meaning": "Noisy, difficult to control behavior.  ",
+    "meaning": "Noisy, difficult to control behavior. Follow us on https:; www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal ; t.me/NimishaMam",
     "synonyms": [
       "unruliness",
       "noisiness",
@@ -33994,7 +33994,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "Off the hook ,
+    "word": "Off the hook Meaning",
     "type": "Word",
     "meaning": "to be relieved from a difficult situation or responsibility",
     "synonyms": [],
@@ -34003,7 +34003,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Off the top of my head ,
+    "word": "Off the top of my head Meaning",
     "type": "Word",
     "meaning": "Saying something without much thought or preparation",
     "synonyms": [],
@@ -34158,7 +34158,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "On a roll like a runaway wheel ,
+    "word": "On a roll like a runaway wheel Meaning",
     "type": "Word",
     "meaning": "Experiencing continuous success or momentum",
     "synonyms": [],
@@ -34167,7 +34167,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "On one’s toes ,
+    "word": "On one’s toes Meaning",
     "type": "Word",
     "meaning": "ready for any eventuality; alert",
     "synonyms": [],
@@ -34176,16 +34176,16 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "On the back burner ,
+    "word": "On the back burner Meaning",
     "type": "Word",
-    "meaning": "in the position of something that will   not receive immediate attention",
+    "meaning": "in the position of something that will Follow us on https:; www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal ; t.me/NimishaMam not receive immediate attention",
     "synonyms": [],
     "antonyms": [],
     "example": "",
     "source": "Monthly vocab"
   },
   {
-    "word": "On the same wavelength ,
+    "word": "On the same wavelength Meaning",
     "type": "Word",
     "meaning": "to have a mutual understanding or shared views with someone",
     "synonyms": [],
@@ -34194,7 +34194,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Once and for all ,
+    "word": "Once and for all Meaning",
     "type": "Word",
     "meaning": "now and for the last time",
     "synonyms": [],
@@ -34220,7 +34220,7 @@ export const vocabularyWords = [
       "Easy",
       "effortless",
       "light",
-      "Effortless  The manager gave him an onerous task with a tight deadline"
+      "Effortless Sentence: The manager gave him an onerous task with a tight deadline"
     ],
     "example": "The new tariff rules are considered more onerous by exporters.",
     "source": "Monthly vocab"
@@ -34237,7 +34237,7 @@ export const vocabularyWords = [
       "end"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Opaque",
@@ -34304,7 +34304,7 @@ export const vocabularyWords = [
       "lenient"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Opprobrious",
@@ -34337,9 +34337,9 @@ export const vocabularyWords = [
     "antonyms": [
       "honor",
       "esteem",
-      "praise  The scandal brought opprobrium to the politician",
+      "praise Sentence: The scandal brought opprobrium to the politician",
       "Praise",
-      "Approval  The dishonest act brought him public opprobrium",
+      "Approval Sentence: The dishonest act brought him public opprobrium",
       "admiration"
     ],
     "example": "He faced public opprobrium for his actions.",
@@ -34380,7 +34380,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Opt out of ,
+    "word": "Opt out of Meaning",
     "type": "Word",
     "meaning": "To choose not to participate in something",
     "synonyms": [],
@@ -34426,7 +34426,7 @@ export const vocabularyWords = [
       "poor"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Opus",
@@ -34528,7 +34528,7 @@ export const vocabularyWords = [
       "Austere"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Ornithologist",
@@ -34591,7 +34591,7 @@ export const vocabularyWords = [
       "Heretical"
     ],
     "example": "He comes from a very orthodox family that follows strict traditional values.",
-    "source": " u  ; RedBook OWS"
+    "source": "Padakuu 551 repeated SSC words; RedBook OWS"
   },
   {
     "word": "Orthopaedics",
@@ -34643,7 +34643,7 @@ export const vocabularyWords = [
       "authentic",
       "real",
       "actual",
-      "True  His ostensible reason for visiting was business",
+      "True Sentence: His ostensible reason for visiting was business",
       "but he came for pleasure"
     ],
     "example": "His ostensible reason for resigning was personal health, but insiders suspected political pressure.",
@@ -34737,7 +34737,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Out of the red ,
+    "word": "Out of the red Meaning",
     "type": "Word",
     "meaning": "to be financially stable or able to pay",
     "synonyms": [],
@@ -34796,7 +34796,7 @@ export const vocabularyWords = [
       "Produce"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Outrage",
@@ -34850,7 +34850,7 @@ export const vocabularyWords = [
       "modest"
     ],
     "example": "The outrageous remarks made by the leader sparked global condemnation.",
-    "source": "Monthly vocab;  u  "
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words"
   },
   {
     "word": "Overhaul",
@@ -34902,7 +34902,7 @@ export const vocabularyWords = [
       "punish"
     ],
     "example": "It is easy to overlook small mistakes when you are in a hurry.",
-    "source": " u  ; RedBook OWS"
+    "source": "Padakuu 551 repeated SSC words; RedBook OWS"
   },
   {
     "word": "Overturn",
@@ -34916,7 +34916,7 @@ export const vocabularyWords = [
       "allow"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Overweening",
@@ -34930,7 +34930,7 @@ export const vocabularyWords = [
       "modest"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Overwhelm",
@@ -34980,7 +34980,7 @@ export const vocabularyWords = [
       "negligible",
       "minor"
     ],
-    "example": "The overwhelming support for the candidate ensured his victory.  ",
+    "example": "The overwhelming support for the candidate ensured his victory. Follow us on https://www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal //t.me/NimishaMam",
     "source": "Monthly vocab"
   },
   {
@@ -35037,7 +35037,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "Pack off ,
+    "word": "Pack off Meaning",
     "type": "Word",
     "meaning": "to send (someone) away",
     "synonyms": [],
@@ -35080,7 +35080,7 @@ export const vocabularyWords = [
       "Privacy: Humdrum"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Palaeography",
@@ -35213,7 +35213,7 @@ export const vocabularyWords = [
   {
     "word": "Panacea",
     "type": "सव[रोगहारी उपाय",
-    "meaning": "A solution or remedy for all problems or difficulties  ",
+    "meaning": "A solution or remedy for all problems or difficulties Follow us on https:; www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal ; t.me/NimishaMam",
     "synonyms": [
       "Cure-all",
       "universal remedy",
@@ -35228,7 +35228,7 @@ export const vocabularyWords = [
       "affliction",
       "Poison",
       "Disease",
-      "Problem  Education is not a panacea for all social issues",
+      "Problem Sentence: Education is not a panacea for all social issues",
       "Worsener"
     ],
     "example": "Many believe that technological advancements are a panacea for all economic challenges.",
@@ -35378,11 +35378,11 @@ export const vocabularyWords = [
     "antonyms": [
       "Flaw",
       "Imperfection",
-      "Defect  She is a paragon of kindness",
+      "Defect Sentence: She is a paragon of kindness",
       "generosity",
       "Defect"
     ],
-    "example": "She is a paragon of kindness.  ",
+    "example": "She is a paragon of kindness. Follow us on https://www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal //t.me/NimishaMam",
     "source": "Monthly vocab"
   },
   {
@@ -35400,7 +35400,7 @@ export const vocabularyWords = [
     ],
     "antonyms": [],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Parasite",
@@ -35513,7 +35513,7 @@ export const vocabularyWords = [
       "lavish",
       "prodigal",
       "Extravagant",
-      "Lavish  The parsimonious landlord refused to repair the broken window"
+      "Lavish Sentence: The parsimonious landlord refused to repair the broken window"
     ],
     "example": "The parsimonious man rarely donated to charity.",
     "source": "Monthly vocab"
@@ -35531,7 +35531,7 @@ export const vocabularyWords = [
     "antonyms": [
       "generosity",
       "extravagance",
-      "liberality  His parsimony was evident in his refusal to tip waiters"
+      "liberality Sentence: His parsimony was evident in his refusal to tip waiters"
     ],
     "example": "",
     "source": "Monthly vocab"
@@ -35546,7 +35546,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "Pass out ,
+    "word": "Pass out Meaning",
     "type": "Word",
     "meaning": "To lose consciousness; to distribute something",
     "synonyms": [],
@@ -35683,7 +35683,7 @@ export const vocabularyWords = [
   {
     "word": "Pedant",
     "type": "Noun",
-    "meaning": "A person who insists on adherence to formal rules or literary ,
+    "meaning": "A person who insists on adherence to formal rules or literary meaning",
     "synonyms": [],
     "antonyms": [],
     "example": "He is such a pedant that he corrected my grammar in the middle of our argument.",
@@ -35751,7 +35751,7 @@ export const vocabularyWords = [
       "approving",
       "respectful",
       "praising",
-      "Appreciative  He made a pejorative remark about her work",
+      "Appreciative Sentence: He made a pejorative remark about her work",
       "which upset everyone"
     ],
     "example": "The manager's pejorative remarks demotivated the entire team.",
@@ -35817,7 +35817,7 @@ export const vocabularyWords = [
   {
     "word": "Penchant",
     "type": "रुझान",
-    "meaning": "A strong or habitual liking for   something or tendency to do something",
+    "meaning": "A strong or habitual liking for Follow us on https:; www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal ; t.me/NimishaMam something or tendency to do something",
     "synonyms": [
       "Liking",
       "preference",
@@ -35887,7 +35887,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Penny for your thoughts ,
+    "word": "Penny for your thoughts Meaning",
     "type": "Word",
     "meaning": "asking someone what is on their minds",
     "synonyms": [],
@@ -36019,7 +36019,7 @@ export const vocabularyWords = [
     "antonyms": [
       "settle",
       "stay",
-      "remain  He spent years peregrinating across Europe"
+      "remain Sentence: He spent years peregrinating across Europe"
     ],
     "example": "",
     "source": "Monthly vocab"
@@ -36036,7 +36036,7 @@ export const vocabularyWords = [
     "antonyms": [
       "rest",
       "immobility",
-      "settlement  His peregrinations took him to distant lands"
+      "settlement Sentence: His peregrinations took him to distant lands"
     ],
     "example": "",
     "source": "Monthly vocab"
@@ -36053,7 +36053,7 @@ export const vocabularyWords = [
     "antonyms": [
       "mild",
       "submissive",
-      "lenient  His peremptory tone silenced the crowd"
+      "lenient Sentence: His peremptory tone silenced the crowd"
     ],
     "example": "",
     "source": "Monthly vocab"
@@ -36092,7 +36092,7 @@ export const vocabularyWords = [
       "Loyal",
       "trustworthy",
       "faithful",
-      "devoted  The perfidious act of betrayal shocked the allies"
+      "devoted Sentence: The perfidious act of betrayal shocked the allies"
     ],
     "example": "His perfidious actions eventually led to his downfall.",
     "source": "Monthly vocab"
@@ -36258,13 +36258,13 @@ export const vocabularyWords = [
       "wholesome",
       "harmless",
       "favorable",
-      "Innocuous  The pernicious effects of smoking are well known",
-      "Helpful  The pernicious weed spread throughout the farmland",
+      "Innocuous Sentence: The pernicious effects of smoking are well known",
+      "Helpful Sentence: The pernicious weed spread throughout the farmland",
       "Salutary",
       "Innocuous"
     ],
     "example": "The pernicious influence of social media on mental health is becoming increasingly evident.",
-    "source": "Monthly vocab;  u  "
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words"
   },
   {
     "word": "Perniciously",
@@ -36365,7 +36365,7 @@ export const vocabularyWords = [
       "Makeshift"
     ],
     "example": "The cave was in a state of perpetual darkness as no light could reach it.",
-    "source": " u  ; RedBook OWS"
+    "source": "Padakuu 551 repeated SSC words; RedBook OWS"
   },
   {
     "word": "Perpetuate",
@@ -36396,7 +36396,7 @@ export const vocabularyWords = [
       "Break"
     ],
     "example": "The media has a role in either perpetuating or dispelling stereotypes through its portrayal of various issues.",
-    "source": "Monthly vocab;  u  "
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words"
   },
   {
     "word": "Perpetuating",
@@ -36562,7 +36562,7 @@ export const vocabularyWords = [
       "unobservant"
     ],
     "example": "Her perspicacious analysis of the financial data impressed even the senior economists.",
-    "source": "Monthly vocab;  u  "
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words"
   },
   {
     "word": "Perspicuous",
@@ -36610,7 +36610,7 @@ export const vocabularyWords = [
       "Sycophant"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Pertinent",
@@ -36701,7 +36701,7 @@ export const vocabularyWords = [
   {
     "word": "Perversity",
     "type": "मनमानी",
-    "meaning": "A deliberate desire to behave in an unreasonable or unacceptable way; contrariness.  ",
+    "meaning": "A deliberate desire to behave in an unreasonable or unacceptable way; contrariness. Follow us on https:; www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal ; t.me/NimishaMam",
     "synonyms": [
       "Obstinacy",
       "stubbornness",
@@ -36744,7 +36744,7 @@ export const vocabularyWords = [
       "Clean"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Pessimist",
@@ -36860,7 +36860,7 @@ export const vocabularyWords = [
       "agreeable",
       "Calm",
       "Patient",
-      "Cheerful  The child became petulant when he didn’t get his favorite toy"
+      "Cheerful Sentence: The child became petulant when he didn’t get his favorite toy"
     ],
     "example": "His petulant behavior during the meeting annoyed everyone in the room.",
     "source": "Monthly vocab"
@@ -36875,7 +36875,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "Phase in ,
+    "word": "Phase in Meaning",
     "type": "Word",
     "meaning": "to gradually introduce or start using something over a period of time",
     "synonyms": [],
@@ -37028,7 +37028,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "Pick from ,
+    "word": "Pick from Meaning",
     "type": "Word",
     "meaning": "To choose something from a group or set",
     "synonyms": [],
@@ -37037,7 +37037,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Pick on ,
+    "word": "Pick on Meaning",
     "type": "Word",
     "meaning": "To single out a person or thing, sometimes in a negative way, but can also mean to choose",
     "synonyms": [],
@@ -37046,7 +37046,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Pick up on ,
+    "word": "Pick up on Meaning",
     "type": "Word",
     "meaning": "To notice and select something that others may overlook",
     "synonyms": [],
@@ -37093,7 +37093,7 @@ export const vocabularyWords = [
       "construct"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Pillion",
@@ -37160,7 +37160,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "Pitch in ,
+    "word": "Pitch in Meaning",
     "type": "Word",
     "meaning": "to begin working or to contribute to a common task",
     "synonyms": [],
@@ -37243,7 +37243,7 @@ export const vocabularyWords = [
       "trivial"
     ],
     "example": "The manufacturing and construction sectors are pivotal for workforce demand in the GCC and Australia.",
-    "source": "Monthly vocab;  u  "
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words"
   },
   {
     "word": "Placate",
@@ -37420,7 +37420,7 @@ export const vocabularyWords = [
   {
     "word": "Plausible",
     "type": "संभवत: सही",
-    "meaning": "Seemingly reasonable or probable.  ",
+    "meaning": "Seemingly reasonable or probable. Follow us on https:; www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal ; t.me/NimishaMam",
     "synonyms": [
       "Credible",
       "believable",
@@ -37439,10 +37439,10 @@ export const vocabularyWords = [
       "absurd"
     ],
     "example": "The explanation provided by the witness was plausible and consistent with the evidence.",
-    "source": "Monthly vocab;  u  ; RedBook OWS"
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words; RedBook OWS"
   },
   {
-    "word": "Play by the ear ,
+    "word": "Play by the ear Meaning",
     "type": "Word",
     "meaning": "to act according to the demands of a situation",
     "synonyms": [],
@@ -37451,7 +37451,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Play your cards right ,
+    "word": "Play your cards right Meaning",
     "type": "Word",
     "meaning": "to do things in an intelligent and well-planned way",
     "synonyms": [],
@@ -37491,7 +37491,7 @@ export const vocabularyWords = [
     ],
     "antonyms": [],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Plenitude",
@@ -37601,7 +37601,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "Point out ,
+    "word": "Point out Meaning",
     "type": "Word",
     "meaning": "To highlight or select something for attention or decision-making",
     "synonyms": [],
@@ -37621,7 +37621,7 @@ export const vocabularyWords = [
       "excited"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Polemic",
@@ -37727,7 +37727,7 @@ export const vocabularyWords = [
     "antonyms": [
       "Graceful",
       "Lively",
-      "Light  The speaker’s ponderous tone made the lecture boring",
+      "Light Sentence: The speaker’s ponderous tone made the lecture boring",
       "light"
     ],
     "example": "The ponderous books were hard to carry.",
@@ -37748,7 +37748,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Pop the question ,
+    "word": "Pop the question Meaning",
     "type": "Word",
     "meaning": "to ask someone to marry you",
     "synonyms": [],
@@ -37790,7 +37790,7 @@ export const vocabularyWords = [
       "Hermetic"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Port",
@@ -37988,7 +37988,7 @@ export const vocabularyWords = [
       "Immutable"
     ],
     "example": "The climbers found themselves in a precarious position on the narrow ledge.",
-    "source": "Monthly vocab;  u  ; RedBook OWS"
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words; RedBook OWS"
   },
   {
     "word": "Precedent",
@@ -38060,7 +38060,7 @@ export const vocabularyWords = [
       "Child"
     ],
     "example": "The new CEO is much more aggressive than his predecessor.",
-    "source": " u  ; RedBook OWS"
+    "source": "Padakuu 551 repeated SSC words; RedBook OWS"
   },
   {
     "word": "Predicting",
@@ -38141,7 +38141,7 @@ export const vocabularyWords = [
       "Diligent considerate"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Prepare",
@@ -38183,7 +38183,7 @@ export const vocabularyWords = [
       "logical",
       "reasonable"
     ],
-    "example": "The claim that the earth is flat is utterly preposterous.  ",
+    "example": "The claim that the earth is flat is utterly preposterous. Follow us on https://www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal //t.me/NimishaMam",
     "source": "Monthly vocab"
   },
   {
@@ -38233,7 +38233,7 @@ export const vocabularyWords = [
       "Realisation: Conception. Understanding. Feeling"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Prescient",
@@ -38273,7 +38273,7 @@ export const vocabularyWords = [
       "timid"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Pretext",
@@ -38306,7 +38306,7 @@ export const vocabularyWords = [
       "Reality: Fairness"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Prevalence",
@@ -38445,7 +38445,7 @@ export const vocabularyWords = [
     "antonyms": [
       "aversion",
       "dislike",
-      "disinclination.  She has a proclivity for solving difficult problems"
+      "disinclination. Sentence: She has a proclivity for solving difficult problems"
     ],
     "example": "",
     "source": "Monthly vocab"
@@ -38579,7 +38579,7 @@ export const vocabularyWords = [
       "Economical",
       "Thrifty",
       "Moral",
-      "Frugal  His profligate spending habits led to bankruptcy"
+      "Frugal Sentence: His profligate spending habits led to bankruptcy"
     ],
     "example": "His profligate spending led to bankruptcy.",
     "source": "Monthly vocab; RedBook OWS"
@@ -38612,7 +38612,7 @@ export const vocabularyWords = [
       "scarce"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Progeny",
@@ -38787,7 +38787,7 @@ export const vocabularyWords = [
       "Cut"
     ],
     "example": "A prolonged period of drought caused the crops to wither and die.",
-    "source": " u  ; RedBook OWS"
+    "source": "Padakuu 551 repeated SSC words; RedBook OWS"
   },
   {
     "word": "Prop",
@@ -38843,7 +38843,7 @@ export const vocabularyWords = [
       "Width"
     ],
     "example": "Their propinquity in the office led to friendship.",
-    "source": "Monthly vocab;  u  "
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words"
   },
   {
     "word": "Propinquous",
@@ -38865,7 +38865,7 @@ export const vocabularyWords = [
   {
     "word": "Propitiate",
     "type": "शांत करना / मनाना",
-    "meaning": "To win or regain the favor of someone by doing something that pleases them.  ",
+    "meaning": "To win or regain the favor of someone by doing something that pleases them. Follow us on https:; www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal ; t.me/NimishaMam",
     "synonyms": [
       "Appease",
       "pacify",
@@ -38914,7 +38914,7 @@ export const vocabularyWords = [
       "critic",
       "adversary"
     ],
-    "example": "She is a strong proponent of reforms.  ",
+    "example": "She is a strong proponent of reforms. Follow us on https://www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal //t.me/NimishaMam",
     "source": "Monthly vocab"
   },
   {
@@ -38957,7 +38957,7 @@ export const vocabularyWords = [
     "antonyms": [
       "Imaginative",
       "Creative",
-      "Interesting  His writing style was prosaic",
+      "Interesting Sentence: His writing style was prosaic",
       "lacked emotional depth",
       "Poetic",
       "Extraordinary"
@@ -38977,7 +38977,7 @@ export const vocabularyWords = [
       "ban"
     ],
     "example": "The new law aims to proscribe the sale of illegal firearms.",
-    "source": " u  ; RedBook OWS"
+    "source": "Padakuu 551 repeated SSC words; RedBook OWS"
   },
   {
     "word": "Proselyte",
@@ -39027,7 +39027,7 @@ export const vocabularyWords = [
       "curtail"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Protracted",
@@ -39080,7 +39080,7 @@ export const vocabularyWords = [
       "soothing"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Prowess",
@@ -39146,7 +39146,7 @@ export const vocabularyWords = [
       "Negligence"
     ],
     "example": "The GST Council showed prudence in avoiding a compensation cess.",
-    "source": "Monthly vocab;  u  "
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words"
   },
   {
     "word": "Prudent",
@@ -39179,7 +39179,7 @@ export const vocabularyWords = [
       "increasing",
       "growing"
     ],
-    "example": "The company began pruning its   expenses to stay profitable during the recession.",
+    "example": "The company began pruning its Follow us on https://www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal //t.me/NimishaMam expenses to stay profitable during the recession.",
     "source": "Monthly vocab"
   },
   {
@@ -39227,7 +39227,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "Psych out ,
+    "word": "Psych out Meaning",
     "type": "Word",
     "meaning": "make someone less confident",
     "synonyms": [],
@@ -39294,7 +39294,7 @@ export const vocabularyWords = [
       "Ugliness",
       "plainness",
       "deformity",
-      "Deformity  Everyone admired the pulchritude of the actress"
+      "Deformity Sentence: Everyone admired the pulchritude of the actress"
     ],
     "example": "The artist was mesmerized by the pulchritude of the model.",
     "source": "Monthly vocab"
@@ -39317,7 +39317,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Pull someone’s leg ,
+    "word": "Pull someone’s leg Meaning",
     "type": "Word",
     "meaning": "deceive someone playfully; tease someone",
     "synonyms": [],
@@ -39326,7 +39326,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Pull the plug ,
+    "word": "Pull the plug Meaning",
     "type": "Word",
     "meaning": "prevent something from happening or continuing",
     "synonyms": [],
@@ -39346,13 +39346,13 @@ export const vocabularyWords = [
     "antonyms": [
       "build",
       "solidify",
-      "assemble  The machine pulverized the rocks into dust"
+      "assemble Sentence: The machine pulverized the rocks into dust"
     ],
     "example": "",
     "source": "Monthly vocab"
   },
   {
-    "word": "Pump prime ,
+    "word": "Pump prime Meaning",
     "type": "Word",
     "meaning": "To stimulate or encourage an activity or process, especially economic growth. Hindi Meaning: आͬथ[क गǓतͪवͬध को प्रेǐरत करना",
     "synonyms": [
@@ -39425,7 +39425,7 @@ export const vocabularyWords = [
       "give up"
     ],
     "example": "She decided to pursue a career in medicine despite the many challenges.",
-    "source": " u  ; RedBook OWS"
+    "source": "Padakuu 551 repeated SSC words; RedBook OWS"
   },
   {
     "word": "Purveyor",
@@ -39459,14 +39459,14 @@ export const vocabularyWords = [
       "Brave",
       "courageous",
       "valiant",
-      "courageous  His pusillanimous actions disappointed his team",
+      "courageous Sentence: His pusillanimous actions disappointed his team",
       "bold"
     ],
     "example": "His pusillanimous response to the crisis disappointed his supporters.",
     "source": "Monthly vocab"
   },
   {
-    "word": "Put a spanner in the works ,
+    "word": "Put a spanner in the works Meaning",
     "type": "Word",
     "meaning": "to do something that prevents a plan or activity from succeeding",
     "synonyms": [],
@@ -39475,7 +39475,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Put off ,
+    "word": "Put off Meaning",
     "type": "Word",
     "meaning": "To delay or postpone something",
     "synonyms": [],
@@ -39484,7 +39484,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Put out feelers ,
+    "word": "Put out feelers Meaning",
     "type": "Word",
     "meaning": "to make inquiries or gather information subtly",
     "synonyms": [],
@@ -39493,7 +39493,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Put the best foot forward ,
+    "word": "Put the best foot forward Meaning",
     "type": "Word",
     "meaning": "to try as hard as you can",
     "synonyms": [],
@@ -39502,7 +39502,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Put up with ,
+    "word": "Put up with Meaning",
     "type": "Word",
     "meaning": "To tolerate or endure something unpleasant",
     "synonyms": [],
@@ -39549,7 +39549,7 @@ export const vocabularyWords = [
   {
     "word": "Quagmire",
     "type": "दलदल/मुिश्कल िस्थǓत",
-    "meaning": "A difficult or precarious situation.  ",
+    "meaning": "A difficult or precarious situation. Follow us on https:; www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal ; t.me/NimishaMam",
     "synonyms": [
       "Predicament",
       "dilemma",
@@ -39599,7 +39599,7 @@ export const vocabularyWords = [
       "bring about"
     ],
     "example": "The supreme court decided to quash the lower court's decision due to lack of evidence. There was a noticeable quaver in her voice as she began to tell the sad story. The knights went on a long quest to find the legendary Holy Grail.",
-    "source": " u  ; RedBook OWS"
+    "source": "Padakuu 551 repeated SSC words; RedBook OWS"
   },
   {
     "word": "Quashing",
@@ -39632,7 +39632,7 @@ export const vocabularyWords = [
       "Agitate",
       "Incite"
     ],
-    "example": "The security forces were deployed to quell unrest.  ",
+    "example": "The security forces were deployed to quell unrest. Follow us on https://www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal //t.me/NimishaMam",
     "source": "Monthly vocab"
   },
   {
@@ -39649,7 +39649,7 @@ export const vocabularyWords = [
     "antonyms": [
       "Content",
       "Cheerful",
-      "Satisfied  She became querulous about every small inconvenience",
+      "Satisfied Sentence: She became querulous about every small inconvenience",
       "Contented",
       "Satisfied"
     ],
@@ -39797,7 +39797,7 @@ export const vocabularyWords = [
       "practical",
       "sensible",
       "Realistic",
-      "Sensible  His quixotic dream of world peace seemed impossible"
+      "Sensible Sentence: His quixotic dream of world peace seemed impossible"
     ],
     "example": "His quixotic dream of becoming a knight amused his friends.",
     "source": "Monthly vocab; RedBook OWS"
@@ -39823,7 +39823,7 @@ export const vocabularyWords = [
     "antonyms": [
       "extraordinary",
       "unusual",
-      "rare  He was bored by the quotidian tasks of office work"
+      "rare Sentence: He was bored by the quotidian tasks of office work"
     ],
     "example": "",
     "source": "Monthly vocab"
@@ -39894,7 +39894,7 @@ export const vocabularyWords = [
       "superficial"
     ],
     "example": "The young radical demanded immediate reforms in the country's education system.",
-    "source": " u  ; RedBook OWS"
+    "source": "Padakuu 551 repeated SSC words; RedBook OWS"
   },
   {
     "word": "Radiologist",
@@ -39915,7 +39915,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "Rags to riches ,
+    "word": "Rags to riches Meaning",
     "type": "Word",
     "meaning": "a person who rises from poverty to wealth",
     "synonyms": [],
@@ -39941,7 +39941,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Rain on someone's parade ,
+    "word": "Rain on someone's parade Meaning",
     "type": "Word",
     "meaning": "to spoil someone's plans or joy",
     "synonyms": [],
@@ -39950,7 +39950,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Raise a red flag ,
+    "word": "Raise a red flag Meaning",
     "type": "Word",
     "meaning": "To signal that something is wrong or suspicious",
     "synonyms": [],
@@ -40254,7 +40254,7 @@ export const vocabularyWords = [
   {
     "word": "Ravaging",
     "type": "ͪवनाश करना",
-    "meaning": "Causing great damage or destruction.  ",
+    "meaning": "Causing great damage or destruction. Follow us on https:; www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal ; t.me/NimishaMam",
     "synonyms": [
       "Devastating",
       "destroying",
@@ -40288,7 +40288,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Read up ,
+    "word": "Read up Meaning",
     "type": "Word",
     "meaning": "acquire information about a particular subject by studying it intensively",
     "synonyms": [],
@@ -40334,7 +40334,7 @@ export const vocabularyWords = [
   {
     "word": "Reassuring",
     "type": "आश्वस्त करने वाला",
-    "meaning": "Serving to remove someone's doubts or fears.  ",
+    "meaning": "Serving to remove someone's doubts or fears. Follow us on https:; www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal ; t.me/NimishaMam",
     "synonyms": [
       "Comforting",
       "encouraging",
@@ -40361,7 +40361,7 @@ export const vocabularyWords = [
     "antonyms": [
       "pleasant",
       "charming",
-      "delightful  His rebarbative personality kept people away",
+      "delightful Sentence: His rebarbative personality kept people away",
       "attractive"
     ],
     "example": "The rebarbative behavior of the man disturbed everyone. (DECEMBER MONTH 2025)",
@@ -40448,7 +40448,7 @@ export const vocabularyWords = [
       "confirm"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Rebuts",
@@ -40617,12 +40617,12 @@ export const vocabularyWords = [
     ],
     "antonyms": [],
     "example": "I would like to reciprocate your kindness by inviting you to dinner.",
-    "source": " u  ; RedBook OWS"
+    "source": "Padakuu 551 repeated SSC words; RedBook OWS"
   },
   {
     "word": "Reckless",
     "type": "लापरवाह",
-    "meaning": "Acting without thinking about the consequences.  ",
+    "meaning": "Acting without thinking about the consequences. Follow us on https:; www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal ; t.me/NimishaMam",
     "synonyms": [
       "Careless",
       "irresponsible",
@@ -40670,7 +40670,7 @@ export const vocabularyWords = [
       "worsen",
       "alienate"
     ],
-    "example": "The Supreme Court sought to reconcile the concerns of animal lovers with   those worried about public safety.",
+    "example": "The Supreme Court sought to reconcile the concerns of animal lovers with Follow us on https://www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal //t.me/NimishaMam those worried about public safety.",
     "source": "Monthly vocab"
   },
   {
@@ -40691,12 +40691,12 @@ export const vocabularyWords = [
       "Breach: Disaffection"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Recondite",
     "type": "कǑठन, गूढ़",
-    "meaning": "Difficult to understand; obscure or highly complex.  ",
+    "meaning": "Difficult to understand; obscure or highly complex. Follow us on https:; www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal ; t.me/NimishaMam",
     "synonyms": [
       "Obscure",
       "abstruse",
@@ -40754,7 +40754,7 @@ export const vocabularyWords = [
       "Lassitude"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Recrudescence",
@@ -40768,7 +40768,7 @@ export const vocabularyWords = [
     "antonyms": [
       "cessation",
       "end",
-      "disappearance  There was a recrudescence of violence in the region"
+      "disappearance Sentence: There was a recrudescence of violence in the region"
     ],
     "example": "",
     "source": "Monthly vocab"
@@ -40803,10 +40803,10 @@ export const vocabularyWords = [
       "infamy"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
-    "word": "Rectitude ,
+    "word": "Rectitude Meaning",
     "type": "Word",
     "meaning": "Morally correct behavior or thinking; righteousness. Hindi Meaning: शुद्धता, नैǓतकता",
     "synonyms": [
@@ -40868,7 +40868,7 @@ export const vocabularyWords = [
     "antonyms": [
       "weak",
       "unimpressive",
-      "ordinary  The boxer was a redoubtable opponent"
+      "ordinary Sentence: The boxer was a redoubtable opponent"
     ],
     "example": "",
     "source": "Monthly vocab"
@@ -41084,7 +41084,7 @@ export const vocabularyWords = [
       "destruction",
       "abandonment"
     ],
-    "example": "Whiteabbey Hospital provides care for patients requiring rehabilitation following an acute hospital admission.   (OCTOBER M...",
+    "example": "Whiteabbey Hospital provides care for patients requiring rehabilitation following an acute hospital admission. Follow us on https://www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal //t.me/NimishaMam (OCTOBER M...",
     "source": "Monthly vocab"
   },
   {
@@ -41172,7 +41172,7 @@ export const vocabularyWords = [
       "relinquishment",
       "dependence"
     ],
-    "example": "The reins of global governance must   be shared equitably among all nations.",
+    "example": "The reins of global governance must Follow us on https://www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal //t.me/NimishaMam be shared equitably among all nations.",
     "source": "Monthly vocab"
   },
   {
@@ -41197,7 +41197,7 @@ export const vocabularyWords = [
   {
     "word": "Reiterated",
     "type": "दोहराया",
-    "meaning": "Say something again or a number of times, typically for emphasis or clarity.  ",
+    "meaning": "Say something again or a number of times, typically for emphasis or clarity. Follow us on https:; www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal ; t.me/NimishaMam",
     "synonyms": [
       "Repeated",
       "restated",
@@ -41289,7 +41289,7 @@ export const vocabularyWords = [
       "short-lived"
     ],
     "example": "The relentless efforts of the team ensured the project's success.",
-    "source": "Monthly vocab;  u  "
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words"
   },
   {
     "word": "Relic",
@@ -41375,7 +41375,7 @@ export const vocabularyWords = [
     ],
     "antonyms": [],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Remand",
@@ -41476,7 +41476,7 @@ export const vocabularyWords = [
   {
     "word": "Remorse",
     "type": "पछतावा",
-    "meaning": "Deep regret or guilt for a wrong committed.  ",
+    "meaning": "Deep regret or guilt for a wrong committed. Follow us on https:; www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal ; t.me/NimishaMam",
     "synonyms": [
       "Regret",
       "repentance",
@@ -41524,7 +41524,7 @@ export const vocabularyWords = [
       "Approximate"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Remuneration",
@@ -41587,7 +41587,7 @@ export const vocabularyWords = [
       "keep"
     ],
     "example": "The company reneged on its agreement to provide free healthcare for employees.",
-    "source": "Monthly vocab;  u  "
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words"
   },
   {
     "word": "Renovate",
@@ -41609,7 +41609,7 @@ export const vocabularyWords = [
     ],
     "antonyms": [],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Repatriation",
@@ -41783,7 +41783,7 @@ export const vocabularyWords = [
       "Transfer"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Repressive",
@@ -41797,12 +41797,12 @@ export const vocabularyWords = [
       "democratic"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Reprieve",
     "type": "राहत",
-    "meaning": "A temporary relief from a difficult or unpleasant situation.  ",
+    "meaning": "A temporary relief from a difficult or unpleasant situation. Follow us on https:; www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal ; t.me/NimishaMam",
     "synonyms": [
       "Relief",
       "postponement",
@@ -41899,7 +41899,7 @@ export const vocabularyWords = [
       "Caress"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Reptiles",
@@ -41922,7 +41922,7 @@ export const vocabularyWords = [
       "confirmation"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Repugnant",
@@ -42098,7 +42098,7 @@ export const vocabularyWords = [
       "indecision"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Resonant",
@@ -42185,7 +42185,7 @@ export const vocabularyWords = [
       "seizure"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Restrain",
@@ -42220,7 +42220,7 @@ export const vocabularyWords = [
       "Encourage"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Resumption",
@@ -42334,7 +42334,7 @@ export const vocabularyWords = [
       "expansive"
     ],
     "example": "She was reticent about her personal life.",
-    "source": "Monthly vocab;  u  ; RedBook OWS"
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words; RedBook OWS"
   },
   {
     "word": "Retrace",
@@ -42516,7 +42516,7 @@ export const vocabularyWords = [
       "Scurrility"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Reverent",
@@ -42550,7 +42550,7 @@ export const vocabularyWords = [
       "Regard"
     ],
     "example": "He was jolted out of his reverie by the sudden ringing of the telephone.",
-    "source": " u  ; RedBook OWS"
+    "source": "Padakuu 551 repeated SSC words; RedBook OWS"
   },
   {
     "word": "Revert",
@@ -42677,7 +42677,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Riding a High Horse ,
+    "word": "Riding a High Horse Meaning",
     "type": "Word",
     "meaning": "to start talking angrily about something",
     "synonyms": [],
@@ -42701,7 +42701,7 @@ export const vocabularyWords = [
       "unknown"
     ],
     "example": "Corruption was rife in the government, leading to public outrage.",
-    "source": "Monthly vocab;  u  "
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words"
   },
   {
     "word": "Rift",
@@ -42795,7 +42795,7 @@ export const vocabularyWords = [
   {
     "word": "Robust",
     "type": "मजबूत",
-    "meaning": "Strong and healthy; unlikely to fail or weaken.  ",
+    "meaning": "Strong and healthy; unlikely to fail or weaken. Follow us on https:; www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal ; t.me/NimishaMam",
     "synonyms": [
       "Sturdy",
       "vigorous",
@@ -42824,7 +42824,7 @@ export const vocabularyWords = [
       "Languid"
     ],
     "example": "The agency requires a robust framework to address pollution.",
-    "source": "Monthly vocab;  u  "
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words"
   },
   {
     "word": "Roiled",
@@ -42844,7 +42844,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Roll in the dough ,
+    "word": "Roll in the dough Meaning",
     "type": "Word",
     "meaning": "Be very wealthy or make a lot of money",
     "synonyms": [],
@@ -42853,7 +42853,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Roll out the red carpet ,
+    "word": "Roll out the red carpet Meaning",
     "type": "Word",
     "meaning": "To give special treatment or a warm welcome, especially to important guests",
     "synonyms": [],
@@ -42862,7 +42862,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Romp through ,
+    "word": "Romp through Meaning",
     "type": "Word",
     "meaning": "to do something quickly and easily",
     "synonyms": [],
@@ -42880,7 +42880,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Rope in ,
+    "word": "Rope in Meaning",
     "type": "Word",
     "meaning": "Persuade or convince someone to participate",
     "synonyms": [],
@@ -42932,7 +42932,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "Rough up ,
+    "word": "Rough up Meaning",
     "type": "Word",
     "meaning": "beat someone up",
     "synonyms": [],
@@ -42960,7 +42960,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Rub off on ,
+    "word": "Rub off on Meaning",
     "type": "Word",
     "meaning": "To influence someone in a positive or negative way through proximity or example",
     "synonyms": [],
@@ -42984,7 +42984,7 @@ export const vocabularyWords = [
   {
     "word": "Rudiment",
     "type": "प्रथम तत्त्व",
-    "meaning": "The first principles of a subject.  ",
+    "meaning": "The first principles of a subject. Follow us on https:; www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal ; t.me/NimishaMam",
     "synonyms": [
       "Basics",
       "fundamentals",
@@ -43049,7 +43049,7 @@ export const vocabularyWords = [
       "Successful",
       "beneficial"
     ],
-    "example": "The company’s ruinous decision to   expand too quickly led to bankruptcy.",
+    "example": "The company’s ruinous decision to Follow us on https://www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal //t.me/NimishaMam expand too quickly led to bankruptcy.",
     "source": "Monthly vocab"
   },
   {
@@ -43062,7 +43062,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "Rule out ,
+    "word": "Rule out Meaning",
     "type": "Word",
     "meaning": "To eliminate or exclude options from consideration",
     "synonyms": [],
@@ -43088,7 +43088,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Run around in circles ,
+    "word": "Run around in circles Meaning",
     "type": "Word",
     "meaning": "putting efforts into something that is not a worthwhile result",
     "synonyms": [],
@@ -43097,16 +43097,16 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Run away ,
+    "word": "Run away Meaning",
     "type": "Word",
-    "meaning": "To leave a place or situation quickly, often to avoid trouble or danger.  ",
+    "meaning": "To leave a place or situation quickly, often to avoid trouble or danger. Follow us on https:; www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal ; t.me/NimishaMam",
     "synonyms": [],
     "antonyms": [],
     "example": "",
     "source": "Monthly vocab"
   },
   {
-    "word": "Run down ,
+    "word": "Run down Meaning",
     "type": "Word",
     "meaning": "Criticize someone or something unfairly / Decline in condition or power",
     "synonyms": [],
@@ -43115,7 +43115,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Run into ,
+    "word": "Run into Meaning",
     "type": "Word",
     "meaning": "To meet someone by chance; to encounter problems or difficulties",
     "synonyms": [],
@@ -43133,7 +43133,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Run out of ,
+    "word": "Run out of Meaning",
     "type": "Word",
     "meaning": "To have no more of a particular item remaining",
     "synonyms": [],
@@ -43210,7 +43210,7 @@ export const vocabularyWords = [
       "Benignant"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Sabotage",
@@ -43263,7 +43263,7 @@ export const vocabularyWords = [
   {
     "word": "Sabre-rattling",
     "type": "युद्ध की धमकी",
-    "meaning": "The display or threat of military power, especially to intimidate others.  ",
+    "meaning": "The display or threat of military power, especially to intimidate others. Follow us on https:; www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal ; t.me/NimishaMam",
     "synonyms": [
       "Threatening posture",
       "military posturing"
@@ -43351,7 +43351,7 @@ export const vocabularyWords = [
     "antonyms": [
       "Foolishness",
       "Ignorance",
-      "Stupidity  Her sagaciousness helped the company avoid many mistakes"
+      "Stupidity Sentence: Her sagaciousness helped the company avoid many mistakes"
     ],
     "example": "",
     "source": "Monthly vocab"
@@ -43584,7 +43584,7 @@ export const vocabularyWords = [
       "gloomy",
       "doubtful",
       "despairing",
-      "Depressed  Despite the challenges",
+      "Depressed Sentence: Despite the challenges",
       "she remained sanguine about the future"
     ],
     "example": "Despite the challenges, the manager remained sanguine about the project’s success.",
@@ -43617,7 +43617,7 @@ export const vocabularyWords = [
       "Crazy"
     ],
     "example": "The sapient leader guided the nation through its most difficult times with clarity.",
-    "source": "Monthly vocab;  u  "
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words"
   },
   {
     "word": "Sapped",
@@ -43650,7 +43650,7 @@ export const vocabularyWords = [
       "kind",
       "respectful",
       "gentle",
-      "sincere.  He gave a sardonic smile after hearing the excuse"
+      "sincere. Sentence: He gave a sardonic smile after hearing the excuse"
     ],
     "example": "His sardonic remark about the government’s handling of the disaster angered many officials.",
     "source": "Monthly vocab"
@@ -43669,7 +43669,7 @@ export const vocabularyWords = [
     "antonyms": [
       "cheerful",
       "lively",
-      "vivacious  His saturnine look revealed deep sadness",
+      "vivacious Sentence: His saturnine look revealed deep sadness",
       "bright"
     ],
     "example": "His saturnine face showed he was disappointed.",
@@ -43762,7 +43762,7 @@ export const vocabularyWords = [
       "often"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Scarcity",
@@ -43790,7 +43790,7 @@ export const vocabularyWords = [
       "complimentary"
     ],
     "example": "The committee's report was scathing in its criticism of the GST implementation.",
-    "source": "Monthly vocab;  u  "
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words"
   },
   {
     "word": "Scatterbrain",
@@ -43875,7 +43875,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "School of thought ,
+    "word": "School of thought Meaning",
     "type": "Word",
     "meaning": "a particular way of thinking",
     "synonyms": [],
@@ -43994,7 +43994,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Scrape along ,
+    "word": "Scrape along Meaning",
     "type": "Word",
     "meaning": "Manage with little money",
     "synonyms": [],
@@ -44003,7 +44003,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Scrape the barrel ,
+    "word": "Scrape the barrel Meaning",
     "type": "Word",
     "meaning": "to use the worst people or things because that is all that is available",
     "synonyms": [],
@@ -44038,7 +44038,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "Screen out ,
+    "word": "Screen out Meaning",
     "type": "Word",
     "meaning": "Exclude",
     "synonyms": [],
@@ -44047,7 +44047,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Screw up ,
+    "word": "Screw up Meaning",
     "type": "Word",
     "meaning": "Do badly or fail",
     "synonyms": [],
@@ -44087,7 +44087,7 @@ export const vocabularyWords = [
       "Restrain"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Scrupulous",
@@ -44151,7 +44151,7 @@ export const vocabularyWords = [
   {
     "word": "Scrutiny",
     "type": "परीक्षण, जांच",
-    "meaning": "Critical observation or examination.  ",
+    "meaning": "Critical observation or examination. Follow us on https:; www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal ; t.me/NimishaMam",
     "synonyms": [
       "Inspection",
       "examination",
@@ -44202,7 +44202,7 @@ export const vocabularyWords = [
       "Unanimity"
     ],
     "example": "A brief scuffle broke out between protesters and the police during the demonstration.",
-    "source": "Monthly vocab;  u  "
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words"
   },
   {
     "word": "Scullery",
@@ -44255,7 +44255,7 @@ export const vocabularyWords = [
       "facilitated",
       "supported"
     ],
-    "example": "The sudden change in regulations scuppered their plans to expand the business.  ",
+    "example": "The sudden change in regulations scuppered their plans to expand the business. Follow us on https://www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal //t.me/NimishaMam",
     "source": "Monthly vocab"
   },
   {
@@ -44279,7 +44279,7 @@ export const vocabularyWords = [
       "stroll"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Seamy",
@@ -44311,7 +44311,7 @@ export const vocabularyWords = [
       "Wholesome"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Secular",
@@ -44433,7 +44433,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "Sell ice to Eskimos ,
+    "word": "Sell ice to Eskimos Meaning",
     "type": "Word",
     "meaning": "to persuade people to go against their best interests",
     "synonyms": [],
@@ -44479,7 +44479,7 @@ export const vocabularyWords = [
     "antonyms": [
       "youthful",
       "vigorous",
-      "sprightly  The senescent professor retired after 40 years of teaching"
+      "sprightly Sentence: The senescent professor retired after 40 years of teaching"
     ],
     "example": "",
     "source": "Monthly vocab"
@@ -44516,7 +44516,7 @@ export const vocabularyWords = [
       "humble",
       "simple"
     ],
-    "example": "His sententious remarks irritated everyone.  ",
+    "example": "His sententious remarks irritated everyone. Follow us on https://www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal //t.me/NimishaMam",
     "source": "Monthly vocab"
   },
   {
@@ -44598,7 +44598,7 @@ export const vocabularyWords = [
       "Clamorous"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Serial",
@@ -44654,7 +44654,7 @@ export const vocabularyWords = [
       "Lenient"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Sesquipedalian",
@@ -44668,13 +44668,13 @@ export const vocabularyWords = [
     "antonyms": [
       "simple",
       "concise",
-      "plainspoken  His sesquipedalian style confused the audience"
+      "plainspoken Sentence: His sesquipedalian style confused the audience"
     ],
     "example": "",
     "source": "Monthly vocab"
   },
   {
-    "word": "Set about ,
+    "word": "Set about Meaning",
     "type": "Word",
     "meaning": "Start doing something",
     "synonyms": [],
@@ -44683,7 +44683,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Set out ,
+    "word": "Set out Meaning",
     "type": "Word",
     "meaning": "Begin a journey or an activity",
     "synonyms": [],
@@ -44692,7 +44692,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Set up ,
+    "word": "Set up Meaning",
     "type": "Word",
     "meaning": "To establish or arrange something; to start a business or organization",
     "synonyms": [],
@@ -44780,7 +44780,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Shape up or ship out ,
+    "word": "Shape up or ship out Meaning",
     "type": "Word",
     "meaning": "work better or leave",
     "synonyms": [],
@@ -44843,7 +44843,7 @@ export const vocabularyWords = [
   {
     "word": "Shore up",
     "type": "मज़बूत करना / समथ[न देना",
-    "meaning": "To support or reinforce something to keep it from failing or weakening.  ",
+    "meaning": "To support or reinforce something to keep it from failing or weakening. Follow us on https:; www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal ; t.me/NimishaMam",
     "synonyms": [
       "Strengthen",
       "support",
@@ -44875,7 +44875,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Show up ,
+    "word": "Show up Meaning",
     "type": "Word",
     "meaning": "To arrive or appear, often unexpectedly or late",
     "synonyms": [],
@@ -44884,7 +44884,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Show your true colors ,
+    "word": "Show your true colors Meaning",
     "type": "Word",
     "meaning": "To reveal your real character or intentions, often after hiding them",
     "synonyms": [],
@@ -45024,7 +45024,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "Single out ,
+    "word": "Single out Meaning",
     "type": "Word",
     "meaning": "To choose or select someone or something from a group",
     "synonyms": [],
@@ -45033,7 +45033,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Sink or swim ,
+    "word": "Sink or swim Meaning",
     "type": "Word",
     "meaning": "To succeed or fail entirely by one's own efforts",
     "synonyms": [],
@@ -45059,7 +45059,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Size up ,
+    "word": "Size up Meaning",
     "type": "Word",
     "meaning": "To assess or evaluate something before making a decision",
     "synonyms": [],
@@ -45175,7 +45175,7 @@ export const vocabularyWords = [
       "praise"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Slash",
@@ -45235,10 +45235,10 @@ export const vocabularyWords = [
       "Sharp"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
-    "word": "Slip up ,
+    "word": "Slip up Meaning",
     "type": "Word",
     "meaning": "Make an error",
     "synonyms": [],
@@ -45265,7 +45265,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "Slug it out ,
+    "word": "Slug it out Meaning",
     "type": "Word",
     "meaning": "to fight, argue, or compete with someone until one person wins",
     "synonyms": [],
@@ -45329,7 +45329,7 @@ export const vocabularyWords = [
       "improvement"
     ],
     "example": "The player struggled to recover from his career slump.",
-    "source": "Monthly vocab;  u  "
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words"
   },
   {
     "word": "Slumped",
@@ -45360,7 +45360,7 @@ export const vocabularyWords = [
       "artless"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Smear",
@@ -45451,7 +45451,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Snuff out ,
+    "word": "Snuff out Meaning",
     "type": "Word",
     "meaning": "to put an end to, kill, or destroy something completely",
     "synonyms": [],
@@ -45506,7 +45506,7 @@ export const vocabularyWords = [
   {
     "word": "Solace",
     "type": "सांत्वना",
-    "meaning": "Comfort or consolation in a time of   distress or sadness",
+    "meaning": "Comfort or consolation in a time of Follow us on https:; www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal ; t.me/NimishaMam distress or sadness",
     "synonyms": [
       "Comfort",
       "consolation",
@@ -45539,7 +45539,7 @@ export const vocabularyWords = [
       "Sorrow"
     ],
     "example": "Most of the deceased were from the economically vulnerable sections of society and were in search of spiritual solace.",
-    "source": "Monthly vocab;  u  "
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words"
   },
   {
     "word": "Solacer",
@@ -45670,7 +45670,7 @@ export const vocabularyWords = [
     "antonyms": [
       "alert",
       "wakeful",
-      "energetic  The somnolent lecture put half the class to sleep",
+      "energetic Sentence: The somnolent lecture put half the class to sleep",
       "awake"
     ],
     "example": "The long lecture made the students somnolent.",
@@ -45714,7 +45714,7 @@ export const vocabularyWords = [
     "antonyms": [
       "Stimulating",
       "Exciting",
-      "Energizing  The long lecture had a soporific effect on the students"
+      "Energizing Sentence: The long lecture had a soporific effect on the students"
     ],
     "example": "",
     "source": "Monthly vocab"
@@ -45764,7 +45764,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Sort through ,
+    "word": "Sort through Meaning",
     "type": "Word",
     "meaning": "To go through a collection and choose items selectively",
     "synonyms": [],
@@ -45881,7 +45881,7 @@ export const vocabularyWords = [
       "Vexed"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Spendthrift",
@@ -46021,7 +46021,7 @@ export const vocabularyWords = [
   {
     "word": "Spurious",
     "type": "कृǒत्रम / झूठा",
-    "meaning": "Not being what it claims to be; false or fake.  ",
+    "meaning": "Not being what it claims to be; false or fake. Follow us on https:; www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal ; t.me/NimishaMam",
     "synonyms": [
       "Bogus",
       "counterfeit",
@@ -46035,7 +46035,7 @@ export const vocabularyWords = [
       "authentic",
       "valid",
       "legitimate",
-      "True  The document was found to be spurious"
+      "True Sentence: The document was found to be spurious"
     ],
     "example": "The report was filled with spurious claims that could not be verified.",
     "source": "Monthly vocab; RedBook OWS"
@@ -46271,7 +46271,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "State of the art ,
+    "word": "State of the art Meaning",
     "type": "Word",
     "meaning": "The most advanced or sophisticated level of technology or design",
     "synonyms": [],
@@ -46341,7 +46341,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Steal up ,
+    "word": "Steal up Meaning",
     "type": "Word",
     "meaning": "to move somewhere quietly and secretly",
     "synonyms": [],
@@ -46386,7 +46386,7 @@ export const vocabularyWords = [
   {
     "word": "Stentorian",
     "type": "अत्यͬधक ऊँची आवाज़ वाला",
-    "meaning": "extremely loud  ",
+    "meaning": "extremely loud Follow us on https:; www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal ; t.me/NimishaMam",
     "synonyms": [
       "booming",
       "thunderous",
@@ -46395,13 +46395,13 @@ export const vocabularyWords = [
     "antonyms": [
       "faint",
       "soft",
-      "muted  The speaker’s stentorian voice filled the hall"
+      "muted Sentence: The speaker’s stentorian voice filled the hall"
     ],
     "example": "",
     "source": "Monthly vocab"
   },
   {
-    "word": "Step up to ,
+    "word": "Step up to Meaning",
     "type": "Word",
     "meaning": "To take on a choice or responsibility when called upon",
     "synonyms": [],
@@ -46444,7 +46444,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "Stick one’s neck out ,
+    "word": "Stick one’s neck out Meaning",
     "type": "Word",
     "meaning": "to take a risk",
     "synonyms": [],
@@ -46453,7 +46453,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Stick to ,
+    "word": "Stick to Meaning",
     "type": "Word",
     "meaning": "To remain with a particular choice or decision",
     "synonyms": [],
@@ -46549,7 +46549,7 @@ export const vocabularyWords = [
       "Garnishment"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Stingy",
@@ -46592,12 +46592,12 @@ export const vocabularyWords = [
       "Balminess"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Stipulated",
     "type": "Ǔनधा[ǐरत",
-    "meaning": "Demanded or specified, typically as part of an agreement.  ",
+    "meaning": "Demanded or specified, typically as part of an agreement. Follow us on https:; www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal ; t.me/NimishaMam",
     "synonyms": [
       "Specified",
       "mandated",
@@ -46612,7 +46612,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Stir up ,
+    "word": "Stir up Meaning",
     "type": "Word",
     "meaning": "Provoke or incite strong emotions or trouble",
     "synonyms": [],
@@ -46639,7 +46639,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "Stoke ,
+    "word": "Stoke Meaning",
     "type": "Word",
     "meaning": "To encourage or incite a strong emotion or activity. Hindi Meaning: भड़काना, बढ़ावा देना",
     "synonyms": [
@@ -46666,13 +46666,13 @@ export const vocabularyWords = [
     "antonyms": [
       "Emotional",
       "Sensitive",
-      "Expressive  The guard remained stolid even during the chaos"
+      "Expressive Sentence: The guard remained stolid even during the chaos"
     ],
     "example": "",
     "source": "Monthly vocab"
   },
   {
-    "word": "Stop back ,
+    "word": "Stop back Meaning",
     "type": "Word",
     "meaning": "to return to a place you have previously visited",
     "synonyms": [],
@@ -46737,13 +46737,13 @@ export const vocabularyWords = [
       "liberation",
       "release"
     ],
-    "example": "Nadal had a stranglehold over the   French Open with 14 titles.",
+    "example": "Nadal had a stranglehold over the Follow us on https://www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal //t.me/NimishaMam French Open with 14 titles.",
     "source": "Monthly vocab"
   },
   {
     "word": "Stratagem",
     "type": "चाल",
-    "meaning": "A clever plan or scheme, especially one used to outwit an opponent or achieve a specific goal.  ",
+    "meaning": "A clever plan or scheme, especially one used to outwit an opponent or achieve a specific goal. Follow us on https:; www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal ; t.me/NimishaMam",
     "synonyms": [
       "Scheme",
       "tactic",
@@ -46837,10 +46837,10 @@ export const vocabularyWords = [
       "peace"
     ],
     "example": "The country has suffered from years of civil strife and political instability. He overcame his stuttering with the help of a dedicated speech therapist.",
-    "source": " u  ; RedBook OWS"
+    "source": "Padakuu 551 repeated SSC words; RedBook OWS"
   },
   {
-    "word": "Strike back ,
+    "word": "Strike back Meaning",
     "type": "Word",
     "meaning": "To retaliate or respond to an attack or criticism",
     "synonyms": [],
@@ -46849,7 +46849,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Strike down ,
+    "word": "Strike down Meaning",
     "type": "Word",
     "meaning": "To officially reject or annul something, such as a law or decision",
     "synonyms": [],
@@ -46892,7 +46892,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Stuck in a time warp ,
+    "word": "Stuck in a time warp Meaning",
     "type": "Word",
     "meaning": "something or someone has not changed, even though everything else has",
     "synonyms": [],
@@ -47006,7 +47006,7 @@ export const vocabularyWords = [
       "Antecedent"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Subservience",
@@ -47048,7 +47048,7 @@ export const vocabularyWords = [
       "domineering"
     ],
     "example": "The policy was criticized for being subservient to corporate interests.",
-    "source": "Monthly vocab;  u  ; RedBook OWS"
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words; RedBook OWS"
   },
   {
     "word": "Subsistence",
@@ -47104,7 +47104,7 @@ export const vocabularyWords = [
       "Decline"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Subsumed",
@@ -47323,7 +47323,7 @@ export const vocabularyWords = [
   {
     "word": "Supercilious",
     "type": "अͧभमानी",
-    "meaning": "Behaving or looking as though one thinks one is superior to others.  ",
+    "meaning": "Behaving or looking as though one thinks one is superior to others. Follow us on https:; www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal ; t.me/NimishaMam",
     "synonyms": [
       "Arrogant",
       "condescending",
@@ -47422,7 +47422,7 @@ export const vocabularyWords = [
       "precede"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Supplant",
@@ -47529,7 +47529,7 @@ export const vocabularyWords = [
       "Benign"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Surplus",
@@ -47730,7 +47730,7 @@ export const vocabularyWords = [
     ],
     "antonyms": [],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Sword",
@@ -47900,7 +47900,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "Take a rain check ,
+    "word": "Take a rain check Meaning",
     "type": "Word",
     "meaning": "to refuse an offer or invitation politely",
     "synonyms": [],
@@ -47909,7 +47909,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Take after ,
+    "word": "Take after Meaning",
     "type": "Word",
     "meaning": "To resemble a family member in appearance or behavior",
     "synonyms": [],
@@ -47918,7 +47918,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Take off ,
+    "word": "Take off Meaning",
     "type": "Word",
     "meaning": "To leave the ground (for airplanes); to become successful suddenly; to remove (clothing)",
     "synonyms": [],
@@ -47927,7 +47927,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Take on ,
+    "word": "Take on Meaning",
     "type": "Word",
     "meaning": "To accept a responsibility or challenge; to hire someone",
     "synonyms": [],
@@ -47952,7 +47952,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Talk a blue streak ,
+    "word": "Talk a blue streak Meaning",
     "type": "Word",
     "meaning": "to talk rapidly and without stopping",
     "synonyms": [],
@@ -47995,7 +47995,7 @@ export const vocabularyWords = [
       "vague"
     ],
     "example": "The government has made tangible progress in the fight against tuberculosis by introducing advanced treatment methods.",
-    "source": "Monthly vocab;  u  "
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words"
   },
   {
     "word": "Tantamount",
@@ -48019,7 +48019,7 @@ export const vocabularyWords = [
       "Unlike"
     ],
     "example": "Martial law was tantamount to reviving memories of dictatorship.",
-    "source": "Monthly vocab;  u  "
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words"
   },
   {
     "word": "Tapestry",
@@ -48066,7 +48066,7 @@ export const vocabularyWords = [
       "punctuality"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Tardy",
@@ -48124,7 +48124,7 @@ export const vocabularyWords = [
     ],
     "antonyms": [],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Tartar",
@@ -48206,7 +48206,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "Tear into ,
+    "word": "Tear into Meaning",
     "type": "Word",
     "meaning": "To attack or criticize someone harshly",
     "synonyms": [],
@@ -48357,7 +48357,7 @@ export const vocabularyWords = [
       "Nauseating"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Tenacious",
@@ -48397,7 +48397,7 @@ export const vocabularyWords = [
       "Wavering"
     ],
     "example": "Her tenacious spirit helped her overcome all obstacles in her path to success.",
-    "source": "Monthly vocab;  u  ; RedBook OWS"
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words; RedBook OWS"
   },
   {
     "word": "Tenacity",
@@ -48411,7 +48411,7 @@ export const vocabularyWords = [
       "irresoluteness"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Tendentious",
@@ -48443,7 +48443,7 @@ export const vocabularyWords = [
     "antonyms": [
       "bright",
       "radiant",
-      "luminous  The cave was tenebrous",
+      "luminous Sentence: The cave was tenebrous",
       "lit only by a faint torch",
       "clear",
       "luminous"
@@ -48501,7 +48501,7 @@ export const vocabularyWords = [
     "antonyms": [
       "confront",
       "persist",
-      "commit  The politician tergiversated when pressed on the issue"
+      "commit Sentence: The politician tergiversated when pressed on the issue"
     ],
     "example": "",
     "source": "Monthly vocab"
@@ -48555,7 +48555,7 @@ export const vocabularyWords = [
       "Pleasing"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Terse",
@@ -48605,7 +48605,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "That ship has sailed ,
+    "word": "That ship has sailed Meaning",
     "type": "Word",
     "meaning": "it is too late to do something",
     "synonyms": [],
@@ -48614,7 +48614,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "The ball is in your court ,
+    "word": "The ball is in your court Meaning",
     "type": "Word",
     "meaning": "It is now your turn to take action or make a decision",
     "synonyms": [],
@@ -48623,7 +48623,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "The big time ,
+    "word": "The big time Meaning",
     "type": "Word",
     "meaning": "the state of being famous or successful",
     "synonyms": [],
@@ -48632,7 +48632,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "The bottom falls out ,
+    "word": "The bottom falls out Meaning",
     "type": "Word",
     "meaning": "used to refer to the sudden collapse or failure of something",
     "synonyms": [],
@@ -48641,7 +48641,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "The cutting edge ,
+    "word": "The cutting edge Meaning",
     "type": "Word",
     "meaning": "the most recent stage in the development of something",
     "synonyms": [],
@@ -48650,7 +48650,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "The early bird catches the worm ,
+    "word": "The early bird catches the worm Meaning",
     "type": "Word",
     "meaning": "The person who takes the earliest action gets the best results",
     "synonyms": [],
@@ -48659,7 +48659,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "The elephant in the room ,
+    "word": "The elephant in the room Meaning",
     "type": "Word",
     "meaning": "A major issue or problem that everyone is avoiding or ignoring",
     "synonyms": [],
@@ -48668,7 +48668,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "The last straw ,
+    "word": "The last straw Meaning",
     "type": "Word",
     "meaning": "the last in a series of unpleasant events",
     "synonyms": [],
@@ -48677,7 +48677,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "The lion’s share ,
+    "word": "The lion’s share Meaning",
     "type": "Word",
     "meaning": "the largest part of something",
     "synonyms": [],
@@ -48686,7 +48686,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "The time is ripe ,
+    "word": "The time is ripe Meaning",
     "type": "Word",
     "meaning": "a suitable time has arrived",
     "synonyms": [],
@@ -48695,7 +48695,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "The tip of the iceberg ,
+    "word": "The tip of the iceberg Meaning",
     "type": "Word",
     "meaning": "it is one small part of a much larger problem",
     "synonyms": [],
@@ -48767,7 +48767,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "There's no such thing as a free lunch ,
+    "word": "There's no such thing as a free lunch Meaning",
     "type": "Word",
     "meaning": "nothing is truly free",
     "synonyms": [],
@@ -48785,7 +48785,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "Thick in the head ,
+    "word": "Thick in the head Meaning",
     "type": "Word",
     "meaning": "someone is stupid or lacks the ability to absorb ideas easily",
     "synonyms": [],
@@ -48794,7 +48794,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Thinking on one's feet ,
+    "word": "Thinking on one's feet Meaning",
     "type": "Word",
     "meaning": "to be able to react quickly and effectively to unexpected situations or problems",
     "synonyms": [],
@@ -48803,9 +48803,9 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Thinking outside the box ,
+    "word": "Thinking outside the box Meaning",
     "type": "Word",
-    "meaning": "to think differently  ",
+    "meaning": "to think differently Follow us on https:; www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal ; t.me/NimishaMam",
     "synonyms": [],
     "antonyms": [],
     "example": "",
@@ -48860,7 +48860,7 @@ export const vocabularyWords = [
       "failed",
       "withered"
     ],
-    "example": "The business thrived despite the   economic downturn.",
+    "example": "The business thrived despite the Follow us on https://www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal //t.me/NimishaMam economic downturn.",
     "source": "Monthly vocab"
   },
   {
@@ -48881,7 +48881,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Through thick and thin ,
+    "word": "Through thick and thin Meaning",
     "type": "Word",
     "meaning": "through difficult times and situations",
     "synonyms": [],
@@ -48890,7 +48890,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Throw caution to the wind ,
+    "word": "Throw caution to the wind Meaning",
     "type": "Word",
     "meaning": "to do something without worrying about the risk or negative results",
     "synonyms": [],
@@ -48899,7 +48899,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Throw in the towel ,
+    "word": "Throw in the towel Meaning",
     "type": "Word",
     "meaning": "To give up or admit defeat",
     "synonyms": [],
@@ -48908,7 +48908,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Thumb one's nose ,
+    "word": "Thumb one's nose Meaning",
     "type": "Word",
     "meaning": "A gesture of disrespect",
     "synonyms": [],
@@ -48917,7 +48917,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Thumbing one's nose ,
+    "word": "Thumbing one's nose Meaning",
     "type": "Word",
     "meaning": "to show contempt, disrespect towards someone",
     "synonyms": [],
@@ -48956,7 +48956,7 @@ export const vocabularyWords = [
       "Help"
     ],
     "example": "India must establish safeguards to thwart the risk of AI worsening social inequality.",
-    "source": "Monthly vocab;  u  "
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words"
   },
   {
     "word": "Thwarted",
@@ -48976,7 +48976,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Tide over ,
+    "word": "Tide over Meaning",
     "type": "Word",
     "meaning": "To help someone get through a difficult period, often with temporary support",
     "synonyms": [],
@@ -48985,7 +48985,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Tie the knot ,
+    "word": "Tie the knot Meaning",
     "type": "Word",
     "meaning": "get married",
     "synonyms": [],
@@ -48994,9 +48994,9 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Time is money ,
+    "word": "Time is money Meaning",
     "type": "Word",
-    "meaning": "time is a valuable resource, therefore it's better to do things as quickly as possible  ",
+    "meaning": "time is a valuable resource, therefore it's better to do things as quickly as possible Follow us on https:; www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal ; t.me/NimishaMam",
     "synonyms": [],
     "antonyms": [],
     "example": "",
@@ -49040,7 +49040,7 @@ export const vocabularyWords = [
     "antonyms": [
       "Bold",
       "Brave",
-      "Confident  The timorous boy hesitated to speak in public"
+      "Confident Sentence: The timorous boy hesitated to speak in public"
     ],
     "example": "",
     "source": "Monthly vocab"
@@ -49087,7 +49087,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "Tip over ,
+    "word": "Tip over Meaning",
     "type": "Word",
     "meaning": "Spill, make something fall on its side",
     "synonyms": [],
@@ -49141,16 +49141,16 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "To be off base ,
+    "word": "To be off base Meaning",
     "type": "Word",
-    "meaning": "not being in agreement with what is true   (MAY MONTH 2025)",
+    "meaning": "not being in agreement with what is true Follow us on https:; www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal ; t.me/NimishaMam (MAY MONTH 2025)",
     "synonyms": [],
     "antonyms": [],
     "example": "",
     "source": "Monthly vocab"
   },
   {
-    "word": "To bell the cat ,
+    "word": "To bell the cat Meaning",
     "type": "Word",
     "meaning": "to attempt, or agree to perform, an impossibly difficult task",
     "synonyms": [],
@@ -49159,7 +49159,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "To toe the line ,
+    "word": "To toe the line Meaning",
     "type": "Word",
     "meaning": "to accept the authority or policies of a particular group, especially unwillingly",
     "synonyms": [],
@@ -49177,7 +49177,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "Top off ,
+    "word": "Top off Meaning",
     "type": "Word",
     "meaning": "To complete or finish something by adding a final touch",
     "synonyms": [],
@@ -49197,7 +49197,7 @@ export const vocabularyWords = [
       "pleasure"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Torrent",
@@ -49227,7 +49227,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "Touch on ,
+    "word": "Touch on Meaning",
     "type": "Word",
     "meaning": "to speak briefly about something",
     "synonyms": [],
@@ -49360,7 +49360,7 @@ export const vocabularyWords = [
       "chaos",
       "disturbance"
     ],
-    "example": "India insists that peace and   tranquillity at the border is essential for normal ties.",
+    "example": "India insists that peace and Follow us on https://www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal //t.me/NimishaMam tranquillity at the border is essential for normal ties.",
     "source": "Monthly vocab"
   },
   {
@@ -49604,7 +49604,7 @@ export const vocabularyWords = [
       "weak",
       "dull"
     ],
-    "example": "The lawyer’s trenchant arguments   impressed the jury.",
+    "example": "The lawyer’s trenchant arguments Follow us on https://www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal //t.me/NimishaMam impressed the jury.",
     "source": "Monthly vocab"
   },
   {
@@ -49652,7 +49652,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "Tricks of the trade ,
+    "word": "Tricks of the trade Meaning",
     "type": "Word",
     "meaning": "a quick or clever way of doing something",
     "synonyms": [],
@@ -49831,7 +49831,7 @@ export const vocabularyWords = [
       "Triumphed",
       "succeeded"
     ],
-    "example": "The opposition was trounced in the elections.  ",
+    "example": "The opposition was trounced in the elections. Follow us on https://www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal //t.me/NimishaMam",
     "source": "Monthly vocab"
   },
   {
@@ -49882,7 +49882,7 @@ export const vocabularyWords = [
     "antonyms": [
       "peaceful",
       "gentle",
-      "amiable  His truculent behavior scared the new recruits"
+      "amiable Sentence: His truculent behavior scared the new recruits"
     ],
     "example": "His truculent attitude made it difficult for anyone to work with him peacefully.",
     "source": "Monthly vocab; RedBook OWS"
@@ -49970,7 +49970,7 @@ export const vocabularyWords = [
       "peace"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Turmoil",
@@ -50011,10 +50011,10 @@ export const vocabularyWords = [
       "Peacefulness"
     ],
     "example": "The country was in political turmoil after the controversial election.",
-    "source": "Monthly vocab;  u  "
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words"
   },
   {
-    "word": "Turn a deaf ear ,
+    "word": "Turn a deaf ear Meaning",
     "type": "Word",
     "meaning": "to ignore someone when they complain or ask for something",
     "synonyms": [],
@@ -50023,7 +50023,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Turn down ,
+    "word": "Turn down Meaning",
     "type": "Word",
     "meaning": "reject something offered or proposed",
     "synonyms": [],
@@ -50032,7 +50032,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Turn in ,
+    "word": "Turn in Meaning",
     "type": "Word",
     "meaning": "To submit something (like a report or assignment); to go to bed",
     "synonyms": [],
@@ -50041,7 +50041,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Turn over ,
+    "word": "Turn over Meaning",
     "type": "Word",
     "meaning": "to give something or someone that you control to someone else",
     "synonyms": [],
@@ -50050,7 +50050,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Turn the tables on ,
+    "word": "Turn the tables on Meaning",
     "type": "Word",
     "meaning": "Reverse a situation to gain the upper hand",
     "synonyms": [],
@@ -50059,7 +50059,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Turn up ,
+    "word": "Turn up Meaning",
     "type": "Word",
     "meaning": "To appear or arrive unexpectedly or after being awaited",
     "synonyms": [],
@@ -50099,7 +50099,7 @@ export const vocabularyWords = [
   {
     "word": "Tussle",
     "type": "झगड़ा / खींचतान",
-    "meaning": "A vigorous struggle or fight.  ",
+    "meaning": "A vigorous struggle or fight. Follow us on https:; www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal ; t.me/NimishaMam",
     "synonyms": [
       "Struggle",
       "conflict",
@@ -50127,7 +50127,7 @@ export const vocabularyWords = [
       "ignorance",
       "abandonment"
     ],
-    "example": "The university fell under bureaucratic   tutelage, losing its freedom to shape academic policy.",
+    "example": "The university fell under bureaucratic Follow us on https://www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal //t.me/NimishaMam tutelage, losing its freedom to shape academic policy.",
     "source": "Monthly vocab; RedBook OWS"
   },
   {
@@ -50176,7 +50176,7 @@ export const vocabularyWords = [
       "Helper"
     ],
     "example": "The citizens eventually rose up to overthrow the cruel tyrant.",
-    "source": " u  ; RedBook OWS"
+    "source": "Padakuu 551 repeated SSC words; RedBook OWS"
   },
   {
     "word": "Tyro",
@@ -50208,7 +50208,7 @@ export const vocabularyWords = [
       "Occasional"
     ],
     "example": "Smartphones have become ubiquitous in modern society, with almost everyone owning one.",
-    "source": "Monthly vocab;  u  "
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words"
   },
   {
     "word": "Ubiquity",
@@ -50340,7 +50340,7 @@ export const vocabularyWords = [
       "Delicate"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Unbridled",
@@ -50374,7 +50374,7 @@ export const vocabularyWords = [
       "confined"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Unceremonious",
@@ -50411,7 +50411,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Under one's belt ,
+    "word": "Under one's belt Meaning",
     "type": "Word",
     "meaning": "To have achieved or experienced something that adds to one's knowledge or skills",
     "synonyms": [],
@@ -50420,7 +50420,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Under the table ,
+    "word": "Under the table Meaning",
     "type": "Word",
     "meaning": "concealed or by secret",
     "synonyms": [],
@@ -50440,7 +50440,7 @@ export const vocabularyWords = [
       "subordinate"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Undermine",
@@ -50697,7 +50697,7 @@ export const vocabularyWords = [
       "premeditated"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Unrelenting",
@@ -50765,7 +50765,7 @@ export const vocabularyWords = [
       "Poor"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Unscathed",
@@ -50878,7 +50878,7 @@ export const vocabularyWords = [
       "expected"
     ],
     "example": "The meeting was delayed due to some untoward circumstances.",
-    "source": "Monthly vocab;  u  "
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words"
   },
   {
     "word": "Unwarranted",
@@ -50951,7 +50951,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Up in arms ,
+    "word": "Up in arms Meaning",
     "type": "Word",
     "meaning": "being grumpy or angry about something",
     "synonyms": [],
@@ -50960,7 +50960,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Up in smoke ,
+    "word": "Up in smoke Meaning",
     "type": "Word",
     "meaning": "something that ends before getting a result",
     "synonyms": [],
@@ -50987,7 +50987,7 @@ export const vocabularyWords = [
       "calm"
     ],
     "example": "The unexpected Canadian elections caused an upheaval ahead of the summit.",
-    "source": "Monthly vocab;  u  "
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words"
   },
   {
     "word": "Upright",
@@ -51018,7 +51018,7 @@ export const vocabularyWords = [
       "Trecherous"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Uprising",
@@ -51045,12 +51045,12 @@ export const vocabularyWords = [
       "Staunchness"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Uproot",
     "type": "जड़ से उखाड़ना",
-    "meaning": "To pull something out of the ground or to remove someone from their home or   position",
+    "meaning": "To pull something out of the ground or to remove someone from their home or Follow us on https:; www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal ; t.me/NimishaMam position",
     "synonyms": [
       "Displace",
       "eradicate",
@@ -51111,7 +51111,7 @@ export const vocabularyWords = [
     "antonyms": [
       "uncouth",
       "rude",
-      "boorish  He impressed everyone with his urbane manners"
+      "boorish Sentence: He impressed everyone with his urbane manners"
     ],
     "example": "",
     "source": "Monthly vocab"
@@ -51239,7 +51239,7 @@ export const vocabularyWords = [
       "Limitedly"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Uxorious",
@@ -51253,7 +51253,7 @@ export const vocabularyWords = [
     "antonyms": [
       "Neglectful",
       "Indifferent",
-      "Unloving  His uxorious behavior often made his friends tease him"
+      "Unloving Sentence: His uxorious behavior often made his friends tease him"
     ],
     "example": "His friends teased him for being uxorious because he never went out without his wife's permission.",
     "source": "Monthly vocab; RedBook OWS"
@@ -51270,7 +51270,7 @@ export const vocabularyWords = [
     "antonyms": [
       "Decide",
       "Resolve",
-      "Determine  He continued to vacillate between two career options"
+      "Determine Sentence: He continued to vacillate between two career options"
     ],
     "example": "If you continue to vacillate, we will never make a decision on which car to buy.",
     "source": "Monthly vocab; RedBook OWS"
@@ -51401,7 +51401,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Variety is the spice of life ,
+    "word": "Variety is the spice of life Meaning",
     "type": "Word",
     "meaning": "New and exciting experiences make life more interesting",
     "synonyms": [],
@@ -51421,7 +51421,7 @@ export const vocabularyWords = [
       "agree"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Vaticide",
@@ -51530,7 +51530,7 @@ export const vocabularyWords = [
       "Mutely"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Veil",
@@ -51575,7 +51575,7 @@ export const vocabularyWords = [
       "Incorruptible",
       "Honest",
       "Ethical",
-      "ethical  The venal officer accepted bribes freely"
+      "ethical Sentence: The venal officer accepted bribes freely"
     ],
     "example": "The minister was accused of making venal decisions to benefit certain businesses.",
     "source": "Monthly vocab"
@@ -51601,7 +51601,7 @@ export const vocabularyWords = [
     "antonyms": [
       "Disrespected",
       "Dishonored",
-      "Ignoble  The venerable professor retired after 50 years of service"
+      "Ignoble Sentence: The venerable professor retired after 50 years of service"
     ],
     "example": "The venerable professor was invited to give the keynote address at the international conference.",
     "source": "Monthly vocab; RedBook OWS"
@@ -51697,13 +51697,13 @@ export const vocabularyWords = [
       "Falsehood",
       "dishonesty",
       "deceit",
-      "Deceit  The witness’s veracity was questioned during the trial",
+      "Deceit Sentence: The witness’s veracity was questioned during the trial",
       "Falsification: Lying: Trickery",
       "Artifice: Chicanery",
       "Sophistry"
     ],
     "example": "The journalist’s veracity was never questioned.",
-    "source": "Monthly vocab;  u  ; RedBook OWS"
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words; RedBook OWS"
   },
   {
     "word": "Verbiage",
@@ -51792,7 +51792,7 @@ export const vocabularyWords = [
       "Unlikeliness"
     ],
     "example": "",
-    "source": "Monthly vocab;  u  "
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words"
   },
   {
     "word": "Versatile",
@@ -51933,7 +51933,7 @@ export const vocabularyWords = [
       "impossible"
     ],
     "example": "They sought a viable business model before scaling the project.",
-    "source": "Monthly vocab;  u  "
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words"
   },
   {
     "word": "Vicarious",
@@ -51988,7 +51988,7 @@ export const vocabularyWords = [
       "Fastness"
     ],
     "example": "The vicissitudes of life test one’s resilience.",
-    "source": "Monthly vocab;  u  "
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words"
   },
   {
     "word": "Vicissitudinous",
@@ -52088,7 +52088,7 @@ export const vocabularyWords = [
       "commend"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Villain",
@@ -52113,11 +52113,11 @@ export const vocabularyWords = [
     "antonyms": [
       "Blame",
       "Condemn",
-      "Accuse  The new evidence helped vindicate the wrongly accused man",
+      "Accuse Sentence: The new evidence helped vindicate the wrongly accused man",
       "convict"
     ],
     "example": "The discovery of new evidence served to vindicate the wrongly accused man.",
-    "source": "Monthly vocab;  u  ; RedBook OWS"
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words; RedBook OWS"
   },
   {
     "word": "Vindictive",
@@ -52136,10 +52136,10 @@ export const vocabularyWords = [
       "merciful",
       "benevolent",
       "Kind",
-      "Merciful  Her vindictive attitude caused more harm than good"
+      "Merciful Sentence: Her vindictive attitude caused more harm than good"
     ],
     "example": "His vindictive nature made reconciliation impossible.",
-    "source": "Monthly vocab;  u  ; RedBook OWS"
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words; RedBook OWS"
   },
   {
     "word": "Virtue",
@@ -52185,7 +52185,7 @@ export const vocabularyWords = [
       "bad"
     ],
     "example": "The virtuous leader was admired for his honesty and integrity.",
-    "source": "Monthly vocab;  u  "
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words"
   },
   {
     "word": "Virtuous Cycle",
@@ -52234,7 +52234,7 @@ export const vocabularyWords = [
       "Moderate"
     ],
     "example": "The doctors were worried about the spread of a particularly virulent strain of the flu.",
-    "source": " u  ; RedBook OWS"
+    "source": "Padakuu 551 repeated SSC words; RedBook OWS"
   },
   {
     "word": "Visage",
@@ -52252,7 +52252,7 @@ export const vocabularyWords = [
     ],
     "antonyms": [],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Visionary",
@@ -52293,7 +52293,7 @@ export const vocabularyWords = [
       "Rectify"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Viticulture",
@@ -52317,7 +52317,7 @@ export const vocabularyWords = [
     "antonyms": [
       "flattering",
       "complimentary",
-      "kind  The critic’s vitriolic review ruined the play’s reputation",
+      "kind Sentence: The critic’s vitriolic review ruined the play’s reputation",
       "Kind",
       "Gentle"
     ],
@@ -52390,7 +52390,7 @@ export const vocabularyWords = [
       "listless",
       "lethargic"
     ],
-    "example": "Her vivacious personality lit up the room and uplifted everyone’s mood.  ",
+    "example": "Her vivacious personality lit up the room and uplifted everyone’s mood. Follow us on https://www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal //t.me/NimishaMam",
     "source": "Monthly vocab; RedBook OWS"
   },
   {
@@ -52405,7 +52405,7 @@ export const vocabularyWords = [
     "antonyms": [
       "Quiet",
       "Silent",
-      "Subdued  The vociferous crowd demanded justice"
+      "Subdued Sentence: The vociferous crowd demanded justice"
     ],
     "example": "",
     "source": "Monthly vocab"
@@ -52444,7 +52444,7 @@ export const vocabularyWords = [
       "constant"
     ],
     "example": "Markets remained volatile throughout the week.",
-    "source": "Monthly vocab;  u  ; RedBook OWS"
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words; RedBook OWS"
   },
   {
     "word": "Volition",
@@ -52525,7 +52525,7 @@ export const vocabularyWords = [
       "Modest"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Voracious",
@@ -52542,7 +52542,7 @@ export const vocabularyWords = [
       "quenched",
       "full",
       "Content",
-      "Full  He is a voracious reader who finishes a book every day"
+      "Full Sentence: He is a voracious reader who finishes a book every day"
     ],
     "example": "She had a voracious appetite for reading novels.",
     "source": "Monthly vocab; RedBook OWS"
@@ -52563,9 +52563,9 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Vote with one’s feet ,
+    "word": "Vote with one’s feet Meaning",
     "type": "Word",
-    "meaning": "to show disapproval  ",
+    "meaning": "to show disapproval Follow us on https:; www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal ; t.me/NimishaMam",
     "synonyms": [],
     "antonyms": [],
     "example": "",
@@ -52609,7 +52609,7 @@ export const vocabularyWords = [
       "Elegant"
     ],
     "example": "",
-    "source": " u  "
+    "source": "Padakuu 551 repeated SSC words"
   },
   {
     "word": "Vulnerability",
@@ -52648,7 +52648,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab; RedBook OWS"
   },
   {
-    "word": "Wade through ,
+    "word": "Wade through Meaning",
     "type": "Word",
     "meaning": "To deal with something in a slow, deliberate, and sometimes tedious manner, often referring to large amounts of information or work",
     "synonyms": [],
@@ -52683,7 +52683,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "Wag the dog ,
+    "word": "Wag the dog Meaning",
     "type": "Word",
     "meaning": "To change the topic from something that is more important to something that is not",
     "synonyms": [],
@@ -52719,7 +52719,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Walk on eggshells ,
+    "word": "Walk on eggshells Meaning",
     "type": "Word",
     "meaning": "To be very careful or delicate when dealing with a sensitive person or situation",
     "synonyms": [],
@@ -52778,7 +52778,7 @@ export const vocabularyWords = [
       "increase"
     ],
     "example": "Public interest in the campaign began to wane.",
-    "source": "Monthly vocab;  u  "
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words"
   },
   {
     "word": "Waning",
@@ -52798,7 +52798,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Waning ,
+    "word": "Waning Meaning",
     "type": "Word",
     "meaning": "Decreasing in strength, intensity, or importance. Hindi Meaning: घटता हुआ, कम होता हुआ",
     "synonyms": [
@@ -52853,7 +52853,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Water under the bridge ,
+    "word": "Water under the bridge Meaning",
     "type": "Word",
     "meaning": "something that happened in the past and cannot now be changed",
     "synonyms": [],
@@ -52906,7 +52906,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Wear your heart on your sleeve ,
+    "word": "Wear your heart on your sleeve Meaning",
     "type": "Word",
     "meaning": "to be extremely open about what you feel and think",
     "synonyms": [],
@@ -52924,7 +52924,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "Weed out ,
+    "word": "Weed out Meaning",
     "type": "Word",
     "meaning": "To remove or eliminate unwanted choices to leave the best ones",
     "synonyms": [],
@@ -52944,13 +52944,13 @@ export const vocabularyWords = [
     "antonyms": [
       "order",
       "clarity",
-      "organization  The report was lost in a welter of documents"
+      "organization Sentence: The report was lost in a welter of documents"
     ],
     "example": "",
     "source": "Monthly vocab"
   },
   {
-    "word": "Whale of a time ,
+    "word": "Whale of a time Meaning",
     "type": "Word",
     "meaning": "to have a great time or to enjoy yourself very much",
     "synonyms": [],
@@ -53028,7 +53028,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "White as a sheet ,
+    "word": "White as a sheet Meaning",
     "type": "Word",
     "meaning": "(of a person) very pale, especially from shock",
     "synonyms": [],
@@ -53048,7 +53048,7 @@ export const vocabularyWords = [
       "increase"
     ],
     "example": "The company had to whittle down its workforce due to the budget cuts.",
-    "source": " u  ; RedBook OWS"
+    "source": "Padakuu 551 repeated SSC words; RedBook OWS"
   },
   {
     "word": "Wholesaler",
@@ -53130,7 +53130,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Wimp out ,
+    "word": "Wimp out Meaning",
     "type": "Word",
     "meaning": "not be brave enough to do something",
     "synonyms": [],
@@ -53166,7 +53166,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Winnow down ,
+    "word": "Winnow down Meaning",
     "type": "Word",
     "meaning": "To gradually reduce a large number of choices to a smaller, better group",
     "synonyms": [],
@@ -53200,7 +53200,7 @@ export const vocabularyWords = [
       "Strengthen"
     ],
     "example": "Without innovation, even the best ideas wither.",
-    "source": "Monthly vocab;  u  "
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words"
   },
   {
     "word": "Wobbled",
@@ -53248,10 +53248,10 @@ export const vocabularyWords = [
       "happiness"
     ],
     "example": "The story of the lost sailors is full of woe and heartbreak.",
-    "source": " u  ; RedBook OWS"
+    "source": "Padakuu 551 repeated SSC words; RedBook OWS"
   },
   {
-    "word": "Works like a charm ,
+    "word": "Works like a charm Meaning",
     "type": "Word",
     "meaning": "Functions perfectly or produces the desired results effortlessly",
     "synonyms": [],
@@ -53279,7 +53279,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Worth its weight in gold ,
+    "word": "Worth its weight in gold Meaning",
     "type": "Word",
     "meaning": "something or someone is very useful, valuable, or important",
     "synonyms": [],
@@ -53314,7 +53314,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Wrap up ,
+    "word": "Wrap up Meaning",
     "type": "Word",
     "meaning": "To finish or complete something",
     "synonyms": [],
@@ -53323,7 +53323,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Wrap your head around something ,
+    "word": "Wrap your head around something Meaning",
     "type": "Word",
     "meaning": "to succeed in understanding something difficult",
     "synonyms": [],
@@ -53456,7 +53456,7 @@ export const vocabularyWords = [
     "antonyms": [
       "aversion",
       "dislike",
-      "indifference  He had a yen for adventure in foreign lands"
+      "indifference Sentence: He had a yen for adventure in foreign lands"
     ],
     "example": "",
     "source": "Monthly vocab"
@@ -53475,7 +53475,7 @@ export const vocabularyWords = [
       "lazy",
       "indifferent"
     ],
-    "example": "The ECI has done yeoman work in increasing voter participation.  ",
+    "example": "The ECI has done yeoman work in increasing voter participation. Follow us on https://www.youtube.com/channel/UCnRI8GekLC4QPbbJfcuxwlQ English with Nimisha Bansal //t.me/NimishaMam",
     "source": "Monthly vocab"
   },
   {
@@ -53540,7 +53540,7 @@ export const vocabularyWords = [
       "Lukewarm"
     ],
     "example": "The team was zealous about winning.",
-    "source": "Monthly vocab;  u  "
+    "source": "Monthly vocab; Padakuu 551 repeated SSC words"
   },
   {
     "word": "Zeitgeist",
@@ -53554,7 +53554,7 @@ export const vocabularyWords = [
     "antonyms": [
       "timelessness",
       "permanence",
-      "changelessness  The music reflected the zeitgeist of the 1960s"
+      "changelessness Sentence: The music reflected the zeitgeist of the 1960s"
     ],
     "example": "",
     "source": "Monthly vocab"
@@ -53591,7 +53591,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Zero in on ,
+    "word": "Zero in on Meaning",
     "type": "Word",
     "meaning": "To focus on or choose a specific target or option",
     "synonyms": [],
@@ -53600,7 +53600,7 @@ export const vocabularyWords = [
     "source": "Monthly vocab"
   },
   {
-    "word": "Zip around ,
+    "word": "Zip around Meaning",
     "type": "Word",
     "meaning": "to move quickly from one place to another",
     "synonyms": [],
@@ -53618,7 +53618,7 @@ export const vocabularyWords = [
     "source": "RedBook OWS"
   },
   {
-    "word": "Zone out ,
+    "word": "Zone out Meaning",
     "type": "Word",
     "meaning": "fall asleep or lose concentration or consciousness",
     "synonyms": [],
@@ -54604,7 +54604,7 @@ export const oneWordSubstitutions = [
   {
     "word": "Antonym",
     "type": "Noun",
-    "meaning": "Words which are opposite in ,
+    "meaning": "Words which are opposite in meaning",
     "synonyms": [],
     "antonyms": [],
     "example": "'Hot' is the antonym of 'cold'.",
@@ -55621,7 +55621,7 @@ export const oneWordSubstitutions = [
   {
     "word": "Bombastic",
     "type": "Adjective",
-    "meaning": "Using high-sounding words but with little ,
+    "meaning": "Using high-sounding words but with little meaning",
     "synonyms": [],
     "antonyms": [],
     "example": "His bombastic speech failed to impress the audience, who wanted actual facts.",
@@ -64792,7 +64792,7 @@ export const oneWordSubstitutions = [
   {
     "word": "Pedant",
     "type": "Noun",
-    "meaning": "A person who insists on adherence to formal rules or literary ,
+    "meaning": "A person who insists on adherence to formal rules or literary meaning",
     "synonyms": [],
     "antonyms": [],
     "example": "He is such a pedant that he corrected my grammar in the middle of our argument.",
@@ -73840,7 +73840,7 @@ export const idioms = [
   {
     "word": "Read between the lines",
     "type": "Idiom",
-    "meaning": "Understand hidden ,
+    "meaning": "Understand hidden meaning",
     "synonyms": [],
     "antonyms": [],
     "example": "",
@@ -75289,7 +75289,7 @@ export const idioms = [
   {
     "word": "To read between the lines",
     "type": "Idiom",
-    "meaning": "Understand the hidden or true ,
+    "meaning": "Understand the hidden or true meaning",
     "synonyms": [],
     "antonyms": [],
     "example": "",
