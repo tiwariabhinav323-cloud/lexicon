@@ -5,6 +5,7 @@ import {
   phrasalVerbs,
   oneWordSubstitutions,
 } from "./data/lexiconData";
+import { supabase } from "./supabase";
 
 const BAD_TEXT = [
   "youtube",
@@ -434,16 +435,27 @@ export default function App() {
     }
   };
 
-  const addMyWord = () => {
-    const word = newWord.trim();
-    if (!word) return;
+const addMyWord = async () => {
+  const word = newWord.trim();
 
-    setMyWords((prev) =>
-      prev.some((w) => normalize(w) === normalize(word)) ? prev : [...prev, word]
-    );
+  if (!word) return;
 
-    setNewWord("");
-  };
+  setMyWords((prev) =>
+    prev.some((w) => normalize(w) === normalize(word))
+      ? prev
+      : [...prev, word]
+  );
+
+  const { error } = await supabase
+    .from("word_vault")
+    .insert([{ word }]);
+
+  if (error) {
+    console.log(error);
+  }
+
+  setNewWord("");
+};
 
   const removeMyWord = (word) => {
     setMyWords((prev) => prev.filter((w) => w !== word));
