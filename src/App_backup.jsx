@@ -15,7 +15,7 @@ const BAD_TEXT = [
   "instagram",
   "twitter",
   "currentmudde",
-  "thepadaku",
+  "the ",
   "support@",
   "@noteshub",
   "noteshub",
@@ -33,8 +33,8 @@ const BAD_TEXT = [
   "https",
   "http",
   "t.me",
-  "nimisha",
-  "bansal",
+  " ",
+  " ",
 ];
 
 const normalize = (text = "") =>
