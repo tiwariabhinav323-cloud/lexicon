@@ -61,12 +61,19 @@ const isBadText = (text = "") => {
   return false;
 };
 
-const cleanMeaning = (meaning = "") =>
-  String(meaning)
+const cleanMeaning = (meaning = "") => {
+  const text = String(meaning)
     .replace(/\s+/g, " ")
     .replace(/^Definition:\s*/i, "")
     .replace(/,?\s*Definition:\s*/i, " — ")
     .trim();
+
+  if (/most repeated ssc pyq vocabulary word/i.test(text)) {
+    return "";
+  }
+
+  return text;
+};
 
 const splitInputWords = (text = "") =>
   String(text)
