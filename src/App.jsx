@@ -104,11 +104,34 @@ const uniqueWords = (arr = []) => {
     });
 };
 
-const getTodayKey = () => new Date().toISOString().slice(0, 10);
+const getIndiaDate = () => {
+  const now = new Date();
+  return new Date(now.toLocaleString("en-US", { timeZone: "Asia/Kolkata" }));
+};
+
+const getIndiaDayNumber = () => {
+  const indiaDate = getIndiaDate();
+  return Math.floor(
+    Date.UTC(
+      indiaDate.getFullYear(),
+      indiaDate.getMonth(),
+      indiaDate.getDate()
+    ) / 86400000
+  );
+};
+
+const getTodayKey = () => {
+  const indiaDate = getIndiaDate();
+  const year = indiaDate.getFullYear();
+  const month = String(indiaDate.getMonth() + 1).padStart(2, "0");
+  const day = String(indiaDate.getDate()).padStart(2, "0");
+  return `${year}-${month}-${day}`;
+};
 
 const getDailyItems = (items, count, multiplier = 1) => {
   if (!items?.length) return [];
-  const dayNumber = Math.floor(Date.now() / 86400000);
+
+  const dayNumber = getIndiaDayNumber();
   const startIndex = (dayNumber * multiplier) % items.length;
 
   return Array.from({ length: Math.min(count, items.length) }, (_, i) =>
@@ -154,7 +177,9 @@ export default function App() {
   const cleanItem = (item, fallbackType = "Word") => ({
   ...item,
   word: cleanWord(item?.word || ""),
-  type: item?.type || fallbackType,
+  type: /[^\x00-\x7F]/.test(String(item?.type || ""))
+    ? fallbackType
+    : item?.type || fallbackType,
   meaning: cleanMeaning(item?.meaning || ""),
   synonyms: uniqueWords(item?.synonyms || []),
   antonyms: uniqueWords(item?.antonyms || []),
@@ -485,17 +510,21 @@ const addMyWord = async () => {
     );
   };
 
-  const addWeak = (word) => {
-    setWeakWords((prev) =>
-      prev.some((w) => normalize(w) === normalize(word)) ? prev : [...prev, word]
-    );
-  };
+  const toggleWeak = (word) => {
+  setWeakWords((prev) =>
+    prev.some((w) => normalize(w) === normalize(word))
+      ? prev.filter((w) => normalize(w) !== normalize(word))
+      : [...prev, word]
+  );
+};
 
-  const addMastered = (word) => {
-    setMasteredWords((prev) =>
-      prev.some((w) => normalize(w) === normalize(word)) ? prev : [...prev, word]
-    );
-  };
+  const toggleMastered = (word) => {
+  setMasteredWords((prev) =>
+    prev.some((w) => normalize(w) === normalize(word))
+      ? prev.filter((w) => normalize(w) !== normalize(word))
+      : [...prev, word]
+  );
+};
 
   const randomItem = () => {
     if (!banks.cleanVocab.length) return;
@@ -580,6 +609,14 @@ const addMyWord = async () => {
   const showSynAnt = activeItem && isVocabularyType(activeItem);
   const custom = activeItem?.custom;
 
+  const isWeakActive =
+    activeItem &&
+    weakWords.some((w) => normalize(w) === normalize(activeItem.word));
+
+  const isMasteredActive =
+    activeItem &&
+    masteredWords.some((w) => normalize(w) === normalize(activeItem.word));
+
   return (
     <div className="min-h-screen bg-slate-950 text-slate-100 p-4 md:p-8 selection:bg-cyan-500/30">
       <header className="max-w-7xl mx-auto mb-8 border-b border-slate-800 pb-6 flex flex-col md:flex-row justify-between gap-4">
@@ -660,17 +697,25 @@ const addMyWord = async () => {
 
                 <div className="flex gap-2">
                   <button
-                    onClick={() => addWeak(activeItem.word)}
-                    className="bg-amber-600/20 border border-amber-600 text-amber-300 px-3 py-2 rounded-xl text-sm font-bold"
+                    onClick={() => toggleWeak(activeItem.word)}
+                    className={`px-3 py-2 rounded-xl text-sm font-bold border ${
+                      isWeakActive
+                        ? "bg-amber-400 text-slate-950 border-amber-300"
+                        : "bg-amber-600/20 border-amber-600 text-amber-300"
+                    }`}
                   >
-                    Hard
+                    {isWeakActive ? "Hard ✓" : "Hard"}
                   </button>
 
                   <button
-                    onClick={() => addMastered(activeItem.word)}
-                    className="bg-green-600/20 border border-green-600 text-green-300 px-3 py-2 rounded-xl text-sm font-bold"
+                    onClick={() => toggleMastered(activeItem.word)}
+                    className={`px-3 py-2 rounded-xl text-sm font-bold border ${
+                      isMasteredActive
+                        ? "bg-green-400 text-slate-950 border-green-300"
+                        : "bg-green-600/20 border-green-600 text-green-300"
+                    }`}
                   >
-                    Mastered
+                    {isMasteredActive ? "Mastered ✓" : "Mastered"}
                   </button>
                 </div>
               </div>
@@ -924,7 +969,7 @@ const addMyWord = async () => {
                   >
                     <div className="flex justify-between gap-2">
                       <div>
-                        <h4 className="font-bold text-white">{item.word}</h4>
+                        <h4 className="font-bold text-white">{cleanWord(item.word)}</h4>
 
                         <p className="text-xs text-slate-400 line-clamp-2">
                           {item.meaning}
@@ -1003,15 +1048,51 @@ const addMyWord = async () => {
             </div>
           </div>
 
-          <div className="grid grid-cols-2 gap-3">
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-1 gap-3">
             <div className="bg-slate-900/80 border border-amber-700/60 rounded-2xl p-4">
-              <p className="text-amber-300 font-bold">Hard</p>
-              <p className="text-2xl font-black">{weakWords.length}</p>
+              <div className="flex items-center justify-between gap-3">
+                <p className="text-amber-300 font-bold">Hard Words</p>
+                <p className="text-2xl font-black">{weakWords.length}</p>
+              </div>
+
+              <div className="mt-3 space-y-2 max-h-48 overflow-y-auto pr-1">
+                {weakWords.length === 0 ? (
+                  <p className="text-xs text-slate-500">No hard words yet.</p>
+                ) : (
+                  weakWords.map((word, index) => (
+                    <button
+                      key={index}
+                      onClick={() => searchItem(word)}
+                      className="block w-full text-left bg-slate-950 border border-slate-800 rounded-lg px-3 py-2 text-xs hover:text-amber-300"
+                    >
+                      {cleanWord(word)}
+                    </button>
+                  ))
+                )}
+              </div>
             </div>
 
             <div className="bg-slate-900/80 border border-green-700/60 rounded-2xl p-4">
-              <p className="text-green-300 font-bold">Mastered</p>
-              <p className="text-2xl font-black">{masteredWords.length}</p>
+              <div className="flex items-center justify-between gap-3">
+                <p className="text-green-300 font-bold">Mastered Words</p>
+                <p className="text-2xl font-black">{masteredWords.length}</p>
+              </div>
+
+              <div className="mt-3 space-y-2 max-h-48 overflow-y-auto pr-1">
+                {masteredWords.length === 0 ? (
+                  <p className="text-xs text-slate-500">No mastered words yet.</p>
+                ) : (
+                  masteredWords.map((word, index) => (
+                    <button
+                      key={index}
+                      onClick={() => searchItem(word)}
+                      className="block w-full text-left bg-slate-950 border border-slate-800 rounded-lg px-3 py-2 text-xs hover:text-green-300"
+                    >
+                      {cleanWord(word)}
+                    </button>
+                  ))
+                )}
+              </div>
             </div>
           </div>
         </aside>
